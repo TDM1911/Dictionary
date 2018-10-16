@@ -1,0 +1,1441 @@
+1-byte 	1-byte character ma ky tu 1 bai
+1-byte character code	1-byte character code (Tech) ma ky tu 1 bai
+1-byte character set	1-byte character set (Tech) bo ky tu 1 bai
+1-byte character string	1-byte character string (Tech) chuoi ky tu 1 bai
+1 to 1 relationship	1 to 1 relationship (Tech) quan he 1 doi 1
+1 to many relationship	1 to many relationship (Tech) quan he 1 doi nhieu
+2-way device	2-way device (Tech) thiet bi 2 chieu/thu phat
+2D configuration	2D configuration (Tech) cau hinh 2 chieu, cau hinh phang
+2D image	2D image (Tech) anh 2 chieu, anh phang
+2D module   two-dimensional module	2D module   two-dimensional module (Tech) mo dun hai chieu
+2D (two dimension)	2D (two dimension) (Tech) hai chieu, nhi thu nguyen, phang
+3D (three dimension)	3D (three dimension) (Tech) ba chieu, tam thu nguyen, noi
+3D (three dimension) calculation	3D (three dimension) calculation (Tech) tinh toan 3 chieu
+3D (three dimension) configuration	3D (three dimension) configuration (Tech) cau hinh 3 chieu, cau hinh noi
+3D (three dimension) image	3D (three dimension) image (Tech) anh 3 chieu, anh noi   stereoscopic image
+4th Generation Language (4GL)	4th Generation Language (4GL) (Tech) Ngon ngu The he Thu tu
+7-bit ASCII code	7-bit ASCII code (Tech) ma ASCII 7 bit
+7-bit ASCII code set	7-bit ASCII code set (Tech) bo ma ASCII 7 bit
+8-bit character	8-bit character (Tech) ky tu 8 bit
+8-bit character code	8-bit character code (Tech) ma ky tu 8 bit
+8-bit character set	8-bit character set (Tech) bo ky tu 8 bit
+8-bit character string	8-bit character string (Tech) chuoi ky tu 8 bit
+8-bit microcomputer	8-bit microcomputer (Tech) may vi dien toan 8 bit, may vi tinh 8 bit [TN]
+8-bit microprocessor	8-bit microprocessor (Tech) bo vi xu ly 8 bit
+8-bit personal computer	8-bit personal computer (Tech) may dien toan ca nhan 8 bit
+a	a c (vt cua account current) tai khoan vang lai (tuc la bang sec) co nghia giong nhu nghia cua account
+A A	aa (Alcoholics Anonymous) Hoi cai ruou (Automobile Association) Hoi o to
+A A A	aaa (Amateur Athletic Association) Hoi the thao khong chuyen (American Automobile Association) Hiep hoi xe hoi My
+a b c	a b c   danh tu bang chu cai khai niem co so, co so a_b_c of chemistry  khai niem co so ve hoa hoc, co so hoa hoc (nganh duong sat) bang chi duong theo abc
+a b c - book	a b c - book   danh tu sach vo long, sach hoc van
+a-bomb	a-bomb   danh tu bom nguyen tu
+A-D	A-D   A/D   a-d (analog-to-digital) (Tech) doi  dang song (dang tuong tu) sang dang so
+a.d.	a.d.   (viet tat) cua Ano Domin sau cong nguyen 1540 a.d.  nam 1540 sau cong nguyen
+a.d.c	a.d.c (vt cua aide-de-camp) su quan phu ta
+A-D conversion	A-D conversion (Tech) doi song (tuong tu) - so
+A-D converter circuit	A-D converter circuit (Tech) mach doi song-so
+A except B gate	A except B gate (Tech) cong A loai tru B
+a font	a font   pho tu thau triet, can ke, ro ngon nghanh
+a fortiori	a fortiori   pho tu huong ho, huong la a fortiori lai cang
+a-going	a-going   tinh tu &amp; pho tu dang chay, dang chuyen dong; dang hoat dong, dang tien hanh to set a-going  cho chuyen dong, cho chay (may...)
+A ignore B gate	A ignore B gate (Tech) cong A khong biet B
+A implies B gate	A implies B gate (Tech) cong A bao ham B
+a la carte	a la carte   pho tu theo mon, goi theo mon, dat theo mon to dine a_la_carte  an com goi theo mon
+a la mode	a la mode   pho tu hop thoi trang, dung mot
+a.m	a.m (vt)(radio)viet tat cua amplitude modulation) bien dieu bien do &lt;My&gt; (vt cua Master of Arts) cao hoc van chuong (vt cua tieng Latinh Antemeridian) sang, truoc ngo
+a.m.	a.m.   pho tu (xem) ante_meridiem
+a-ok	a-ok tinh tu &lt;My,khng&gt; giong nhu OK nhan manh
+a-pac-thai	a-pac-thai danh tu apartheid
+a-plenty	a-plenty   pho tu (tu My,nghia My) nhieu, doi dao, phong phu
+a-point	a-point (giai tich) a- diem
+a posteriori	a posteriori   pho tu &amp; tinh tu theo phep quy nap method a_posteriori  phuong phap quy nap hau nghiem probability a_posteriori  (toan hoc) xac suat hau nghiem a posteriori hau nghiem
+a-power	a-power   danh tu nang luong nguyen tu cuong quoc nguyen tu
+a priori	a priori   danh tu &amp; pho tu theo cach suy dien, theo cach dien dich tien nghiem probability a_priori  (toan hoc) xac xuat tien nghiem a priori tien nghiem
+a-road	a-road danh tu duong lon, khong quan trong bang xa lo, nhung rong va thang hon duong loai B
+a.s.a.p.	asap (viet tat) cang som cang tot (As soon as possible)
+A shares	A shares (Econ) Co phieu A.(Co phieu huong lai sau).  Xem FINANCIAL CAPITAL.
+a-side	a-side danh tu mat chinh cua dia hat
+A W O L	awol   tinh tu (quan su) nghi khong duoc phep, nghi khong xin phep
+A4-size	A4-size (Tech) kho giay A4 (21 cm x 29.7 cm)
+aa	aa (Alcoholics Anonymous) Hoi cai ruou (Automobile Association) Hoi o to
+aaa	aaa (Amateur Athletic Association) Hoi the thao khong chuyen (American Automobile Association) Hiep hoi xe hoi My
+aard-wolf	aard-wolf   danh tu (dong vat hoc) cho soi dat (Nam Phi)
+aardvark	aardvark danh tu (dong vat) lon dat
+aardvarks	aardvark danh tu (dong vat) lon dat
+aardwolf	aardwolf danh tu &lt;dong&gt; cho soi dat (Nam Phi)
+aardwolves	aardwolf danh tu &lt;dong&gt; cho soi dat (Nam Phi)
+aasvogel	aasvogel   danh tu (dong vat hoc) con ken ken (Nam Phi)
+ab	ab (vt cua able-bodied seaman) thuy thu hang nhat (vt cua Bachelor of Arts) Cu nhan van chuong
+aba	aba   danh tu ao aba (ao ngoai giong hinh cai tui nguoi A-Rap)
+abac, abacus	abac, abacus ban tinh, toan do, ban do tinh
+abaca	abaca danh tu vai det bang to chuoi abaca o philipin cay chuoi abaca
+abaci	abaci   danh tu,  so nhieu abaci,  abacuses ban tinh to move counters of an abacus; to work an abacus  tinh bang ban tinh, gay ban tinh (kien truc) dau cot, dinh cot abacus (Tech) ban toan
+abacist	abacist danh tu nguoi gay ban phim nguoi ke toan
+aback	aback   pho tu lui lai, tro lai phia sau to stand aback from  dung lui lai de tranh (hang hai) bi thoi ep vao cot buom (buom) to be taken aback  (hang hai) bi gio thoi ep vao cot buom (nghia bong) sung sot, ngac nhien to be taken aback by the news  sung sot vi cai tin do
+abacterial	abacterial tinh tu khong do vi khuan gay ra
+abaction	abaction danh tu (tu phap) viec gia suc bi bat trom
+abactus	abactus tinh tu bi truy thai
+abacus	abacus   danh tu,  so nhieu abaci,  abacuses ban tinh to move counters of an abacus; to work an abacus  tinh bang ban tinh, gay ban tinh (kien truc) dau cot, dinh cot abacus (Tech) ban toan
+abacuses	abacus   danh tu,  so nhieu abaci,  abacuses ban tinh to move counters of an abacus; to work an abacus  tinh bang ban tinh, gay ban tinh (kien truc) dau cot, dinh cot abacus (Tech) ban toan
+abaddon	abaddon   danh tu am ti, dia nguc con quy
+abaft	abaft   pho tu (hang hai) o phia sau banh lai, gan phia banh lai  gioi tu (hang hai) sau, o dang sau, o phia sau abaft the mast  sau cot buom
+abalienate	abalienate ngoai dong tu nhuong lai tai san
+abalienated	abalienate ngoai dong tu nhuong lai tai san
+abalienates	abalienate ngoai dong tu nhuong lai tai san
+abalienating	abalienate ngoai dong tu nhuong lai tai san
+abalienation	abalienation danh tu su nhuong lai tai san
+abalone	abalone   danh tu (tu My,nghia My) bao ngu
+abalones	abalone   danh tu (tu My,nghia My) bao ngu
+abampere	abampere (Tech) abampe, ampe tuyet doi (don vi cuong do tuyet doi cua dong dien, 1 abampe   10 ampe)
+abandon	abandon   ngoai dong tu bom (nhiep anh) (nhiep anh) (tu My,nghia My) tu bo; bo roi, ruong bo to abandon a hope  tu bo hy vong to abandon one's wife and children  ruong bo vo con to abandon oneself to  dam duoi, chim dam vao (noi that vong...)  danh tu su phong tung, su tu do, su buong tha with abandon  phong tung abandon (Tech) bo, bo roi (d)
+abandon call	abandon call (Tech) goi bo
+abandoned	abandoned   ngoai dong tu bom (nhiep anh) (nhiep anh) (tu My,nghia My) tu bo; bo roi, ruong bo to abandon a hope  tu bo hy vong to abandon one's wife and children  ruong bo vo con to abandon oneself to  dam duoi, chim dam vao (noi that vong...)  danh tu su phong tung, su tu do, su buong tha with abandon  phong tung abandon (Tech) bo, bo roi (d)
+abandoner	abandoner   danh tu (phap ly) nguoi rut don
+abandoners	abandoner   danh tu (phap ly) nguoi rut don
+abandoning	abandon   ngoai dong tu bom (nhiep anh) (nhiep anh) (tu My,nghia My) tu bo; bo roi, ruong bo to abandon a hope  tu bo hy vong to abandon one's wife and children  ruong bo vo con to abandon oneself to  dam duoi, chim dam vao (noi that vong...)  danh tu su phong tung, su tu do, su buong tha with abandon  phong tung abandon (Tech) bo, bo roi (d)
+abandonment	abandonment   danh tu su bo, su tu bo, su bo roi, su ruong bo tinh trang bi bo roi, tinh trang bi ruong bo su phong tung, su tu do, su buong tha abandonment (Tech) bo, tu bo (d)
+abandonments	abandonment   danh tu su bo, su tu bo, su bo roi, su ruong bo tinh trang bi bo roi, tinh trang bi ruong bo su phong tung, su tu do, su buong tha abandonment (Tech) bo, tu bo (d)
+abandons	abandon   ngoai dong tu bom (nhiep anh) (nhiep anh) (tu My,nghia My) tu bo; bo roi, ruong bo to abandon a hope  tu bo hy vong to abandon one's wife and children  ruong bo vo con to abandon oneself to  dam duoi, chim dam vao (noi that vong...)  danh tu su phong tung, su tu do, su buong tha with abandon  phong tung abandon (Tech) bo, bo roi (d)
+abapikal	abapikal tinh tu (sinh hoc) xa dinh; xa ngon duoi vuc
+abarticular	abarticular tinh tu (giai phau) hoc ngoai khop; trat khop
+abas	aba   danh tu ao aba (ao ngoai giong hinh cai tui nguoi A-Rap)
+abase	abase   ngoai dong tu lam ha pham gia, lam mat the dien, lam nhuc to abase one-self  tu ha minh
+abased	abase   ngoai dong tu lam ha pham gia, lam mat the dien, lam nhuc to abase one-self  tu ha minh
+abasement	abasement   danh tu su lam ha pham gia, su lam mat the dien, su lam nhuc
+abasements	abasement   danh tu su lam ha pham gia, su lam mat the dien, su lam nhuc
+abases	abase   ngoai dong tu lam ha pham gia, lam mat the dien, lam nhuc to abase one-self  tu ha minh
+abash	abash   ngoai dong tu lam boi roi, lam lung tung, lam luong cuong
+abashed	abashed tinh tu boi roi, xau hoabash   ngoai dong tu lam boi roi, lam lung tung, lam luong cuong
+abashes	abash   ngoai dong tu lam boi roi, lam lung tung, lam luong cuong
+abashing	abash   ngoai dong tu lam boi roi, lam lung tung, lam luong cuong
+abashment	abashment   danh tu su boi roi, su lung tung, su luong cuong
+abashments	abashment   danh tu su boi roi, su lung tung, su luong cuong
+abasing	abase   ngoai dong tu lam ha pham gia, lam mat the dien, lam nhuc to abase one-self  tu ha minh
+abask	abask   pho tu (tho ca) duoi anh nang, duoi anh mat troi, trong anh lua am
+abatable	abatable   tinh tu co the lam diu, co the lam yeu di, co the giam bot co the ha, co the bot co the lam nhut co the cham dut, co the thanh tru (phap ly) co the huy bo, co the thu tieu
+abate	abate   ngoai dong tu lam diu di, lam yeu di, lam giam bot to abate a pain  lam diu dau ha (gia), bot (gia) lam nhut (nhut khi...) lam cun (luoi dao...) thanh toan, lam mat het (nhung dieu kho chiu, buc boi) (phap ly) huy bo, thu tieu (ky thuat) ram (thep)  noi dong tu diu di, yeu di, nhut di, do, bot, ngot paint abates  con dau diu di storm abates  con bao ngot
+abated	abate   ngoai dong tu lam diu di, lam yeu di, lam giam bot to abate a pain  lam diu dau ha (gia), bot (gia) lam nhut (nhut khi...) lam cun (luoi dao...) thanh toan, lam mat het (nhung dieu kho chiu, buc boi) (phap ly) huy bo, thu tieu (ky thuat) ram (thep)  noi dong tu diu di, yeu di, nhut di, do, bot, ngot paint abates  con dau diu di storm abates  con bao ngot
+abatement	abatement   danh tu su diu di, su yeu di, su nhut di, su giam bot, su do, su ngot su ha (gia), su bot (gia) su cham dut, su thanh toan (phap ly) su huy bo, su thu tieu abatement of a contract  su huy bo mot hop dong
+Abatement cost	Abatement cost (Econ) Chi phi kiem soat; chi phi chong (o nhiem)  Chi phi lam giam su kho chiu nhu o nhiem hay tac duong.
+abatements	abatement   danh tu su diu di, su yeu di, su nhut di, su giam bot, su do, su ngot su ha (gia), su bot (gia) su cham dut, su thanh toan (phap ly) su huy bo, su thu tieu abatement of a contract  su huy bo mot hop dong
+abater	abater danh tu nguoi giam bot (y hoc) thuoc lam diu
+abates	abate   ngoai dong tu lam diu di, lam yeu di, lam giam bot to abate a pain  lam diu dau ha (gia), bot (gia) lam nhut (nhut khi...) lam cun (luoi dao...) thanh toan, lam mat het (nhung dieu kho chiu, buc boi) (phap ly) huy bo, thu tieu (ky thuat) ram (thep)  noi dong tu diu di, yeu di, nhut di, do, bot, ngot paint abates  con dau diu di storm abates  con bao ngot
+abating	abate   ngoai dong tu lam diu di, lam yeu di, lam giam bot to abate a pain  lam diu dau ha (gia), bot (gia) lam nhut (nhut khi...) lam cun (luoi dao...) thanh toan, lam mat het (nhung dieu kho chiu, buc boi) (phap ly) huy bo, thu tieu (ky thuat) ram (thep)  noi dong tu diu di, yeu di, nhut di, do, bot, ngot paint abates  con dau diu di storm abates  con bao ngot
+abatis	abatis   danh tu,  so nhieu abatis (quan su) dong cay chuong ngai, dong cay can
+abatised	abatised   tinh tu (quan su) co dong cay chuong ngai, co dong cay can
+abatises	abatis   danh tu,  so nhieu abatis (quan su) dong cay chuong ngai, dong cay can
+abattoir	abattoir   danh tu lo mo, lo sat sinh
+abattoirs	abattoir   danh tu lo mo, lo sat sinh
+abaxial	abaxial tinh tu o ngoai truc, xa truc
+abaya	abaya danh tu ao aba (cua nguoi A Rap)
+abb	abb   danh tu (nghanh det) soi canh, soi kho (cua tam vai)
+abbacies	abbacy   danh tu chuc vi truong tu vien; quyen han truong tu vien
+abbacy	abbacy   danh tu chuc vi truong tu vien; quyen han truong tu vien
+abbatial	abbatial   tinh tu (thuoc) truong tu vien
+abbess	abbess   danh tu cha truong tu vien
+abbesses	abbess   danh tu cha truong tu vien
+abbey	abbey   danh tu tu vien gioi tu si, cac nha tu, cac ba xo nha tho (lon)
+abbeys	abbey   danh tu tu vien gioi tu si, cac nha tu, cac ba xo nha tho (lon)
+abbo	abbo danh tu so nhieu abos,  abbos nguoi tho dan; dan cu tru dau tien tai dia phuong
+abbot	abbot   danh tu cha truong tu vien
+abbots	abbot   danh tu cha truong tu vien
+abbr	abbr (vt cua abbreviated, abbreviation) viet tat, chu viet tat
+abbreviate	abbreviate   ngoai dong tu tom tat, viet tat; rut ngan lai (cuoc di tham...) (toan hoc) uoc luoc, rut gon  tinh tu tuong doi ngan abbreviate (Tech) rut gon; viet tat abbreviate viet gon, viet tat
+abbreviated	abbreviated   ngoai dong tu tom tat, viet tat; rut ngan lai (cuoc di tham...) (toan hoc) uoc luoc, rut gon  tinh tu tuong doi ngan abbreviate (Tech) rut gon; viet tat abbreviate viet gon, viet tat
+abbreviated address	abbreviated address (Tech) dia chi rut gon
+abbreviates	abbreviate   ngoai dong tu tom tat, viet tat; rut ngan lai (cuoc di tham...) (toan hoc) uoc luoc, rut gon  tinh tu tuong doi ngan abbreviate (Tech) rut gon; viet tat abbreviate viet gon, viet tat
+abbreviating	abbreviate   ngoai dong tu tom tat, viet tat; rut ngan lai (cuoc di tham...) (toan hoc) uoc luoc, rut gon  tinh tu tuong doi ngan abbreviate (Tech) rut gon; viet tat abbreviate viet gon, viet tat
+abbreviation	abbreviation   danh tu su tom tat, su rut ngan (cuoc di tham...) bai tom tat chu viet tat Jan is the abbreviation January  Jan la chu viet tat cua January (toan hoc) su uoc luoc, su rut gon abbreviation (Tech) su tom tat; chu viet tat abbreviation su viet gon, su viet tat
+abbreviations	abbreviation   danh tu su tom tat, su rut ngan (cuoc di tham...) bai tom tat chu viet tat Jan is the abbreviation January  Jan la chu viet tat cua January (toan hoc) su uoc luoc, su rut gon abbreviation (Tech) su tom tat; chu viet tat abbreviation su viet gon, su viet tat
+abbreviator	abbreviator   danh tu nguoi tom tat
+abbreviators	abbreviator   danh tu nguoi tom tat
+abc	abc danh tu bang chu cai khai niem co so, co so &lt;dsat&gt; bang chi duong theo ABC danh tu (vt cua American Broadcasting Company) Cong ty phat thanh truyen hinh My (vt cua Australian Broadcasting Commission) Uy ban phat thanh truyen hinh Uc Dai Loi
+abc-book	abc-book danh tu sach vo long, sach hoc van
+abcauline	abcauline tinh tu (sinh hoc) ngoai than, xa than
+abdicable	abdicable xem abdicate
+abdicant	abdicant   danh tu nguoi tu bo nguoi thoai vi
+abdicants	abdicant   danh tu nguoi tu bo nguoi thoai vi
+abdicate	abdicate   ngoai dong tu tu bo (quyen loi, dia vi...) to abdicate a position  tu bo mot dia vi to abdicate all one's rights  tu bo moi quyen loi  noi dong tu thoai vi, tu ngoi
+abdicated	abdicate   ngoai dong tu tu bo (quyen loi, dia vi...) to abdicate a position  tu bo mot dia vi to abdicate all one's rights  tu bo moi quyen loi  noi dong tu thoai vi, tu ngoi
+abdicates	abdicate   ngoai dong tu tu bo (quyen loi, dia vi...) to abdicate a position  tu bo mot dia vi to abdicate all one's rights  tu bo moi quyen loi  noi dong tu thoai vi, tu ngoi
+abdicating	abdicate   ngoai dong tu tu bo (quyen loi, dia vi...) to abdicate a position  tu bo mot dia vi to abdicate all one's rights  tu bo moi quyen loi  noi dong tu thoai vi, tu ngoi
+abdication	abdication   danh tu su thoai vi, su tu ngoi su tu bo (dia vi, chuc vu, quyen loi...)
+abdications	abdication   danh tu su thoai vi, su tu ngoi su tu bo (dia vi, chuc vu, quyen loi...)
+abdicator	abdicator   danh tu nguoi tu bo nguoi thoai vi
+abdicators	abdicator   danh tu nguoi tu bo nguoi thoai vi
+abdomen	abdomen   danh tu bung
+abdomens	abdomen   danh tu bung
+abdominal	abdominal   tinh tu (thuoc) bung; o bung an abdominal operation  phau thuat o bung abdominal cavity  khoang bung
+abdominally	abdominally pho tu (thuoc) bung; o bung
+abdominous	abdominous   tinh tu phe bung
+abducens	abducens danh tu day than kinh nao VI ra ngoai
+abducent	abducent   tinh tu (giai phau) re ra, giang ra
+abducentes	abducens danh tu day than kinh nao VI ra ngoai
+abduct	abduct   ngoai dong tu bat coc, cuom di, lua dem di (nguoi dan ba...) (giai phau) re ra, giang ra
+abducted	abduct   ngoai dong tu bat coc, cuom di, lua dem di (nguoi dan ba...) (giai phau) re ra, giang ra
+abducting	abduct   ngoai dong tu bat coc, cuom di, lua dem di (nguoi dan ba...) (giai phau) re ra, giang ra
+abduction	abduction   danh tu su bat coc (tre em...), su bat di, su cuom di, su lua dem di (giai phau) su giang ra
+abductions	abduction   danh tu su bat coc (tre em...), su bat di, su cuom di, su lua dem di (giai phau) su giang ra
+abductor	abductor   danh tu nguoi bat coc, nguoi cuom di, nguoi lua dem di (giai phau) co giang ((cung) abductor muscle)
+abductors	abductor   danh tu nguoi bat coc, nguoi cuom di, nguoi lua dem di (giai phau) co giang ((cung) abductor muscle)
+abducts	abduct   ngoai dong tu bat coc, cuom di, lua dem di (nguoi dan ba...) (giai phau) re ra, giang ra
+abeam	abeam   pho tu (hang hai),  (hang khong) dam ngang suon abeam of us  ngang suon chung toi; song ngang voi chung toi
+abearance	abearance danh tu pham hanh  good abearance pham hanh tot
+abecedarian	abecedarian   tinh tu sap xep theo thu tu abc so dang dot nat  danh tu (tu My,nghia My) hoc sinh vo long
+abecedarians	abecedarian   tinh tu sap xep theo thu tu abc so dang dot nat  danh tu (tu My,nghia My) hoc sinh vo long
+abecedaries	abecedaries danh tu sach vo long; sach van dieu so bo; dieu so dang
+abed	abed   pho tu o tren giuong to lie abed  nam o tren giuong
+abele	abele   danh tu (thuc vat hoc) cay bach duong
+abelmosk	abelmosk   danh tu (thuc vat hoc) cay vong vang
+abend (abnormal ending)	abend (abnormal ending) (Tech) ket thuc/cham dut bat thuong
+abenteric	abenteric tinh tu (giai phau) hoc ngoai ruot, xa ruot
+aberrance	aberrance   danh tu su lam lac (sinh vat hoc) su khac thuong
+aberrances	aberrance   danh tu su lam lac (sinh vat hoc) su khac thuong
+aberrancies	aberrancy   danh tu su lam lac (sinh vat hoc) su khac thuong
+aberrancy	aberrancy   danh tu su lam lac (sinh vat hoc) su khac thuong
+aberrant	aberrant   tinh tu lam lac (sinh vat hoc) khac thuong
+aberrantly	aberrantly xem aberrant
+aberration	aberration   danh tu su lam lac; phut lam lac su kem tri khon, su loan tri su khac thuong (vat ly) quang sai lateral aberration  quang sai ngang (thien van hoc) tinh sai secular aberration  tinh sai truong ky annual aberration  tinh sai hang nam aberration (Tech) quang sai aberration (vat li) quang sai
+aberrations	aberration   danh tu su lam lac; phut lam lac su kem tri khon, su loan tri su khac thuong (vat ly) quang sai lateral aberration  quang sai ngang (thien van hoc) tinh sai secular aberration  tinh sai truong ky annual aberration  tinh sai hang nam aberration (Tech) quang sai aberration (vat li) quang sai
+abet	abet   ngoai dong tu xui bay, xui giuc, khich tiep tay (ai lam bay)
+abetment	abetment   danh tu su xui bay, su xui giuc, su khich su tiep tay
+abets	abet   ngoai dong tu xui bay, xui giuc, khich tiep tay (ai lam bay)
+abettal	abettal   danh tu su xui bay, su xui giuc, su khich su tiep tay
+abette	abette   danh tu ke xui giuc ke tiep tay
+abetted	abet   ngoai dong tu xui bay, xui giuc, khich tiep tay (ai lam bay)
+abetter	abetter danh tu ke xui giuc ke tiep tay
+abetters	abetter danh tu ke xui giuc ke tiep tay
+abetting	abet   ngoai dong tu xui bay, xui giuc, khich tiep tay (ai lam bay)
+abettor	abettor   danh tu ke xui giuc ke tiep tay
+abettors	abettor   danh tu ke xui giuc ke tiep tay
+abeyance	abeyance   danh tu su dong lai work in abeyance  cong viec con dong lai su dinh chi, su hoan lai, su tam thoi khong ap dung (dao luat...) to be in abeyance; to fall into abeyance  bi dinh chi, bi hoan lai, tam thoi khong duoc ap dung (phap ly) tinh trang tam thoi khong co nguoi nhan; tinh trang tam thoi vo chu lands in abeyance  dat vo thua nhan, dat vo chu tinh trang trong, tinh trang khuyet (mot chuc vi)
+abeyances	abeyance   danh tu su dong lai work in abeyance  cong viec con dong lai su dinh chi, su hoan lai, su tam thoi khong ap dung (dao luat...) to be in abeyance; to fall into abeyance  bi dinh chi, bi hoan lai, tam thoi khong duoc ap dung (phap ly) tinh trang tam thoi khong co nguoi nhan; tinh trang tam thoi vo chu lands in abeyance  dat vo thua nhan, dat vo chu tinh trang trong, tinh trang khuyet (mot chuc vi)
+abeyant	abeyant   tinh tu tam thoi dinh chi, tam nghi hoat dong
+abhor	abhor   ngoai dong tu ghe tom; ghet cay ghet dang
+abhorred	abhor   ngoai dong tu ghe tom; ghet cay ghet dang
+abhorrence	abhorrence   danh tu su ghe tom to have an abhorrence of  su ghet cay ghet dang to hold in abhorrence of  ghe tom; ghet cay ghet dang dieu ghe tom; cai bi ghet cay ghet dang
+abhorrences	abhorrence   danh tu su ghe tom to have an abhorrence of  su ghet cay ghet dang to hold in abhorrence of  ghe tom; ghet cay ghet dang dieu ghe tom; cai bi ghet cay ghet dang
+abhorrent	abhorrent   tinh tu ghe tom, dang ghet to be abhorrent to someone  ghe tom doi voi ai, bi ai ghe tom, bi ai ghet cay ghet dang (  from) trai voi, mau thuan voi, khong hop voi conduct abhorrent from principles  tu cach mau thuan voi phep tac (tu co,nghia co) (  of) ghe tom, ghet cay ghet dang to be abhorrent of something  ghe tom cai gi, ghet cay ghet dang cai gi
+abhorrently	abhorrently xem abhorrent
+abhorrer	abhorrer xem abhor
+abhorrers	abhorrer xem abhor
+abhorring	abhor   ngoai dong tu ghe tom; ghet cay ghet dang
+abhors	abhor   ngoai dong tu ghe tom; ghet cay ghet dang
+abidance	abidance   danh tu su ton trong, su tuan theo, su thi hanh dung abidance by rules  su ton trong luat le, su tuan theo luat le (  in) su ton tai; su keo dai
+abide	abide   noi dong tu (abode; abode,  abide) ton tai; keo dai this mistake will not abide for ever  sai lam nay se khong the keo dai mai duoc (  by) ton trong, giu, tuan theo, chiu theo; trung thanh voi to abide by one's friend  trung thanh voi ban (tu co,nghia co) o, ngu tai to abide with somebody  o voi ai  ngoai dong tu cho, cho doi to abide one's time  cho thoi co chiu dung, chiu we can't abide his fits of temper  chung toi khong the chiu duoc nhung con nong gian cua han chong do duoc (cuoc tan cong)
+abided	abide   noi dong tu (abode; abode,  abide) ton tai; keo dai this mistake will not abide for ever  sai lam nay se khong the keo dai mai duoc (  by) ton trong, giu, tuan theo, chiu theo; trung thanh voi to abide by one's friend  trung thanh voi ban (tu co,nghia co) o, ngu tai to abide with somebody  o voi ai  ngoai dong tu cho, cho doi to abide one's time  cho thoi co chiu dung, chiu we can't abide his fits of temper  chung toi khong the chiu duoc nhung con nong gian cua han chong do duoc (cuoc tan cong)
+abider	abider xem abide
+abides	abide   noi dong tu (abode; abode,  abide) ton tai; keo dai this mistake will not abide for ever  sai lam nay se khong the keo dai mai duoc (  by) ton trong, giu, tuan theo, chiu theo; trung thanh voi to abide by one's friend  trung thanh voi ban (tu co,nghia co) o, ngu tai to abide with somebody  o voi ai  ngoai dong tu cho, cho doi to abide one's time  cho thoi co chiu dung, chiu we can't abide his fits of temper  chung toi khong the chiu duoc nhung con nong gian cua han chong do duoc (cuoc tan cong)
+abiding	abiding   noi dong tu (abode; abode,  abide) ton tai; keo dai this mistake will not abide for ever  sai lam nay se khong the keo dai mai duoc (  by) ton trong, giu, tuan theo, chiu theo; trung thanh voi to abide by one's friend  trung thanh voi ban (tu co,nghia co) o, ngu tai to abide with somebody  o voi ai  ngoai dong tu cho, cho doi to abide one's time  cho thoi co chiu dung, chiu we can't abide his fits of temper  chung toi khong the chiu duoc nhung con nong gian cua han chong do duoc (cuoc tan cong)
+abidingly	abidingly xem abiding
+abience	abience danh tu su tranh kich thich
+abient	abient tinh tu tranh kich thich
+abies	abies danh tu (thuc vat) cay linh sam
+abietene	abietene   danh tu (hoa hoc) Abietin
+abigail	abigail   danh tu thi ty, nu ty
+abigails	abigail   danh tu thi ty, nu ty
+abilitate	abilitate   dong tu (tu hiem,nghia hiem) (nhu) habiliate
+abilities	ability   danh tu nang luc, kha nang (lam viec gi) (so nhieu) tai nang, tai can a man of abilities  mot nguoi tai nang  (phap ly) tham quyen (thuong nghiep) kha nang thanh toan duoc; von san co, nguon von (de dap ung khi can thiet) to be best of one's ability  voi tu cach kha nang cua minh ability kha nang
+ability	ability   danh tu nang luc, kha nang (lam viec gi) (so nhieu) tai nang, tai can a man of abilities  mot nguoi tai nang  (phap ly) tham quyen (thuong nghiep) kha nang thanh toan duoc; von san co, nguon von (de dap ung khi can thiet) to be best of one's ability  voi tu cach kha nang cua minh ability kha nang
+Ability and earnings	Ability and earnings (Econ) Nang luc va thu nhap  Thuoc do ve kha nang va trinh do (hoc van) co tuong quan chat che voi nhau, lam tang kha nang la phan lon loi tuc duoc uoc tinh do giao duc tren thuc te cung chinh la loi tuc do nang  luc
+Ability to pay	Ability to pay (Econ) Kha nang chi tra.
+Ability to pay theory	Ability to pay theory (Econ) Ly thuyet ve kha nang chi tra  Mot ly thuyet ve cach danh thue theo do ganh nang ve thue nen duoc phan bo theo kha nang chi tra; va mot he thong thue kieu luy tien, ty le hay luy thoai, tuy thuoc vao thuoc do duoc su dung va do doc gia dinh cua do thi thoa dung bien cua thu nhap.
+abiogeneses	abiogenesis   danh tu (sinh vat hoc) su phat sinh tu nhien
+abiogenesis	abiogenesis   danh tu (sinh vat hoc) su phat sinh tu nhien
+abiogenetic	abiogenetic   tinh tu (sinh vat hoc) phat sinh tu nhien
+abiogenetically	abiogenetically   pho tu (sinh vat hoc) phat sinh tu nhien
+abiogenist	abiogenist   danh tu nguoi tin thuyet phat sinh tu nhien
+abiogenous	abiogenous   tinh tu (sinh vat hoc) phat sinh tu nhien
+abiogeny	abiogeny   danh tu (sinh vat hoc) su phat sinh tu nhien
+abiological	abiological   tinh tu phi sinh vat hoc
+abiologically	abiologically xem abiological
+abioses	abiosis xem abiotic
+abioseston	abioseston danh tu (sinh hoc) chat vo co lo lung
+abiosis	abiosis xem abiotic
+abiotic	abiotic   tinh tu vo sinh
+abiotically	abiotically xem abiotic
+abiotrophic	abiotrophic tinh tu kiet suc song; suy suc song
+abirritant	abirritant danh tu thuoc giam kich thich
+abirritate	abirritate ngoai dong tu giam kich thich
+abirritation	abirritation danh tu su giam kich thich
+abject	abject   tinh tu hen ha, thap hen, de tien, dang khinh khon kho, khon nan in abject poverty  ngheo rot mong toi, ngheo xac ngheo xo
+abjection	abjection   danh tu su hen ha, su thap hen, su de tien
+abjections	abjection   danh tu su hen ha, su thap hen, su de tien
+abjectly	abjectly pho tu hen ha, de tien khon kho, khon nan
+abjectness	abjectness   danh tu su hen ha, su thap hen, su de tien, su dang khinh su khon kho, su khon nan
+abjudicate	abjudicate ngoai dong tu tuyen bo tu bo the bo dao
+abjuration	abjuration   danh tu su tuyen bo bo, su the bo (ton giao) su the bo dao, su boi dao
+abjurations	abjuration   danh tu su tuyen bo bo, su the bo (ton giao) su the bo dao, su boi dao
+abjure	abjure   dong tu tuyen bo bo, nguyen bo to abjure one's religion  bo dao to abjure one's rights  tuyen bo tu bo quyen loi cua minh rut lui (y kien, loi hua...) to abjure one's opinion  rut lui y kien the bo (dat nuoc) di mai mai
+abjured	abjure   dong tu tuyen bo bo, nguyen bo to abjure one's religion  bo dao to abjure one's rights  tuyen bo tu bo quyen loi cua minh rut lui (y kien, loi hua...) to abjure one's opinion  rut lui y kien the bo (dat nuoc) di mai mai
+abjurer	abjurer xem abjure
+abjures	abjure   dong tu tuyen bo bo, nguyen bo to abjure one's religion  bo dao to abjure one's rights  tuyen bo tu bo quyen loi cua minh rut lui (y kien, loi hua...) to abjure one's opinion  rut lui y kien the bo (dat nuoc) di mai mai
+abjuring	abjure   dong tu tuyen bo bo, nguyen bo to abjure one's religion  bo dao to abjure one's rights  tuyen bo tu bo quyen loi cua minh rut lui (y kien, loi hua...) to abjure one's opinion  rut lui y kien the bo (dat nuoc) di mai mai
+ablactation	ablactation   danh tu su cai sua su can sua
+ablastous	ablastous tinh tu (thuc vat) khong mam
+ablate	ablate   ngoai dong tu (y hoc) cat bo
+ablated	ablate   ngoai dong tu (y hoc) cat bo
+ablates	ablate   ngoai dong tu (y hoc) cat bo
+ablating	ablate   ngoai dong tu (y hoc) cat bo
+ablation	ablation   danh tu (y hoc) su cat bo (mot bo phan trong co the) (dia ly,dia chat) su tai mon (da) (dia ly,dia chat) su tieu mon (song bang)
+ablations	ablation   danh tu (y hoc) su cat bo (mot bo phan trong co the) (dia ly,dia chat) su tai mon (da) (dia ly,dia chat) su tieu mon (song bang)
+ablative	ablative   tinh tu (ngon ngu hoc) (thuoc) cach cong cu  danh tu (ngon ngu hoc) cach cong cu
+ablatives	ablative   tinh tu (ngon ngu hoc) (thuoc) cach cong cu  danh tu (ngon ngu hoc) cach cong cu
+ablaut	ablaut   danh tu (ngon ngu hoc) Aplau
+ablaze	ablaze   tinh tu &amp; pho tu ruc chay, boc chay sang choi loi bung bung, rung ruc ablaze with anger  bung bung noi gian
+able	able   tinh tu co nang luc, co tai an able co-op manager  mot chu nhiem hop tac xa co nang luc an able writer  mot nha van co tai to be able to  co the to be able to do something  co the lam duoc viec gi (phap ly) co du tu cach, co du tham quyen
+able-bodied	able-bodied   tinh tu khoe manh; du tieu chuan suc khoe (lam nghia vu quan su) able-bodied seaman  ((viet tat) A.B.) thuy thu hang nhat
+able seaman	able seaman danh tu (vt la AB) thuy thu hang nhat
+ablegate	ablegate danh tu dai su giao hoang
+ablen	ablen   danh tu (dong vat hoc) ca aplet, ca vay bac (ho ca chep)
+ableness	ableness danh tu nang luc, tai nang su cuong trang
+ablepsia	ablepsia danh tu tat mu; chung mu
+abler	able   tinh tu co nang luc, co tai an able co-op manager  mot chu nhiem hop tac xa co nang luc an able writer  mot nha van co tai to be able to  co the to be able to do something  co the lam duoc viec gi (phap ly) co du tu cach, co du tham quyen
+ablest	able   tinh tu co nang luc, co tai an able co-op manager  mot chu nhiem hop tac xa co nang luc an able writer  mot nha van co tai to be able to  co the to be able to do something  co the lam duoc viec gi (phap ly) co du tu cach, co du tham quyen
+ablet	ablet   danh tu (dong vat hoc) ca aplet, ca vay bac (ho ca chep)
+ablings	ablings   pho tu (E-cot) co le, co the
+ablins	ablins   pho tu (E-cot) co le, co the
+abloom	abloom   tinh tu &amp; pho tu dang no (ra) hoa
+abluent	abluent   tinh tu rua sach, tay sach  danh tu chat tay, thuoc tay
+ablush	ablush   tinh tu &amp; pho tu then do mat
+ablution	ablution   danh tu,  (thuong) so nhieu (ton giao) le rua toi; le tam goi; le rua sach cac do tho (ton giao) nuoc tam goi; nuoc rua do tho ((thuong) so nhieu) su tam goi, su rua ray
+ablutionary	ablutionary xem ablution
+ablutions	ablution   danh tu,  (thuong) so nhieu (ton giao) le rua toi; le tam goi; le rua sach cac do tho (ton giao) nuoc tam goi; nuoc rua do tho ((thuong) so nhieu) su tam goi, su rua ray
+ably	ably   pho tu co kha nang, co tai, kheo leo, tai tinh
+abm	abm (vt cua anti-ballistic missile) ten lua chong ten lua dan dao
+abnegate	abnegate   ngoai dong tu nhin (cai gi) bo (dao) tu bo (quyen loi...); tu choi khong nhan (dac quyen...)
+abnegated	abnegate   ngoai dong tu nhin (cai gi) bo (dao) tu bo (quyen loi...); tu choi khong nhan (dac quyen...)
+abnegates	abnegate   ngoai dong tu nhin (cai gi) bo (dao) tu bo (quyen loi...); tu choi khong nhan (dac quyen...)
+abnegating	abnegate   ngoai dong tu nhin (cai gi) bo (dao) tu bo (quyen loi...); tu choi khong nhan (dac quyen...)
+abnegation	abnegation   danh tu su bo (dao...); su tu bo (quyen loi); su tu choi khong nhan (dac quyen...) su quen minh, su hy sinh, su xa than ((thuong) self abnegation)
+abnegations	abnegation   danh tu su bo (dao...); su tu bo (quyen loi); su tu choi khong nhan (dac quyen...) su quen minh, su hy sinh, su xa than ((thuong) self abnegation)
+abnegator	abnegator xem abnegate
+abnegators	abnegator xem abnegate
+abnormal	abnormal   tinh tu khong binh thuong, khac thuong; di thuong abnormal (Tech) bat thuong, di thuong; khong chuan abnormal bat thuong; (thong ke) khong chuan
+abnormal end (ABEND)	abnormal end (ABEND) (Tech) ket thuc bat thuong
+abnormal end of task	abnormal end of task (Tech) ket thuc bat thuong (mot) nhiem vu
+abnormal end of transmission	abnormal end of transmission (Tech) ket thuc truyen bat thuong
+abnormal function	abnormal function (Tech) chuc nang/ham so bat thuong
+Abnormal profits	Abnormal profits (Econ) Loi nhuan di thuong  Xem SUPER-NORMAL PROFITS
+abnormal propagation	abnormal propagation (Tech) truyen lan bat thuong
+abnormal reflection	abnormal reflection (Tech) phan xa bat thuong
+abnormal refraction	abnormal refraction (Tech) khuc xa bat thuong
+abnormal return address	abnormal return address (Tech) dia chi hoi bao bat thuong
+abnormal status	abnormal status (Tech) trang thai bat thuong
+abnormal termination	abnormal termination (Tech) cat dut bat thuong
+abnormalcy	abnormalcy   danh tu su khong binh thuong, su khac thuong; su di thuong vat ky quai, quai vat
+abnormalities	abnormality   danh tu su khong binh thuong, su khac thuong; su di thuong vat ky quai, quai vat
+abnormality	abnormality   danh tu su khong binh thuong, su khac thuong; su di thuong vat ky quai, quai vat
+abnormally	abnormally pho tu di thuong, khac thuong
+abnormities	abnormity   danh tu su khong binh thuong, su khac thuong; su di thuong vat ky quai, quai vat
+abnormity	abnormity   danh tu su khong binh thuong, su khac thuong; su di thuong vat ky quai, quai vat
+abo	abo danh tu tho dan (Uc, long, si nhuc)
+aboard	aboard   pho tu tren tau, tren boong tau, tren thuyen, tren xe lua; tren may bay to go aboard  len tau, len boong doc theo; gan, ke close (hard) aboard  nam ke sat to keep the land aboard  di doc theo bo all aboard!  de nghi moi nguoi len tau! to fall aboard of a ship  va phai mot chiec tau khac  gioi tu len tren (tau thuy, xe lua, may bay...) to go aboard a ship  len tau to travel aboard a special train  di du lich tren mot chuyen xe lua dac biet
+abode	abode   noi dong tu (abode; abode,  abide) ton tai; keo dai this mistake will not abide for ever  sai lam nay se khong the keo dai mai duoc (  by) ton trong, giu, tuan theo, chiu theo; trung thanh voi to abide by one's friend  trung thanh voi ban (tu co,nghia co) o, ngu tai to abide with somebody  o voi ai  ngoai dong tu cho, cho doi to abide one's time  cho thoi co chiu dung, chiu we can't abide his fits of temper  chung toi khong the chiu duoc nhung con nong gian cua han chong do duoc (cuoc tan cong)
+abodes	abode   danh tu noi o to take up (make) one's abode  o of no fixed abode  khong co cho o nhat dinh su o lai, su luu lai  thoi qua khu &amp; dong tinh tu qua khu cua abide
+abohm	abohm (Tech) abom (1 abom   10 luy thua -9 om)
+aboil	aboil   tinh tu &amp; pho tu dang soi
+abolish	abolish   ngoai dong tu thu tieu, bai bo, huy bo to abolish the exploitation of man by man  thu tieu che do nguoi boc lot nguoi to abolish acontract  huy bo mot ban giao keo
+abolishable	abolishable   tinh tu co the thu tieu, co the bai bo, co the huy bo
+abolished	abolish   ngoai dong tu thu tieu, bai bo, huy bo to abolish the exploitation of man by man  thu tieu che do nguoi boc lot nguoi to abolish acontract  huy bo mot ban giao keo
+abolisher	abolisher   danh tu nguoi thu tieu, nguoi bai bo, nguoi huy bo
+abolishers	abolisher   danh tu nguoi thu tieu, nguoi bai bo, nguoi huy bo
+abolishes	abolish   ngoai dong tu thu tieu, bai bo, huy bo to abolish the exploitation of man by man  thu tieu che do nguoi boc lot nguoi to abolish acontract  huy bo mot ban giao keo
+abolishing	abolish   ngoai dong tu thu tieu, bai bo, huy bo to abolish the exploitation of man by man  thu tieu che do nguoi boc lot nguoi to abolish acontract  huy bo mot ban giao keo
+abolishment	abolishment   danh tu su thu tieu, su bai bo, su huy bo
+abolition	abolition   danh tu su thu tieu, su bai bo, su huy bo abolition of taxes  su bai bo thue abolition of slavery  su thu tieu che do no le
+abolitionary	abolitionary xem abolition
+abolitionise	abolitionise   ngoai dong tu (tu My,nghia My) lam cho theo chu nghia bai no
+abolitionism	abolitionism   danh tu (su hoc) chu nghia bai no
+abolitionist	abolitionist   danh tu nguoi theo chu nghia bai no
+abolitionists	abolitionist   danh tu nguoi theo chu nghia bai no
+abolitionize	abolitionize   ngoai dong tu (tu My,nghia My) lam cho theo chu nghia bai no
+abolitions	abolition   danh tu su thu tieu, su bai bo, su huy bo abolition of taxes  su bai bo thue abolition of slavery  su thu tieu che do no le
+abomasa	abomasum danh tu da mui khe tui (dong vat nhai lai)
+abomasum	abomasum danh tu da mui khe tui (dong vat nhai lai)
+abominable	abominable   tinh tu ghe tom, kinh tom an abominable crime toi ac ghe tom  (thong tuc) toi, toi te, rat xau abominable weather  thoi tiet rat xau an abominable meal  bua com toi
+abominable snowman	abominable snowman danh tu nguoi tuyet (tuong truyen la dong vat to cao)
+abominableness	abominableness   danh tu su ghe tom, su kinh tom (thong tuc) su toi te
+abominably	abominably pho tu mot cach dang ghe tom
+abominate	abominate   ngoai dong tu ghe tom; ghet cay ghet dang (thong tuc) khong ua, ghet mat  tinh tu (tho ca) ghe tom, kinh tom
+abominated	abominate   ngoai dong tu ghe tom; ghet cay ghet dang (thong tuc) khong ua, ghet mat  tinh tu (tho ca) ghe tom, kinh tom
+abominates	abominate   ngoai dong tu ghe tom; ghet cay ghet dang (thong tuc) khong ua, ghet mat  tinh tu (tho ca) ghe tom, kinh tom
+abominating	abominate   ngoai dong tu ghe tom; ghet cay ghet dang (thong tuc) khong ua, ghet mat  tinh tu (tho ca) ghe tom, kinh tom
+abomination	abomination   danh tu su ghe tom, su kinh tom; su ghet cay ghet dang to hold something in abomination  ghe tom cai gi vat kinh tom; viec ghe tom; hanh dong dang ghet
+abominations	abomination   danh tu su ghe tom, su kinh tom; su ghet cay ghet dang to hold something in abomination  ghe tom cai gi vat kinh tom; viec ghe tom; hanh dong dang ghet
+abominator	abominator xem abominate
+abominators	abominator xem abominate
+abonent	abonent (Tech) nguoi thue bao; nguoi dung dau cuoi
+aboral	aboral tinh tu (sinh hoc) xa mieng; doi mieng
+aboriginal	aboriginal   tinh tu (thuoc) tho dan; (thuoc) tho san, (thuoc) dac san the aboriginal inhabitants of a country  tho dan cua mot nuoc tea is an aboriginal product of Phutho  che la mot dac san cua Phu tho ban so, nguyen thuy, co so  danh tu tho dan (tu hiem,nghia hiem) tho san
+aboriginality	aboriginality danh tu dac diem nguyen so tinh thuan phat
+aboriginally	aboriginally xem aboriginal
+aborigines	aborigines   danh tu so nhieu tho dan Indians are the aborigines of America  nguoi da do la tho dan cua chau My tho san
+abort	abort   noi dong tu say thai; de non ((nghia den) &amp; (nghia bong)) (sinh vat hoc) khong phat trien, thui  ngoai dong tu lam say thai, pha thai abort (Tech) huy bo, ngung nua chung, bo do
+aborted	aborted   noi dong tu say thai; de non ((nghia den) &amp; (nghia bong)) (sinh vat hoc) khong phat trien, thui  ngoai dong tu lam say thai, pha thai abort (Tech) huy bo, ngung nua chung, bo do
+aborticide	aborticide   danh tu thuoc giet thai
+abortifacient	abortifacient   tinh tu pha thai, lam say thai  danh tu thuoc pha thai
+abortifacients	abortifacient   tinh tu pha thai, lam say thai  danh tu thuoc pha thai
+abortin	abortin danh tu chat say thai; abotin
+aborting	abort   noi dong tu say thai; de non ((nghia den) &amp; (nghia bong)) (sinh vat hoc) khong phat trien, thui  ngoai dong tu lam say thai, pha thai abort (Tech) huy bo, ngung nua chung, bo do
+abortion	abortion   danh tu su say thai, su pha thai; su nao thai nguoi lun tit; dua be de non, vat de non; vat di dang, quai thai su chet non chet yeu, su som that bai (cua mot ke hoach, y do...) (sinh vat hoc) tinh trang phat trien khong day du
+abortion mechanism	abortion mechanism (Tech) co nang bo do
+abortionist	abortionist   danh tu nguoi pha thai
+abortionists	abortionist   danh tu nguoi pha thai
+abortions	abortion   danh tu su say thai, su pha thai; su nao thai nguoi lun tit; dua be de non, vat de non; vat di dang, quai thai su chet non chet yeu, su som that bai (cua mot ke hoach, y do...) (sinh vat hoc) tinh trang phat trien khong day du
+abortive	abortive   tinh tu de non an abortive child  dua be de non non yeu, chet non chet yeu; som that bai an abortive plan  mot ke hoach som that bai (sinh vat hoc) khong phat trien day du an abortive organ  mot co quan khong phat trien day du abortive (Tech) bo do
+abortive subexit	abortive subexit (Tech) loi thoat phu khi bo do
+abortively	abortively pho tu non yeu
+abortiveness	abortiveness   danh tu su de non su non yeu, su chet non chet yeu (sinh vat hoc) su khong phat trien day du
+aborts	abort   noi dong tu say thai; de non ((nghia den) &amp; (nghia bong)) (sinh vat hoc) khong phat trien, thui  ngoai dong tu lam say thai, pha thai abort (Tech) huy bo, ngung nua chung, bo do
+aboulia	aboulia   danh tu (y hoc) chung mat y chi
+abound	abound   noi dong tu (  in,  with) co rat nhieu, co thua, nhan nhan, luc nhuc, day day coal abounds in our country  than da co rat nhieu o nuoc ta to abound in courage  co thua can dam
+abounded	abound   noi dong tu (  in,  with) co rat nhieu, co thua, nhan nhan, luc nhuc, day day coal abounds in our country  than da co rat nhieu o nuoc ta to abound in courage  co thua can dam
+abounding	abounding   noi dong tu (  in,  with) co rat nhieu, co thua, nhan nhan, luc nhuc, day day coal abounds in our country  than da co rat nhieu o nuoc ta to abound in courage  co thua can dam
+abounds	abound   noi dong tu (  in,  with) co rat nhieu, co thua, nhan nhan, luc nhuc, day day coal abounds in our country  than da co rat nhieu o nuoc ta to abound in courage  co thua can dam
+about	about   pho tu xung quanh, quanh quan, day do, rai rac he is somewhere about  anh ta o quanh quan dau do rumours are about  day do co tieng don (ve viec gi) dang sau about turn!  dang sau quay khoang chung, gan about forty  khoang 40 it is about two o'clock  bay gio khoang chung hai gio vong to go a long way about  di duong vong xa!about and about (tu My,nghia My) rat giong nhau!to be about ban (lam gi) da day duoc (sau khi om) co mat!about right dung, dung dan tot, duoc  gioi tu ve to know much about Vietnam  biet nhieu ve Viet Nam what shall we write about?  chung ta se viet ve cai gi bay gio? quanh quat, quanh quan day do, rai rac to walk about the garden  di quanh quan trong vuon xung quanh the trees about the pound  cay coi xung quanh ao khoang chung, vao khoang about nightfall  vao khoang chap toi ban, dang lam (gi...) he is still about it  han hay con ban lam viec do to go about one's work  di lam o (ai); trong nguoi (ai), theo voi (ai) I have all the documents about me  toi co mang theo day du tai lieu there's something nice about him  o anh ta co mot cai gi do hay hay!to be about to sap, sap sua the train is about to start  xe lua sap khoi hanh man about town  tay an choi, tay giao thiep rong what are you about?  anh muon gi?, anh can gi? (tu hiem,nghia hiem) anh dang lam gi day?!what about? (xem) what  ngoai dong tu lai (thuyen...) theo huong khac about do, chung; xung quanh; noi ve, doi voi a.five per cent chung tram phan tram
+about...	about... (Tech) ve...
+about-face	about-face   danh tu (quan su) su quay dang sau su tro mat, su thay doi han thai do, su thay doi han y kien  noi dong tu (quan su) quay dang sau
+about-sledge	about-sledge   danh tu (ky thuat) bua ta
+about-turn	about-turn danh tu su thay doi y kien, su doi y
+above	above   pho tu tren dau, tren dinh dau clouds are drifting above  may dang bay tren dinh dau o tren as was started above  nhu da noi ro o tren as was remarked above  nhu da nhan xet o tren tren thien duong len tren; nguoc dong (song); len gac a staircase leading above  cau thang len gac you will find a bridge above  di nguoc dong song anh se thay mot cai cau tren, hon they were all men of fifty and above  ho tat ca deu nam muoi va tren nam muoi tuoi over and above  hon nua, va lai, ngoai ra  gioi tu o tren the plane was above the clouds  may bay o tren may qua, vuot, cao hon this work is above my capacity  cong viec nay qua kha nang toi he is above all the other boys in his class  no vuot tat ca nhung dua tre khac trong lop tren, hon to value independence and freedom above all  quy doc lap va tu do hon tat ca above all  truoc het la, truoc nhat la, truoc tien la!above oneself len mat phon, boc to keep one's head above water  giu cho minh duoc an toan; giu khoi mang cong mac no  tinh tu o tren, ke tren, noi tren the above facts  nhung su viec ke tren the above statements  nhung loi phat bieu o tren  danh tu the above cai o tren; dieu ke tren; dieu noi tren above o tren, cao hon
+above-board	above-board   tinh tu &amp; pho tu thang than, khong che day, khong giau giem
+above-cited	above-cited tinh tu da dan, da nhac den
+above-ground	above-ground   tinh tu o tren mat dat con song tren doi  pho tu o tren mat dat luc con song o tren doi
+above-mentioned	above-mentioned   tinh tu ke tren, noi tren
+above-named	above-named tinh tu da noi o tren
+aboveboard	aboveboard tinh tu, adv thang than, khong che day, khong giau giem
+aboveground	aboveground tinh tu o tren mat dat con song tren doi pho tu o tren mat dat luc con song o tren doi
+abovementioned	abovementioned tinh tu ke tren, noi tren
+abracadabra	abracadabra   danh tu cau than chu loi noi kho hieu
+abrachia	abrachia danh tu tat thieu tay
+abrachiate	abrachiate tinh tu thieu tay
+abrachius	abrachius danh tu quai thai khong tay
+abradant	abradant   tinh tu lam mon, mai mon  danh tu chat mai mon
+abradants	abradant   tinh tu lam mon, mai mon  danh tu chat mai mon
+abrade	abrade   ngoai dong tu lam tray (da); co xo ra (ky thuat) mai mon
+abraded	abrade   ngoai dong tu lam tray (da); co xo ra (ky thuat) mai mon
+abrades	abrade   ngoai dong tu lam tray (da); co xo ra (ky thuat) mai mon
+abrading	abrade   ngoai dong tu lam tray (da); co xo ra (ky thuat) mai mon
+abranchial	abranchial   tinh tu (dong vat hoc) khong mang
+abranchiate	abranchiate   tinh tu (dong vat hoc) khong mang
+abrase	abrase ngoai dong tu cat mat
+abrasion	abrasion   danh tu su lam tray (da); su co xo ra; cho bi tray da (dia ly,dia chat),  (ky thuat) su mai mon
+abrasions	abrasion   danh tu su lam tray (da); su co xo ra; cho bi tray da (dia ly,dia chat),  (ky thuat) su mai mon
+abrasive	abrasive   tinh tu lam tray (da) de co xo ra de mai mon  danh tu chat mai mon
+abrasives	abrasive   tinh tu lam tray (da) de co xo ra de mai mon  danh tu chat mai mon
+abreact	abreact ngoai dong tu giai toa mac cam
+abreacted	abreact ngoai dong tu giai toa mac cam
+abreacting	abreact ngoai dong tu giai toa mac cam
+abreaction	abreaction danh tu (y hoc) su giai toa mac cam
+abreacts	abreact ngoai dong tu giai toa mac cam
+abreast	abreast   pho tu cung hang, song hang, ngang nhau; sat nhau, sat vai, ben canh to walk abreast  di song hang voi nhau abreast the times  theo kip thoi dai!to keep abreast of (with) (xem) keep
+abrego	abrego danh tu (dong vat) ca ngu vay dai
+abridge	abridge   ngoai dong tu rut ngan lai, co gon, tom tat han che, giam bot (quyen...) lay, tuoc to abridge somebody of his rights  tuoc quyen loi cua ai abridge rut gon, lam tat
+abridged	abridge   ngoai dong tu rut ngan lai, co gon, tom tat han che, giam bot (quyen...) lay, tuoc to abridge somebody of his rights  tuoc quyen loi cua ai abridge rut gon, lam tat
+abridgement	abridgement   danh tu su rut ngan, su co gon, su tom tat; bai tom tat sach, sach tom tat su han che, su giam bot
+abridgements	abridgement   danh tu su rut ngan, su co gon, su tom tat; bai tom tat sach, sach tom tat su han che, su giam bot
+abridger	abridger xem abridge
+abridges	abridge   ngoai dong tu rut ngan lai, co gon, tom tat han che, giam bot (quyen...) lay, tuoc to abridge somebody of his rights  tuoc quyen loi cua ai abridge rut gon, lam tat
+abridging	abridge   ngoai dong tu rut ngan lai, co gon, tom tat han che, giam bot (quyen...) lay, tuoc to abridge somebody of his rights  tuoc quyen loi cua ai abridge rut gon, lam tat
+abridgment	abridgment   danh tu su rut ngan, su co gon, su tom tat; bai tom tat sach, sach tom tat su han che, su giam bot
+abridgments	abridgment   danh tu su rut ngan, su co gon, su tom tat; bai tom tat sach, sach tom tat su han che, su giam bot
+abroach	abroach   tinh tu bi giui lo; bi choc thung (thung ruou de lay ruou ra...) to set a cask abroach  giui lo mot thung ruou, khui mot thung ruou
+abroad	abroad   pho tu o nuoc ngoai, ra nuoc ngoai to live abroad  song o nuoc ngoai to go abroad  di ra nuoc ngoai khap noi, dang truyen di khap noi there is a runmour abroad that...  khap noi dang co tin don rang... the schooimaster is abroad  viec hoc hanh bay gio dang tro thanh pho bien ngoai troi (doi voi trong nha) life abroad is very healthy  song o ngoai troi tot cho suc khoe (thong tuc) nghi sai, nham, tuong lam to be all abroad  nghi sai hoan toan, hoan toan lam lan!from abroad tu nuoc ngoai these machines were brought from abroad  nhung chiec may nay mang tu nuoc ngoai vao
+abrogable	abrogable tinh tu co the huy bo
+abrogate	abrogate   ngoai dong tu bai bo, huy bo, thu tieu; bai tru backward customs musr be abrogated  phai bai tru nhung hu tuc to abrogate a law  huy bo mot dao luat
+abrogated	abrogate   ngoai dong tu bai bo, huy bo, thu tieu; bai tru backward customs musr be abrogated  phai bai tru nhung hu tuc to abrogate a law  huy bo mot dao luat
+abrogates	abrogate   ngoai dong tu bai bo, huy bo, thu tieu; bai tru backward customs musr be abrogated  phai bai tru nhung hu tuc to abrogate a law  huy bo mot dao luat
+abrogating	abrogate   ngoai dong tu bai bo, huy bo, thu tieu; bai tru backward customs musr be abrogated  phai bai tru nhung hu tuc to abrogate a law  huy bo mot dao luat
+abrogation	abrogation   danh tu su bai bo, su huy bo, su thu tieu; su bai tru
+abrogations	abrogation   danh tu su bai bo, su huy bo, su thu tieu; su bai tru
+abrogative	abrogative tinh tu bi huy bo
+abrupt	abrupt   tinh tu bat ngo, dot ngot; voi va an abrupt turn  cho ngoac bat ngo an abrupt departure  su ra di voi va (dot ngot) coc loc, lac cac, tho lo an abrupt answers  cau tra loi coc loc abrupt manners  cach cu xu lac cac doc dung, hiem tro, gian nan abrupt coast  bo bien doc dung the road to science is very abrupt  con duong di toi khoa hoc rat gian nan truc trac, roi rac (van) bi don, bi chat cut; nhu the bi don, bi chat cut (cay...)
+abrupt junction	abrupt junction (Tech) tiep giap doc thang dung
+abrupt junction diode	abrupt junction diode (Tech) den hai cuc tiep giap doc thang dung
+abruption	abruption   danh tu su dut roi, su gay roi
+abruptly	abruptly pho tu bat ngo, dot ngot lac cac, xac xuoc
+abruptness	abruptness   danh tu su bat ngo, su dot ngot, su voi va tinh coc loc, tinh lac cac; su tho lo the doc dung, su hiem tro; su gian nan su truc trac, su roi rac (van)
+abscess	abscess   danh tu (y hoc) ap xe (ky thuat) cho ro (o kim loai)
+abscessed	abscessed tinh tu (y hoc) bi ap-xe bi ro
+abscesses	abscess   danh tu (y hoc) ap xe (ky thuat) cho ro (o kim loai)
+abscise	abscise dong tu cat ra, bi cat ra
+absciss	absciss   danh tu abscisses (toan hoc) do hoanh
+Abscissa	Abscissa (Econ) Hoanh do  Gia tri tren truc hoanh (truc X) cua mot diem tren do thi hai chieu.
+abscissa	abscissa   danh tu,  so nhieu abscissae (nhu) absciss abscissa (Tech) hoanh do
+abscissa, abscissae	abscissa, abscissae hoanh do
+abscissae	abscissae   danh tu,  so nhieu abscissae (nhu) absciss abscissa (Tech) hoanh do
+abscissas	Abscissa (Econ) Hoanh do  Gia tri tren truc hoanh (truc X) cua mot diem tren do thi hai chieu.abscissa   danh tu,  so nhieu abscissae (nhu) absciss abscissa (Tech) hoanh do
+abscisse	abscisse   danh tu,  so nhieu abscisses (nhu) absciss
+abscission	abscission   danh tu (y hoc) su cat bo
+abscissions	abscission   danh tu (y hoc) su cat bo
+abscond	abscond   noi dong tu lan tron, bo tron tron tranh phap luat
+absconded	abscond   noi dong tu lan tron, bo tron tron tranh phap luat
+absconder	absconder   danh tu nguoi lan tron, nguoi bo tron nguoi tron tranh phap luat
+absconding	abscond   noi dong tu lan tron, bo tron tron tranh phap luat
+absconds	abscond   noi dong tu lan tron, bo tron tron tranh phap luat
+abseil	abseil dong tu treo xuong, tut xuong
+absence	absence   danh tu su vang mat, su nghi (hoc), su di vang; thoi gian vang mat, luc di vang to have a long absence from school  nghi hoc lau su thieu, su khong co to carry out production in the absence of necessary machines  san xuat trong tinh trang thieu nhung may moc can thiet su diem danh absence of mind  su lo dang absence without leave  su nghi khong phep!leave of absence (xem) leave
+absence or presence	absence or presence (Tech) vang mat hay hien dien, khong hay co
+absences	absence   danh tu su vang mat, su nghi (hoc), su di vang; thoi gian vang mat, luc di vang to have a long absence from school  nghi hoc lau su thieu, su khong co to carry out production in the absence of necessary machines  san xuat trong tinh trang thieu nhung may moc can thiet su diem danh absence of mind  su lo dang absence without leave  su nghi khong phep!leave of absence (xem) leave
+absent	absent   tinh tu vang mat, di vang, nghi lo dang an absent air  ve lo dang to answer in an absent way  tra loi mot cach lo dang  dong tu phan than vang mat, di vang, nghi to absent oneself from school  nghi hoc to absent oneself from work  vang mat khong di lam
+absent-minded	absent-minded   tinh tu lo dang
+absent-mindedly	absent-mindedly pho tu dang tri
+absent-mindedness	absent-mindedness   danh tu su lo dang, tinh lo dang
+absent service	absent service (Tech) dich vu (truyen dat luc) vang mat
+absent subscriber service	absent subscriber service (Tech) dich vu thue bao vang mat
+absent transfer	absent transfer (Tech) truyen dat vang mat
+absentation	absentation danh tu su vang mat, trang thai lo dang, khong chu y
+absented	absent   tinh tu vang mat, di vang, nghi lo dang an absent air  ve lo dang to answer in an absent way  tra loi mot cach lo dang  dong tu phan than vang mat, di vang, nghi to absent oneself from school  nghi hoc to absent oneself from work  vang mat khong di lam
+absentee	absentee   danh tu nguoi vang mat, nguoi di vang, nguoi nghi dia chu khong o thuong xuyen tai noi co ruong dat
+absentee ballot	absentee ballot danh tu viec bo phieu truoc cua nhung cu tri nao khong the co mat vao ngay bau cu chinh thuc
+Absentee landlord	Absentee landlord (Econ) Dia chu (chu bat dong san) cach biet  Nguoi chu so huu dat hoac nha song o mot noi xa bat dong san cua minh, thu tien thue va quan ly viec kinh doanh cua minh thong qua trung gian hay nguoi dai dien.
+absentee landlord	absentee landlord danh tu nguoi khong thuong xuyen co mat o don dien cua minh
+Absenteeism	Absenteeism (Econ) Tron viec, su nghi lam khong co ly do  Su nghi lam, mac du cac dieu khoan cua hop dong lao dong yeu cau nguoi lao dong phai di lam va hop dong van con gia tri.
+absenteeism	absenteeism   danh tu su hay vang mat, su vang mat khong co ly do chinh dang (o cong so, o xi nghiep...)
+absentees	absentee   danh tu nguoi vang mat, nguoi di vang, nguoi nghi dia chu khong o thuong xuyen tai noi co ruong dat
+absenting	absent   tinh tu vang mat, di vang, nghi lo dang an absent air  ve lo dang to answer in an absent way  tra loi mot cach lo dang  dong tu phan than vang mat, di vang, nghi to absent oneself from school  nghi hoc to absent oneself from work  vang mat khong di lam
+absently	absently   pho tu lo dang
+absents	absent   tinh tu vang mat, di vang, nghi lo dang an absent air  ve lo dang to answer in an absent way  tra loi mot cach lo dang  dong tu phan than vang mat, di vang, nghi to absent oneself from school  nghi hoc to absent oneself from work  vang mat khong di lam
+absinth	absinth   danh tu cay apxin, cay ngai dang tinh dau apxin ruou apxin
+absinthe	absinthe   danh tu cay apxin, cay ngai dang tinh dau apxin ruou apxin
+absinthian	absinthian   tinh tu (thuoc) apxin
+absolutary	absolutary tinh tu xa toi; tha toi
+absolute	absolute  hinh tuyet doi
+absolute address	absolute address (Tech) dia chi tuyet doi
+absolute address variable	absolute address variable (Tech) bien so dia chi tuyet doi
+absolute addressing	absolute addressing (Tech) phuong phap dinh dia chi tuyet doi
+Absolute advantage	Absolute advantage (Econ) Loi the tuyet doi.  Xem Comparative Advantage.
+absolute altimeter	absolute altimeter (Tech) may do do cao tuyet doi
+absolute ampere	absolute ampere (Tech) ampe tuyet doi
+absolute coordinate	absolute coordinate (Tech) toa do tuyet doi
+Absolute cost advantage	Absolute cost advantage (Econ) Loi the nho phi ton tuyet doi.  Mot khai niem de cap toi nhung loi the cua cac hang da thiet lap, vi the cac hang nay co the duy tri chi phi trung binh thap hon so voi cac hang moi nhap nganh khong phu thuoc vao muc san luong. (Xem Barriers to entry)
+absolute data	absolute data (Tech) du kien tuyet doi
+absolute electrometer	absolute electrometer (Tech) dien tinh ke tuyet doi
+absolute element	absolute element (Tech) phan tu tuyet doi
+absolute error	absolute error (Tech) sai so tuyet doi
+absolute expression	absolute expression (Tech) bieu thuc tuyet doi
+absolute file specifier	absolute file specifier (Tech) ten goi tuyet doi cua tap tin
+absolute galvanometer	absolute galvanometer (Tech) dien ke tuyet doi
+absolute generation number	absolute generation number (Tech) so the he tuyet doi
+Absolute income hypothesis	Absolute income hypothesis (Econ) Gia thuyet thu nhap tuyet doi.  Gia thuyet nay cho rang cac chi phi cho tieu dung (C) la mot ham so cua thu nhap kha dung cua ca nhan (Yd): C   C (Yd).
+absolute instruction	absolute instruction (Tech) chi thi tuyet doi, chi thi ngon ngu may
+absolute level	absolute level (Tech) muc tuyet doi
+absolute loader	absolute loader (Tech) bo nap tuyet doi
+absolute majority	absolute majority danh tu da so tuyet doi, tuyet dai da so
+Absolute monopoly	Absolute monopoly (Econ) Doc quyen tuyet doi.  Xem Monopoly.
+absolute move	absolute move (Tech) di chuyen tuyet doi
+absolute movement	absolute movement (Tech) di dong tuyet doi
+absolute name	absolute name (Tech) ten tuyet doi
+absolute ohm	absolute ohm (Tech) ohm tuyet doi
+absolute order	absolute order (Tech) thu tu tuyet doi
+absolute path	absolute path (Tech) duong tuyet doi
+absolute path name	absolute path name (Tech) ten duong tuyet doi
+absolute permeability	absolute permeability (Tech) do tu tham tuyet doi
+absolute permittivity	absolute permittivity (Tech) hang so dien moi tuyet doi
+absolute phase	absolute phase (Tech) vi tuong/pha tuyet doi
+absolute plotting	absolute plotting (Tech) phep ve dung vi tri tuyet doi
+absolute plotting unit	absolute plotting unit (Tech) don vi ve tuyet doi
+absolute position	absolute position (Tech) vi tri tuyet doi
+Absolute prices	Absolute prices (Econ) Gia tuyet doi.  Gia do bang tien nguoc voi voi gia tuong doi. Do la gia cua cac hang hoa, dich vu duoc bieu dien truc tiep duoi dang so luong cua don vi tien te. Xem Price
+Absolute scarcity	Absolute scarcity (Econ) Khan hiem tuyet doi .  Xem Scarcity
+absolute temperature	absolute temperature (Tech) nhiet do tuyet doi
+absolute tense	absolute tense (Tech) thoi (che) tuyet doi [NB]
+absolute term	absolute term (Tech) so hang tuyet doi
+absolute unit	absolute unit (Tech) don vi tuyet doi
+Absolute value	Absolute value (Econ) Gia tri tuyet doi.  Gia tri cua mot bien bo qua dau cua no.
+absolute value	absolute value (Tech) tri so tuyet doi
+absolute value computer	absolute value computer (Tech) may dien toan tri tuyet doi
+absolute value function	absolute value function (Tech) ham so tri tuyet doi
+absolute vector	absolute vector (Tech) vecto tuyet doi
+absolute volt	absolute volt (Tech) volt tuyet doi
+absolute zero	absolute zero (Tech) so khong tuyet doi
+absolutely	absolutely   pho tu tuyet doi, hoan toan to be absolutely wrong  hoan toan sai lam, hoan toan trai chuyen che, doc doan to govern absolutely  cai tri mot cach chuyen che vo dieu kien (thong tuc) nhat dinh, chac chan; tat nhien; hoan toan nhu vay, dung nhu vay absolutely mot cach tuyet doi
+absolutely convergent	absolutely convergent (Tech) hoi tu tuyet doi
+absolutely noncircular attribute	absolutely noncircular attribute (Tech) thuoc tinh phi tuan hoan tuyet doi
+absolutely noncircular attribute grammar	absolutely noncircular attribute grammar (Tech) van pham thuoc tinh phi tuan hoan tuyet doi
+absoluteness	absoluteness   danh tu tinh tuyet doi, tinh hoan toan
+absolutes	absolute  hinh tuyet doi
+absolution	absolution   danh tu (phap ly) su tha toi, su mien xa (ton giao) su xa toi
+absolutions	absolution   danh tu (phap ly) su tha toi, su mien xa (ton giao) su xa toi
+absolutism	absolutism   danh tu (chinh tri) su chuyen che, chinh the chuyen che
+absolutist	absolutist   danh tu (chinh tri) nguoi theo chinh the chuyen che
+absolutistic	absolutistic xem absolutism
+absolutists	absolutist   danh tu (chinh tri) nguoi theo chinh the chuyen che
+absolvable	absolvable xem absolve
+absolve	absolve   ngoai dong tu tha toi, xa toi, tuyen an vo toi; mien trach to absolve someone from blame  mien trach ai, tuyen bo ai khong co loi to be absolved from the guilt  duoc tuyen an vo toi giai, giai phong, coi go to absolve someone from a spell  giai cho ai khoi bi bua me, giai bua cho ai
+absolved	absolve   ngoai dong tu tha toi, xa toi, tuyen an vo toi; mien trach to absolve someone from blame  mien trach ai, tuyen bo ai khong co loi to be absolved from the guilt  duoc tuyen an vo toi giai, giai phong, coi go to absolve someone from a spell  giai cho ai khoi bi bua me, giai bua cho ai
+absolver	absolver xem absolve
+absolves	absolve   ngoai dong tu tha toi, xa toi, tuyen an vo toi; mien trach to absolve someone from blame  mien trach ai, tuyen bo ai khong co loi to be absolved from the guilt  duoc tuyen an vo toi giai, giai phong, coi go to absolve someone from a spell  giai cho ai khoi bi bua me, giai bua cho ai
+absolving	absolve   ngoai dong tu tha toi, xa toi, tuyen an vo toi; mien trach to absolve someone from blame  mien trach ai, tuyen bo ai khong co loi to be absolved from the guilt  duoc tuyen an vo toi giai, giai phong, coi go to absolve someone from a spell  giai cho ai khoi bi bua me, giai bua cho ai
+absonant	absonant   tinh tu khong hop dieu, khong hoa hop (  to,  from) khong hop voi, trai voi khong hop ly
+absorb	absorb   ngoai dong tu hut, hut thu (nuoc) dry sand absorb water  cat kho hut nuoc hap thu youths always absorb new ideas  thanh nien luon luon hap thu nhung tu tuong moi miet mai, me mai, cham chu; loi cuon, thu hut su chu y to be absorbed in thought  mai suy nghi to be absorbed in the study of Marxism-Leninism  miet mai nghien cuu chu nghia Mac-Lenin absorb hap thu, hut thu
+absorbability	absorbability   danh tu kha nang hut thu
+absorbable	absorbable   tinh tu co the nuot duoc; co the bi hut co the hut thu duoc; co the bi hut thu
+absorbed	absorbed   ngoai dong tu hut, hut thu (nuoc) dry sand absorb water  cat kho hut nuoc hap thu youths always absorb new ideas  thanh nien luon luon hap thu nhung tu tuong moi miet mai, me mai, cham chu; loi cuon, thu hut su chu y to be absorbed in thought  mai suy nghi to be absorbed in the study of Marxism-Leninism  miet mai nghien cuu chu nghia Mac-Lenin absorb hap thu, hut thu
+absorbed photon	absorbed photon (Tech) quang tu hap thu
+absorbed power	absorbed power (Tech) cong suat hap thu
+absorbedly	absorbedly   pho tu miet mai, me mai; say me, cham chu
+absorbedness	absorbedness xem absorbed
+absorbefacient	absorbefacient   tinh tu (y hoc) lam tieu di, lam tan di  danh tu (y hoc) thuoc lam tieu, thuoc lam tan
+absorbencies	absorbency xem absorbent
+absorbency	absorbency xem absorbent
+absorbent	absorbent   tinh tu hut nuoc, tham hut absorbent cotton wood  bong hut nuoc  danh tu chat hut thu; may hut thu (thuc vat hoc); (dong vat hoc) co quan hut thu (cac chat dinh duong)
+absorber	absorber   danh tu (ky thuat) thiet bi hut thu cai giam xoc (o to) absorber (Tech) bo hap thu; bo dem
+absorbers	absorber   danh tu (ky thuat) thiet bi hut thu cai giam xoc (o to) absorber (Tech) bo hap thu; bo dem
+absorbing	absorbing   ngoai dong tu hut, hut thu (nuoc) dry sand absorb water  cat kho hut nuoc hap thu youths always absorb new ideas  thanh nien luon luon hap thu nhung tu tuong moi miet mai, me mai, cham chu; loi cuon, thu hut su chu y to be absorbed in thought  mai suy nghi to be absorbed in the study of Marxism-Leninism  miet mai nghien cuu chu nghia Mac-Lenin absorb hap thu, hut thu
+absorbing load	absorbing load (Tech) tai hap thu
+absorbing state	absorbing state (Tech) trang thai hap thu
+absorbingly	absorbingly xem absorb
+absorbs	absorb   ngoai dong tu hut, hut thu (nuoc) dry sand absorb water  cat kho hut nuoc hap thu youths always absorb new ideas  thanh nien luon luon hap thu nhung tu tuong moi miet mai, me mai, cham chu; loi cuon, thu hut su chu y to be absorbed in thought  mai suy nghi to be absorbed in the study of Marxism-Leninism  miet mai nghien cuu chu nghia Mac-Lenin absorb hap thu, hut thu
+absorptance	absorptance (Tech) do hap thu
+absorption	absorption   danh tu su hut, su hut thu su say me, miet mai, su me mai absorption (Tech) hap thu; dem; lam nhut (d) absorption su hap thu, su thu hut
+Absorption approach	Absorption approach (Econ) Phuong phap hap thu.  Phuong phap phan tich tac dong cua su pha gia hoac giam ty gia hoi doai cua mot nuoc doi voi can can thuong mai.
+absorption cell	absorption cell (Tech) to hap thu
+absorption circuit	absorption circuit (Tech) mach hap thu
+absorption coefficient	absorption coefficient (Tech) he so hap thu
+absorption current	absorption current (Tech) dong hap thu
+absorption factor	absorption factor (Tech) he so hap thu
+absorption index	absorption index (Tech) chi so hap thu
+absorption law	absorption law (Tech) dinh luat hap thu
+absorption loss	absorption loss (Tech) ton hao hap thu
+absorption peak	absorption peak (Tech) dinh hap thu
+absorption spectrum	absorption spectrum (Tech) quang pho hap thu
+absorption trap	absorption trap (Tech) cai bay hap thu
+absorption wavemeter	absorption wavemeter (Tech) may do song loai hap thu
+absorptions	absorption   danh tu su hut, su hut thu su say me, miet mai, su me mai absorption (Tech) hap thu; dem; lam nhut (d) absorption su hap thu, su thu hut
+absorptive	absorptive   tinh tu hut thu absorptive power  kha nang hut thu
+absorptive attenuator	absorptive attenuator (Tech) bo giam song hap thu
+absorptive modulation	absorptive modulation (Tech) dieu tan hap thu
+absorptive surface	absorptive surface (Tech) be mat hap thu
+absorptive transition	absorptive transition (Tech) tiep giap hap thu
+absorptivity	absorptivity   danh tu kha nang hut thu absorptivity (Tech) do hap thu; tinh hap thu
+absquatulate	absquatulate noi dong tu tron chay
+abstain	abstain   noi dong tu kieng, kieng khem, tiet che to abstain from alcohol  kieng ruou kieng ruou (ton giao) an chay ((cung) to abstain from meat)
+abstained	abstain   noi dong tu kieng, kieng khem, tiet che to abstain from alcohol  kieng ruou kieng ruou (ton giao) an chay ((cung) to abstain from meat)
+abstainer	abstainer   danh tu nguoi kieng ruou a total abstainer  nguoi kieng ruou hoan toan
+abstainers	abstainer   danh tu nguoi kieng ruou a total abstainer  nguoi kieng ruou hoan toan
+abstaining	abstaining   noi dong tu kieng, kieng khem, tiet che to abstain from alcohol  kieng ruou kieng ruou (ton giao) an chay ((cung) to abstain from meat)
+abstains	abstain   noi dong tu kieng, kieng khem, tiet che to abstain from alcohol  kieng ruou kieng ruou (ton giao) an chay ((cung) to abstain from meat)
+abstemious	abstemious   tinh tu tiet che, co dieu do so sai, dam bac an abstemiousmeal  bua an dam bac
+abstemiously	abstemiously pho tu chung muc, dieu do, tiet do
+abstemiousness	abstemiousness danh tu su dieu do, su tiet do
+abstention	abstention   danh tu (  from) su kieng su khong tham gia bo phieu
+abstentions	abstention   danh tu (  from) su kieng su khong tham gia bo phieu
+absterge	absterge   ngoai dong tu tay, lam sach
+abstergent	abstergent   tinh tu tay, lam sach  danh tu (y hoc) thuoc lam sach (vet thuong)
+abstergents	abstergent   tinh tu tay, lam sach  danh tu (y hoc) thuoc lam sach (vet thuong)
+abstersion	abstersion   danh tu su tay sach, su lam sach
+abstersive	abstersive   tinh tu tay, lam sach
+Abstinence	Abstinence (Econ) Nhin chi tieu.  Mot thuat ngu mieu ta su can thiet giam bot tieu dung hien tai de tich luy tu ban.
+abstinence	abstinence   danh tu su kieng, su kieng khem, su tiet che (an uong, choi boi...) su kieng ruou total abstinence  su kieng ruou hoan toan (ton giao) su an chay, su nhin an
+abstinency	abstinency   danh tu thoi quen an uong dieu do, su kieng khem
+abstinent	abstinent   tinh tu an uong dieu do; kieng khem
+abstinently	abstinently xem abstinence
+abstract	abstract   tinh tu truu tuong kho hieu ly thuyet khong thuc te!abstract number (toan hoc) so hu  danh tu ban tom tat (cuon sach, luan an, bai dien van...) vat truu tuong in the abstract  truu tuong, ly thuyet  ngoai dong tu truu tuong hoa lam dang tri rut ra, chiet ra, tach ra to abstract butter from milk  tach bo ra khoi sua lay trom, an cap tom tat, trich yeu abstract (Tech) truu tuong; tom tat, trich yeu
+abstract algebra	abstract algebra (Tech) dai so hoc truu tuong/ dong dieu
+abstract journal	abstract journal (Tech) bao trich yeu, bao sao luc [NB]
+abstract noun	abstract noun danh tu danh tu truu tuong (nhu long tot, su tu do...)
+abstract semantics	abstract semantics (Tech) ngu nghia truu tuong
+abstract symbol	abstract symbol (Tech) ky hieu truu tuong
+abstract syntax	abstract syntax (Tech) cu phap truu tuong
+abstracted	abstracted   tinh tu truu tuong kho hieu ly thuyet khong thuc te!abstract number (toan hoc) so hu  danh tu ban tom tat (cuon sach, luan an, bai dien van...) vat truu tuong in the abstract  truu tuong, ly thuyet  ngoai dong tu truu tuong hoa lam dang tri rut ra, chiet ra, tach ra to abstract butter from milk  tach bo ra khoi sua lay trom, an cap tom tat, trich yeu abstract (Tech) truu tuong; tom tat, trich yeu
+abstractedly	abstractedly   pho tu truu tuong; ly thuyet lo dang tach ra, rieng ra
+abstractedness	abstractedness   danh tu su lo dang
+abstracter	abstracter xem abstract
+abstracting	abstract   tinh tu truu tuong kho hieu ly thuyet khong thuc te!abstract number (toan hoc) so hu  danh tu ban tom tat (cuon sach, luan an, bai dien van...) vat truu tuong in the abstract  truu tuong, ly thuyet  ngoai dong tu truu tuong hoa lam dang tri rut ra, chiet ra, tach ra to abstract butter from milk  tach bo ra khoi sua lay trom, an cap tom tat, trich yeu abstract (Tech) truu tuong; tom tat, trich yeu
+abstraction	abstraction   danh tu su truu tuong, su truu tuong hoa cach nhin truu tuong, quan diem truu tuong; khai niem truu tuong; vat truu tuong su lo dang su chiet ra, su rut ra su lay trom, su an cap abstraction su truu tuong hoa, su truu tuong
+abstractionism	abstractionism   danh tu (nghe thuat) chu nghia truu tuong
+abstractionist	abstractionist   danh tu (nghe thuat) nguoi theo chu nghia truu tuong  tinh tu (nghe thuat) theo loi truu tuong, truu tuong chu nghia
+abstractionists	abstractionist   danh tu (nghe thuat) nguoi theo chu nghia truu tuong  tinh tu (nghe thuat) theo loi truu tuong, truu tuong chu nghia
+abstractions	abstraction   danh tu su truu tuong, su truu tuong hoa cach nhin truu tuong, quan diem truu tuong; khai niem truu tuong; vat truu tuong su lo dang su chiet ra, su rut ra su lay trom, su an cap abstraction su truu tuong hoa, su truu tuong
+abstractly	abstractly xem abstract
+abstractness	abstractness   danh tu tinh truu tuong tinh kho hieu
+abstracts	abstract   tinh tu truu tuong kho hieu ly thuyet khong thuc te!abstract number (toan hoc) so hu  danh tu ban tom tat (cuon sach, luan an, bai dien van...) vat truu tuong in the abstract  truu tuong, ly thuyet  ngoai dong tu truu tuong hoa lam dang tri rut ra, chiet ra, tach ra to abstract butter from milk  tach bo ra khoi sua lay trom, an cap tom tat, trich yeu abstract (Tech) truu tuong; tom tat, trich yeu
+abstrahent	abstrahent tinh tu truu tuong, kho hieu
+abstriction	abstriction danh tu (thuc vat) su tach rung bao tu
+abstruse	abstruse   tinh tu kho hieu tham thuy, sau sac
+abstrusely	abstrusely pho tu tham thuy, sau sac
+abstruseness	abstruseness   danh tu tinh kho hieu tinh tham thuy, tinh sau sac
+absurd	absurd   tinh tu vo ly ngu xuan, ngo ngan; buon cuoi, lo bich absurd (Tech) vo nghia, phi ly absurd vo nghia, vo ly, phi ly
+absurdities	absurdity   danh tu su vo ly; su ngu xuan, su ngo ngan dieu vo ly; dieu ngo ngan absurdity [su; tinh] vo nghia, vo ly, phi ly
+absurdity	absurdity   danh tu su vo ly; su ngu xuan, su ngo ngan dieu vo ly; dieu ngo ngan absurdity [su; tinh] vo nghia, vo ly, phi ly
+absurdly	absurdly pho tu vo ly ngo ngan, lo bich
+abterminal	abterminal tinh tu (thuc vat) xa ngon
+abtruse	abtruse tinh tu kho hieu
+abulia	abulia   danh tu (y hoc) chung mat y chi
+abulic	abulic xem abulia
+abundance	abundance   danh tu su nhieu, su giau co, su phong phu; su thua thai, su du dat to live in abundance  song du dat su dat dao (tinh cam, cam xuc) abundance of the heart  su dat dao tinh cam tinh trang rat dong nguoi
+abundances	abundance   danh tu su nhieu, su giau co, su phong phu; su thua thai, su du dat to live in abundance  song du dat su dat dao (tinh cam, cam xuc) abundance of the heart  su dat dao tinh cam tinh trang rat dong nguoi
+abundant	abundant   tinh tu phong phu, nhieu, chan chua; thua thai, du dat to be abundant in something  co nhieu cai gi an abundant year  nam duoc mua lon abundant thua
+abundantly	abundantly pho tu nhieu
+abuse	abuse   danh tu su lam dung, su long hanh abuse of power  su lam quyen to remedy abuses  sua chua thoi lam dung thoi xau, hu tuc su lang ma, su si nhuc, su chui rua, su xi va su noi xau, su giem pha (tu My,nghia My),  (tu co,nghia co) su nguoc dai, su hanh ha an abuse of animals  su hanh ha suc vat  ngoai dong tu lam dung (quyen hanh...) lang ma, si nhuc, chui rua noi xau, giem pha to abuse somebody behind his bock  noi xau sau lung ai (tu co,nghia co) lua doi, lua gat (tu My,nghia My),  (tu co,nghia co) nguoc dai, hanh ha
+abused	abuse   danh tu su lam dung, su long hanh abuse of power  su lam quyen to remedy abuses  sua chua thoi lam dung thoi xau, hu tuc su lang ma, su si nhuc, su chui rua, su xi va su noi xau, su giem pha (tu My,nghia My),  (tu co,nghia co) su nguoc dai, su hanh ha an abuse of animals  su hanh ha suc vat  ngoai dong tu lam dung (quyen hanh...) lang ma, si nhuc, chui rua noi xau, giem pha to abuse somebody behind his bock  noi xau sau lung ai (tu co,nghia co) lua doi, lua gat (tu My,nghia My),  (tu co,nghia co) nguoc dai, hanh ha
+abuser	abuser   danh tu nguoi lam dung nguoi lang ma, nguoi si nhuc, nguoi chui rua nguoi noi xau, ke giem pha nguoi danh lua, nguoi lua gat
+abusers	abuser   danh tu nguoi lam dung nguoi lang ma, nguoi si nhuc, nguoi chui rua nguoi noi xau, ke giem pha nguoi danh lua, nguoi lua gat
+abuses	abuse   danh tu su lam dung, su long hanh abuse of power  su lam quyen to remedy abuses  sua chua thoi lam dung thoi xau, hu tuc su lang ma, su si nhuc, su chui rua, su xi va su noi xau, su giem pha (tu My,nghia My),  (tu co,nghia co) su nguoc dai, su hanh ha an abuse of animals  su hanh ha suc vat  ngoai dong tu lam dung (quyen hanh...) lang ma, si nhuc, chui rua noi xau, giem pha to abuse somebody behind his bock  noi xau sau lung ai (tu co,nghia co) lua doi, lua gat (tu My,nghia My),  (tu co,nghia co) nguoc dai, hanh ha
+abusing	abuse   danh tu su lam dung, su long hanh abuse of power  su lam quyen to remedy abuses  sua chua thoi lam dung thoi xau, hu tuc su lang ma, su si nhuc, su chui rua, su xi va su noi xau, su giem pha (tu My,nghia My),  (tu co,nghia co) su nguoc dai, su hanh ha an abuse of animals  su hanh ha suc vat  ngoai dong tu lam dung (quyen hanh...) lang ma, si nhuc, chui rua noi xau, giem pha to abuse somebody behind his bock  noi xau sau lung ai (tu co,nghia co) lua doi, lua gat (tu My,nghia My),  (tu co,nghia co) nguoc dai, hanh ha
+abusive	abusive   tinh tu lam dung lang ma, si nhuc, chui rua abusive words  nhung loi chuoi rua, nhung loi si nhuc lua doi, lua gat (tu My,nghia My),  (tu co,nghia co) nguoc dai, hanh ha
+abusively	abusively pho tu lang ma, thoa ma
+abusiveness	abusiveness   danh tu su lam dung su lang ma, su si nhuc, su chui rua tham te su lua doi, su lua gat (tu My,nghia My),  (tu co,nghia co) su nguoc dai, su hanh ha
+abut	abut   dong tu (  on,  upon) giap gioi voi, tiep giap voi (  on,  against) dua vao, noi dau vao nhau abut ke sat; chung bien
+abutilon	abutilon   danh tu (thuc vat hoc) giong cay coi xay
+abutment	abutment   danh tu gioi han, bien gioi, cho tiep giap tuong chong, tru chong; tru da (xay o hai dau cau)
+abutments	abutment   danh tu gioi han, bien gioi, cho tiep giap tuong chong, tru chong; tru da (xay o hai dau cau)
+abuts	abut   dong tu (  on,  upon) giap gioi voi, tiep giap voi (  on,  against) dua vao, noi dau vao nhau abut ke sat; chung bien
+abuttal	abuttal   danh tu gioi han, bien gioi, cho tiep giap
+abuttals	abuttal   danh tu gioi han, bien gioi, cho tiep giap
+abutted	abut   dong tu (  on,  upon) giap gioi voi, tiep giap voi (  on,  against) dua vao, noi dau vao nhau abut ke sat; chung bien
+abutter	abutter   danh tu (phap ly) chu nha dat lang gieng (o ngay canh nha dat cua ai)
+abutters	abutter   danh tu (phap ly) chu nha dat lang gieng (o ngay canh nha dat cua ai)
+abutting	abutting tinh tu gioi han, tiep giapabut   dong tu (  on,  upon) giap gioi voi, tiep giap voi (  on,  against) dua vao, noi dau vao nhau abut ke sat; chung bien
+abuzz	abuzz tinh tu day tieng ri ram, on ao
+abysm	abysm   danh tu (tho ca) (nhu) abyss
+abysmal	abysmal   tinh tu khong day, tham tham, sau khong do duoc abysmal ignorance  su dot nat cung cuc
+abysmally	abysmally pho tu tham te, cung cuc, vo cung
+abysms	abysm   danh tu (tho ca) (nhu) abyss
+abysopelagic	abysopelagic tinh tu thuoc vung khoi- sau tham
+abyss	abyss   danh tu vuc sau, vuc tham bien tham long trai dat; dia nguc
+abyssal	abyssal   tinh tu sau tham tham, sau nhu vuc tham, sau khong do duoc abyssal depth  cho bien sau nhat (thuoc) bien tham abyssal mund  bun bien tham
+abysses	abyss   danh tu vuc sau, vuc tham bien tham long trai dat; dia nguc
+abyssobenthic	abyssobenthic tinh tu thuoc day bien tham; thuoc vuc bien tham
+ac	acdc ringing (Tech) phep goi dien xoay chieu-mot chieu
+ac (alternating component)	ac (alternating component) (Tech) bo phan xoay chieu
+ac (alternating current)	ac (alternating current) (Tech) dong dien xoay chieu, dong dien hai chieu; xoay chieu
+ac (alternating current) bus	ac (alternating current) bus (Tech) mau tuyen dong dien xoay chieu
+ac (alternating current) charging	ac (alternating current) charging (Tech) nap dien dong xoay chieu
+ac (alternating current) circuit	ac (alternating current) circuit (Tech) mach dien xoay chieu
+ac (alternating current) coupled flip-flop	ac (alternating current) coupled flip-flop (Tech) mach xuc phat ghep xoay chieu
+ac (alternating current) coupling	ac (alternating current) coupling (Tech) ghep xoay chieu
+ac (alternating current) distribution cabinet	ac (alternating current) distribution cabinet (Tech) hop phan phoi dong dien xoay chieu
+ac (alternating current) erasing	ac (alternating current) erasing (Tech) xoa xoay chieu
+ac (alternating current) erasing head	ac (alternating current) erasing head (Tech) dau xoa xoay chieu
+ac (alternating current) generator	ac (alternating current) generator (Tech) may phat dien xoay chieu
+ac (alternating current) Josephson effect	ac (alternating current) Josephson effect (Tech) hieu ung Josephson xoay chieu
+ac (alternating current) motor	ac (alternating current) motor (Tech) dong co dien xoay chieu
+ac (alternating current) oscillator	ac (alternating current) oscillator (Tech) bo dao dong dien xoay chieu
+ac (alternating current) oscillator source	ac (alternating current) oscillator source (Tech) nguon dao dong dien xoay chieu
+ac (alternating current) plate resistance	ac (alternating current) plate resistance (Tech) dien tro ban cuc xoay chieu
+ac (alternating current) power supply	ac (alternating current) power supply (Tech) nguon dien xoay chieu
+ac (alternating current) receiver	ac (alternating current) receiver (Tech) may thu chay dien xoay chieu
+ac (alternating current) resistance	ac (alternating current) resistance (Tech) dien tro xoay chieu
+ac (alternating current) servo motor	ac (alternating current) servo motor (Tech) dong co tro dong dien xoay chieu
+AC-cut quartz	AC-cut quartz (Tech) thach anh kieu cat AC
+acacia	acacia   danh tu (thuc vat hoc) giong cay keo
+acacias	acacia   danh tu (thuc vat hoc) giong cay keo
+academe	academe   danh tu (tho ca) hoc vien; truong dai hoc
+academese	academese danh tu phong cach han lam vien
+academia	academia danh tu gioi hoc vien
+academic	academic   tinh tu (thuoc) hoc vien; (thuoc) truong dai hoc (thuoc) vien han lam co tinh chat hoc thuat an academic debate  mot cuoc tranh luan co tinh chat hoc thuat ly thuyet suong, truu tuong, khong thuc te an academic question  mot van de truu tuong, mot van de khong thuc te (van nghe) kinh vien academic painting  hoi hoa kinh vien (thuoc) truong phai triet hoc Pla-ton  danh tu hoi vien hoc vien vien si nguoi qua ne kinh vien (so nhieu) lap luan hoan toan ly thuyet (so nhieu) mu ao dai hoc (cua giao su va hoc sinh dai hoc o Anh)
+academical	academical   tinh tu (thuoc) hoc vien; (thuoc) truong dai hoc
+academically	academically pho tu ve mat ly thuyet, thuan ve ly thuyet
+academicals	academicals   danh tu so nhieu mu ao dai hoc (cua giao su va hoc sinh dai hoc o Anh)
+academician	academician   danh tu vien si
+academicians	academician   danh tu vien si
+academics	academic   tinh tu (thuoc) hoc vien; (thuoc) truong dai hoc (thuoc) vien han lam co tinh chat hoc thuat an academic debate  mot cuoc tranh luan co tinh chat hoc thuat ly thuyet suong, truu tuong, khong thuc te an academic question  mot van de truu tuong, mot van de khong thuc te (van nghe) kinh vien academic painting  hoi hoa kinh vien (thuoc) truong phai triet hoc Pla-ton  danh tu hoi vien hoc vien vien si nguoi qua ne kinh vien (so nhieu) lap luan hoan toan ly thuyet (so nhieu) mu ao dai hoc (cua giao su va hoc sinh dai hoc o Anh)
+academies	academy   danh tu hoc vien a military academy  hoc vien quan su vien han lam truong chuyen nghiep truong tu thuc (danh cho tre em nha giau) vuon A-ca-de-mi (khu vuon gan A-ten noi Pla-ton giang triet hoc); truong phai triet hoc Pla-ton; mon de cua Pla-ton
+academy	academy   danh tu hoc vien a military academy  hoc vien quan su vien han lam truong chuyen nghiep truong tu thuc (danh cho tre em nha giau) vuon A-ca-de-mi (khu vuon gan A-ten noi Pla-ton giang triet hoc); truong phai triet hoc Pla-ton; mon de cua Pla-ton
+academy award	academy award danh tu phan thuong hang nam do Han lam vien dien anh - nghe thuat - khoa hoc My danh cho nhung thanh tuu ve dien anh
+acaleph	acaleph   danh tu loai sua
+acanthi	acanthi   danh tu,  so nhieu acanthuses,  acanthi cay o ro (kien truc) hinh trang tri la o ro
+acanthocarp	acanthocarp danh tu qua gai
+acanthocarpous	acanthocarpous tinh tu co qua gai
+acanthocephalan	acanthocephalan danh tu sau bo dau gai tinh tu thuoc sau bo dau gai
+acanthocephalans	acanthocephalan danh tu sau bo dau gai tinh tu thuoc sau bo dau gai
+acanthocephalous	acanthocephalous tinh tu co dau moc
+acanthocladous	acanthocladous tinh tu co canh gai
+acanthocyst	acanthocyst danh tu ken gai, nang gai
+acanthoma	acanthoma danh tu buou gai
+acanthophore	acanthophore danh tu cuong gai; goc gai
+acanthophysis	acanthophysis danh tu su rung gai
+acanthopore	acanthopore danh tu (sinh hoc) su hoa gai
+acanthus	acanthus   danh tu,  so nhieu acanthuses,  acanthi cay o ro (kien truc) hinh trang tri la o ro
+acanthuses	acanthus   danh tu,  so nhieu acanthuses,  acanthi cay o ro (kien truc) hinh trang tri la o ro
+acapsular	acapsular tinh tu khong bao; khong nang, khong vo
+acardia	acardia danh tu tat thieu tim (bam sinh)
+acari	acari   danh tu,  so nhieu acari (dong vat hoc) cai ghe
+acarid	acarid danh tu (dong vat) bo ve bet tinh tu thuoc bo ve bet
+acarids	acarid danh tu (dong vat) bo ve bet tinh tu thuoc bo ve bet
+acarpellous	acarpellous   tinh tu (thuc vat hoc) khong la noan
+acarpous	acarpous   tinh tu (thuc vat hoc) khong sinh qua
+acarus	acarus   danh tu,  so nhieu acari (dong vat hoc) cai ghe
+acas	acas (viet tat) Dich vu trong tai, hoa giai va co van (Advisory, Conciliation and Arbitration Service)
+acatalectic	acatalectic danh tu cau co so am tiet day du (cau tho)
+acaulescent	acaulescent tinh tu (thuc vat) khong than cay
+acaulesent	acaulesent   tinh tu (thuc vat hoc) khong than (cay)
+acauline	acauline   tinh tu (thuc vat hoc) khong than (cay)
+acaulose	acaulose   tinh tu (thuc vat hoc) khong than (cay)
+acaulosia	acaulosia danh tu su khong phat trien than
+acaulous	acaulous   tinh tu (thuc vat hoc) khong than (cay)
+accede	accede   noi dong tu dong y, tan thanh, thua nhan, bang long to accede to an apinion  dong y voi mot y kien to accede to a policy  tan thanh mot chinh sach len (ngoi), nham (chuc) to accede to the throne  len ngoi to accede to an office  nham chuc gia nhap, tham gia to acceden to a party  gia nhap mot dang phai to accede to a treaty  tham gia mot hiep uoc (bang cach chinh thuc tuyen bo chap thuan)
+acceded	accede   noi dong tu dong y, tan thanh, thua nhan, bang long to accede to an apinion  dong y voi mot y kien to accede to a policy  tan thanh mot chinh sach len (ngoi), nham (chuc) to accede to the throne  len ngoi to accede to an office  nham chuc gia nhap, tham gia to acceden to a party  gia nhap mot dang phai to accede to a treaty  tham gia mot hiep uoc (bang cach chinh thuc tuyen bo chap thuan)
+accedence	accedence xem accede
+acceder	acceder xem accede
+accedes	accede   noi dong tu dong y, tan thanh, thua nhan, bang long to accede to an apinion  dong y voi mot y kien to accede to a policy  tan thanh mot chinh sach len (ngoi), nham (chuc) to accede to the throne  len ngoi to accede to an office  nham chuc gia nhap, tham gia to acceden to a party  gia nhap mot dang phai to accede to a treaty  tham gia mot hiep uoc (bang cach chinh thuc tuyen bo chap thuan)
+acceding	accede   noi dong tu dong y, tan thanh, thua nhan, bang long to accede to an apinion  dong y voi mot y kien to accede to a policy  tan thanh mot chinh sach len (ngoi), nham (chuc) to accede to the throne  len ngoi to accede to an office  nham chuc gia nhap, tham gia to acceden to a party  gia nhap mot dang phai to accede to a treaty  tham gia mot hiep uoc (bang cach chinh thuc tuyen bo chap thuan)
+accelerando	accelerando tinh tu,adv (nhac) nhanh dan danh tu ban nhac choi nhanh dan
+accelerandou	accelerandou tinh tu,  adv (am nhac) nhanh len
+accelerant	accelerant danh tu (hoa hoc) chat lam phan ung hoa hoc xuat hien nhanh hon
+accelerants	accelerant danh tu (hoa hoc) chat lam phan ung hoa hoc xuat hien nhanh hon
+accelerate	accelerate   ngoai dong tu lam nhanh them; lam chong den; thuc mau, giuc gap rao (buoc) to accelerate the pace  buoc mau hon, rao buoc  noi dong tu tang nhanh hon; mau hon, buoc mau hon, rao buoc gia toc accelerate tang toc, gia toc, lam nhanh
+accelerated	accelerate   ngoai dong tu lam nhanh them; lam chong den; thuc mau, giuc gap rao (buoc) to accelerate the pace  buoc mau hon, rao buoc  noi dong tu tang nhanh hon; mau hon, buoc mau hon, rao buoc gia toc accelerate tang toc, gia toc, lam nhanh
+Accelerated depreciation	Accelerated depreciation (Econ) Khau hao nhanh, khau hao gia toc.  Xem DEPRECIATION
+accelerated test	accelerated test (Tech) trac nghiem gia toc
+accelerates	accelerate   ngoai dong tu lam nhanh them; lam chong den; thuc mau, giuc gap rao (buoc) to accelerate the pace  buoc mau hon, rao buoc  noi dong tu tang nhanh hon; mau hon, buoc mau hon, rao buoc gia toc accelerate tang toc, gia toc, lam nhanh
+accelerating	accelerating   ngoai dong tu lam nhanh them; lam chong den; thuc mau, giuc gap rao (buoc) to accelerate the pace  buoc mau hon, rao buoc  noi dong tu tang nhanh hon; mau hon, buoc mau hon, rao buoc gia toc accelerate tang toc, gia toc, lam nhanh
+accelerating anode	accelerating anode (Tech) duong cuc gia toc
+accelerating cavity	accelerating cavity (Tech) cai hoc gia toc
+accelerating coil	accelerating coil (Tech) cuon day gia toc
+accelerating electrode	accelerating electrode (Tech) dien cuc gia toc
+accelerating field	accelerating field (Tech) truong gia toc
+accelerating grid	accelerating grid (Tech) luoi gia toc
+Accelerating inflation	Accelerating inflation (Econ) Lam phat gia toc.  Su tang vot ty le lam phat. Neu chinh phu co giu ty le that nghiep duoi muc ty le that nghiep tu nhien thi viec do se dan toi lam phat gia toc.
+accelerating potential	accelerating potential (Tech) the gia toc
+acceleration	acceleration   danh tu su lam nhanh them, su thuc mau, su giuc gap gia toc acceleration of gravity  (vat ly) gia toc cua trong luc acceleration (Tech) gia toc, tang toc; do gia toc acceleration su tang toc, su gia toc, su lam nhanh a. by powering su tang nhanh do hoi tu bang cach nang len luy thua  a. of convergence su tang nhanh do hoi tu, gia toc hoi tu a. of Corriolis su tang toc Coriolit a. of gravity gia toc trong truong a. of falliing body su tang toc gia toc vat roi a. of translation gia toc tinh tien angular a. gia toc goc average a. gia toc trung binh centripetal a. gia toc huong tam acceleration complementary a. su tang toc Coriolit, gia toc Coriolit instantaneous a. gia toc tuc thoi local a. gia toc dia phuong normal a. gia toc phap tuyen relative a. gia toc tuong doi Standar gravitationnal a. gia toc trong truong tieu chuan supplemental a. gia toc tiep tuyen total a. gia toc toan phan uniform a.gia toc deu
+acceleration of convergence	acceleration of convergence (Tech) gia toc hoi tu
+acceleration parameter	acceleration parameter (Tech) thong so gia toc
+acceleration voltage	acceleration voltage (Tech) dien the gia toc
+accelerations	acceleration   danh tu su lam nhanh them, su thuc mau, su giuc gap gia toc acceleration of gravity  (vat ly) gia toc cua trong luc acceleration (Tech) gia toc, tang toc; do gia toc acceleration su tang toc, su gia toc, su lam nhanh a. by powering su tang nhanh do hoi tu bang cach nang len luy thua  a. of convergence su tang nhanh do hoi tu, gia toc hoi tu a. of Corriolis su tang toc Coriolit a. of gravity gia toc trong truong a. of falliing body su tang toc gia toc vat roi a. of translation gia toc tinh tien angular a. gia toc goc average a. gia toc trung binh centripetal a. gia toc huong tam acceleration complementary a. su tang toc Coriolit, gia toc Coriolit instantaneous a. gia toc tuc thoi local a. gia toc dia phuong normal a. gia toc phap tuyen relative a. gia toc tuong doi Standar gravitationnal a. gia toc trong truong tieu chuan supplemental a. gia toc tiep tuyen total a. gia toc toan phan uniform a.gia toc deu
+accelerative	accelerative   tinh tu lam nhanh then, lam mau them
+Accelerator	Accelerator (Econ) Gia so  Xem Accelerator principle.
+accelerator	accelerator   danh tu nguoi lam tang toc do may gia toc; chan ga (xe oto) high-frequency accelerator  may gia toc tang cao (hoa hoc) chat gia toc (sinh vat hoc) day than kinh gia toc accelerator (Tech) bo gia toc, bo tang toc
+accelerator board	accelerator board (Tech) bang gia toc, tam gia toc
+accelerator card	accelerator card (Tech) the gia toc
+Accelerator coefficient	Accelerator coefficient (Econ) He so gia toc.  Mot boi so theo do dau tu moi se tang len khi co su thay doi ve san luong.
+Accelerator effect	Accelerator effect (Econ) Hieu ung gia toc.
+accelerator key	accelerator key (Tech) khoa gia toc, phim gia toc   hot key
+Accelerator principle	Accelerator principle (Econ) Nguyen ly gia toc.  Nguyen ly cho rang muc dau tu rong phu thuoc vao muc thay doi du kien ve san luong.
+accelerators	Accelerator (Econ) Gia so  Xem Accelerator principle.accelerator   danh tu nguoi lam tang toc do may gia toc; chan ga (xe oto) high-frequency accelerator  may gia toc tang cao (hoa hoc) chat gia toc (sinh vat hoc) day than kinh gia toc accelerator (Tech) bo gia toc, bo tang toc
+accelerometer	accelerometer (Tech) may do gia toc, gia toc ke
+accelerometers	accelerometer (Tech) may do gia toc, gia toc ke
+accent	accent   danh tu trong am dau trong am acute accent  dau sac circumflex accent  dau mu grave accent  dau huyen giong to speak English with a French accent  noi tieng Anh voi giong Phap to speak ina plaintive accent  noi giong than van (so nhieu) loi noi, loi le he found every moving accent to persuade his audience  anh tim nhung loi le that cam dong de thuyet phuc thinh gia (am nhac) nhan; dau nhan (nghia bong) su phan biet ro ret  ngoai dong tu doc co trong am, noi co trong am, doc nhan manh danh dau trong am nhan manh, neu bat accent (Tech) dau, am phu; giong nhan; danh dau (d); nhan manh (d) accent dau phay
+accented	accent   danh tu trong am dau trong am acute accent  dau sac circumflex accent  dau mu grave accent  dau huyen giong to speak English with a French accent  noi tieng Anh voi giong Phap to speak ina plaintive accent  noi giong than van (so nhieu) loi noi, loi le he found every moving accent to persuade his audience  anh tim nhung loi le that cam dong de thuyet phuc thinh gia (am nhac) nhan; dau nhan (nghia bong) su phan biet ro ret  ngoai dong tu doc co trong am, noi co trong am, doc nhan manh danh dau trong am nhan manh, neu bat accent (Tech) dau, am phu; giong nhan; danh dau (d); nhan manh (d) accent dau phay
+accented character	accented character (Tech) chu co dau
+accenting	accent   danh tu trong am dau trong am acute accent  dau sac circumflex accent  dau mu grave accent  dau huyen giong to speak English with a French accent  noi tieng Anh voi giong Phap to speak ina plaintive accent  noi giong than van (so nhieu) loi noi, loi le he found every moving accent to persuade his audience  anh tim nhung loi le that cam dong de thuyet phuc thinh gia (am nhac) nhan; dau nhan (nghia bong) su phan biet ro ret  ngoai dong tu doc co trong am, noi co trong am, doc nhan manh danh dau trong am nhan manh, neu bat accent (Tech) dau, am phu; giong nhan; danh dau (d); nhan manh (d) accent dau phay
+accentor	accentor   danh tu (dong vat hoc) chim chich
+accents	accent   danh tu trong am dau trong am acute accent  dau sac circumflex accent  dau mu grave accent  dau huyen giong to speak English with a French accent  noi tieng Anh voi giong Phap to speak ina plaintive accent  noi giong than van (so nhieu) loi noi, loi le he found every moving accent to persuade his audience  anh tim nhung loi le that cam dong de thuyet phuc thinh gia (am nhac) nhan; dau nhan (nghia bong) su phan biet ro ret  ngoai dong tu doc co trong am, noi co trong am, doc nhan manh danh dau trong am nhan manh, neu bat accent (Tech) dau, am phu; giong nhan; danh dau (d); nhan manh (d) accent dau phay
+accentual	accentual   tinh tu (thuoc) trong am; dua vao trong am
+accentually	accentually xem accentual
+accentuate	accentuate   ngoai dong tu nhan trong am, dat trong am, danh dau trong am nhan manh, lam noi bat, neu bat
+accentuated	accentuate   ngoai dong tu nhan trong am, dat trong am, danh dau trong am nhan manh, lam noi bat, neu bat
+accentuated contrast	accentuated contrast (Tech) su tuong phan tang cuong
+accentuates	accentuate   ngoai dong tu nhan trong am, dat trong am, danh dau trong am nhan manh, lam noi bat, neu bat
+accentuating	accentuate   ngoai dong tu nhan trong am, dat trong am, danh dau trong am nhan manh, lam noi bat, neu bat
+accentuation	accentuation   danh tu su nhan trong am, su dat trong am, su danh dau trong am su nhan manh, su neu bat accentuation (Tech) gia cuong, nhan manh
+accentuations	accentuation   danh tu su nhan trong am, su dat trong am, su danh dau trong am su nhan manh, su neu bat accentuation (Tech) gia cuong, nhan manh
+accentuator	accentuator (Tech) bo gia cuong, bo tang song
+accentuators	accentuator (Tech) bo gia cuong, bo tang song
+accept	accept   ngoai dong tu nhan, chap nhan, chap thuan to accept a proposal  chap nhan mot de nghi to accept a present  nhan mot mon qua to accept an invitation  nhan loi moi thua nhan to accept a truth  thua nhan mot su that dam nhan (cong viec...) (thuong nghiep) chiu trach nhiem ve; nhan thanh toan (hoa don, hoi phieu...) accept nhan, chap nhan; thua nhan; khong bac bo
+accept connection	accept connection (Tech) noi nhan
+accept stacker	accept stacker (Tech) hop chua phieu da doc
+accept statement	accept statement (Tech) cau lenh nhan
+acceptabilities	acceptability   danh tu tinh chat co the chap nhan tinh chat co the thua nhan
+acceptability	acceptability   danh tu tinh chat co the chap nhan tinh chat co the thua nhan
+acceptable	acceptable   tinh tu co the nhan, co the chap nhan co the thua nhan thoa dang, lam hai long; duoc hoan nghenh, duoc tan thuong acceptable nhan duoc, chap nhan duoc, thua nhan duoc
+acceptable quality level (AQL)	acceptable quality level (AQL) (Tech) muc do pham chat chap nhan duoc
+acceptableness	acceptableness xem acceptable
+acceptably	acceptably pho tu chap nhan duoc, thua nhan duoc dang hoan nghenh, dang tan thuong
+Acceptance	Acceptance (Econ) chap nhan thanh toan.  Hanh vi chap nhan mot hoi phieu do ca nhan hay co quan nhan hoi phieu thuc hien, bao gom ky hoi phieu va thuong ky tren mat hoi phieu.
+acceptance	acceptance   danh tu su nhan, su chap nhan, su chap thuan su thua nhan, su cong nhan su hoan nghenh, su tan thuong, su tan thanh; su tin his statement will not find acceptance  loi tuyen bo cua ong ta se khong duoc ai tin (thuong nghiep) su nhan thanh toan (hoa don); hoa don duoc nhan thanh toan general acceptance  su nhan thanh toan khong can co dieu kien qualified acceptance  su nhan thanh toan co dieu kien!acceptance of persons su thien vi acceptance su nhan, su thu nhan
+acceptance angle	acceptance angle (Tech) goc thu quang, goc nhan anh sang
+acceptance cone	acceptance cone (Tech) chop thu quang
+acceptance inspection	acceptance inspection (Tech) kiem tra nghiem thu
+acceptance pattern	acceptance pattern (Tech) mo thuc thu quang
+acceptance test	acceptance test (Tech) thu nghiem thu, trac nghiem kiem nhan
+acceptance trials	acceptance trials (Tech) thuc nghiem thu quang
+acceptances	Acceptance (Econ) chap nhan thanh toan.  Hanh vi chap nhan mot hoi phieu do ca nhan hay co quan nhan hoi phieu thuc hien, bao gom ky hoi phieu va thuong ky tren mat hoi phieu.acceptance   danh tu su nhan, su chap nhan, su chap thuan su thua nhan, su cong nhan su hoan nghenh, su tan thuong, su tan thanh; su tin his statement will not find acceptance  loi tuyen bo cua ong ta se khong duoc ai tin (thuong nghiep) su nhan thanh toan (hoa don); hoa don duoc nhan thanh toan general acceptance  su nhan thanh toan khong can co dieu kien qualified acceptance  su nhan thanh toan co dieu kien!acceptance of persons su thien vi acceptance su nhan, su thu nhan
+acceptation	acceptation   danh tu y nghia dac biet (cua mot tu, thanh ngu) nghia duoc thua nhan (cua mot tu, thanh ngu)
+accepted	accepted   ngoai dong tu nhan, chap nhan, chap thuan to accept a proposal  chap nhan mot de nghi to accept a present  nhan mot mon qua to accept an invitation  nhan loi moi thua nhan to accept a truth  thua nhan mot su that dam nhan (cong viec...) (thuong nghiep) chiu trach nhiem ve; nhan thanh toan (hoa don, hoi phieu...) accept nhan, chap nhan; thua nhan; khong bac bo
+accepting	accepting (Tech) nhan tin (dau cuoi)accept   ngoai dong tu nhan, chap nhan, chap thuan to accept a proposal  chap nhan mot de nghi to accept a present  nhan mot mon qua to accept an invitation  nhan loi moi thua nhan to accept a truth  thua nhan mot su that dam nhan (cong viec...) (thuong nghiep) chiu trach nhiem ve; nhan thanh toan (hoa don, hoi phieu...) accept nhan, chap nhan; thua nhan; khong bac bo
+Accepting house	Accepting house (Econ) Ngan hang nhan tra.  Mot trong so cac NGAN HANG THUONG MAI co tru so tai London, voi muc dich thu tien hoa hong ngan hang nay nhan tra cac hoi phieu, nghia la chap nhan thanh toan chung khi dao han.
+accepting station	accepting station (Tech) tram nhan tin
+acceptor	acceptor   danh tu (thuong nghiep) nguoi nhan thanh toan (hoa don...) (vat ly); (hoa hoc) chat nhan acceptor (Tech) nguyen tu nhan, phan tu nhan; mach cong huong (noi tiep), mach nhan; chat tap nhan
+acceptor center	acceptor center (Tech) trung tam tiep nhan
+acceptor circuit	acceptor circuit (Tech) mach cong huong noi tiep, mach nhan
+acceptor level	acceptor level (Tech) muc nhan
+acceptor state	acceptor state (Tech) trang thai nhan
+acceptor type trap	acceptor type trap (Tech) cai bay loai nhan
+acceptors	acceptor   danh tu (thuong nghiep) nguoi nhan thanh toan (hoa don...) (vat ly); (hoa hoc) chat nhan acceptor (Tech) nguyen tu nhan, phan tu nhan; mach cong huong (noi tiep), mach nhan; chat tap nhan
+accepts	accept   ngoai dong tu nhan, chap nhan, chap thuan to accept a proposal  chap nhan mot de nghi to accept a present  nhan mot mon qua to accept an invitation  nhan loi moi thua nhan to accept a truth  thua nhan mot su that dam nhan (cong viec...) (thuong nghiep) chiu trach nhiem ve; nhan thanh toan (hoa don, hoi phieu...) accept nhan, chap nhan; thua nhan; khong bac bo
+Accesion rate	Accesion rate (Econ) Ty le gia tang lao dong.  So luong nhung nguoi thue moi moi thang tinh theo ty le phan tram tong so viec lam do Bo lao dong My thong ke.
+Accesions tax	Accesions tax (Econ) Thue qua tang.  Thue danh vao qua tang va tai san thua ke.
+accesory	accesory phu them; phu tung
+Access	Access/space trade - off model (Econ) Mo hinh danh doi khong gian hay mo hinh tiep can.  Mot mo hinh ly thuyet duoc su dung (chu yeu) trong phan tich dia diem dan cu o cac vung do thi, giai thich cac hinh thai vi tri do danh doi giua kha nang tiep can cua mot dia diem toi trung tam cua vung va khong gian cua dia diem do.
+access	access   danh tu loi vao, cua vao, duong vao su den gan, su cho vao, su lui toi; quyen den gan, quyen lui toi easy of access  de den gan, de lui toi difficult of access  kho den gan, kho lui toi to have access to somebody  duoc gan gui ai, duoc lui toi nha ai su dang len (nuoc trieu) the access and recess of the sea  luc trieu len va trieu xuong o bien con access of anger  con gian access of illness  con benh su them vao, su tang len access of wealth  su giau co them len access (Tech) truy cap, truy tim, truy xuat-nhap, ton thu [TQ]; loi vao; tiep can; viet (vao)-doc (ra), ton thu; tim vao access su cho vao; (may tinh) loi vao nhan tin random a. thu tu chon ngau nhien
+access address	access address (Tech) dia chi truy cap
+access arm	access arm &lt;tin&gt; can mang dau tu
+access attempt	access attempt (Tech) lan thu do truy cap
+access barred signal	access barred signal (Tech) tin hieu can truy cap
+access category	access category (Tech) hang muc/loai truy cap
+access code	access code (Tech) ma truy cap
+access control	access control (Tech) dieu khien truy cap
+access control device (ACD)	access control device (ACD) (Tech) thiet bi dieu khien truy cap
+access coupler	access coupler (Tech) bo ghep truy cap
+access denial	access denial (Tech) choi bo/tu khuoc truy cap
+access-denial probability	access-denial probability (Tech) xac suat tu khuoc truy cap
+access-denial time	access-denial time (Tech) thoi gian tu khuoc truy cap
+access digit	access digit (Tech) so ma truy cap
+access failure	access failure (Tech) that bai truy cap
+access hierarchy	access hierarchy (Tech) giai tang truy cap [NB]
+access hole	access hole &lt;tin&gt; khe dau tu
+access key	access key (Tech) phim truy cap
+access level	access level (Tech) muc truy cap
+access list	access list (Tech) danh sach truy cap
+access memory	access memory (Tech) bo nho truy cap
+access menu	access menu (Tech) don chon truy cap
+access method	access method (Tech) phuong phap truy cap
+access mode	access mode (Tech) kieu truy cap
+access model	access model (Tech) mo hinh truy cap
+access originator	access originator (Tech) nguon khoi truy cap
+access path	access path (Tech) duong truy cap
+access period	access period (Tech) thoi ky truy cap
+access permission	access permission (Tech) cho phep truy cap
+access phase	access phase (Tech) pha/vi tuong truy cap
+access plan	access plan (Tech) ke hoach truy cap
+access point	access point (Tech) diem truy cap
+access port	access port (Tech) ben truy cap
+access privilege	access privilege (Tech) dac quyen truy cap [NB]
+access procedure	access procedure (Tech) thu tuc truy cap
+access protocol	access protocol (Tech) nghi thuc truy cap
+access rate   access speed	access rate   access speed (Tech) toc do truy cap
+access request	access request (Tech) yeu cau truy cap
+access-rights terminal	access-rights terminal (Tech) dau cuoi danh quyen truy cap
+access success	access success (Tech) thanh cong truy cap
+access success ratio	access success ratio (Tech) ti le thanh cong truy cap
+access time	access time (Tech) thoi gian truy cap; thoi gian thiet lap
+access type	access type (Tech) loai truy cap
+accessaries	accessary   danh tu,  (thuong) so nhieu do phu tung; vat phu thuoc; do them vao (phap ly) ke tong pham, ke a tong, ke dong loa  tinh tu phu, phu vao, them vao (phap ly) a tong, dong loa
+accessary	accessary   danh tu,  (thuong) so nhieu do phu tung; vat phu thuoc; do them vao (phap ly) ke tong pham, ke a tong, ke dong loa  tinh tu phu, phu vao, them vao (phap ly) a tong, dong loa
+accessed	Access  danh tu loi vao, cua vao, duong vao su den gan, su cho vao, su lui toi; quyen den gan, quyen lui toi easy of access  de den gan, de lui toi difficult of access  kho den gan, kho lui toi to have access to somebody  duoc gan gui ai, duoc lui toi nha ai su dang len (nuoc trieu) the access and recess of the sea  luc trieu len va trieu xuong o bien con access of anger  con gian access of illness  con benh su them vao, su tang len access of wealth  su giau co them len access (Tech) truy cap, truy tim, truy xuat-nhap, ton thu [TQ]; loi vao; tiep can; viet (vao)-doc (ra), ton thu; tim vao access su cho vao; (may tinh) loi vao nhan tin random a. thu tu chon ngau nhien
+accesses	Access  danh tu loi vao, cua vao, duong vao su den gan, su cho vao, su lui toi; quyen den gan, quyen lui toi easy of access  de den gan, de lui toi difficult of access  kho den gan, kho lui toi to have access to somebody  duoc gan gui ai, duoc lui toi nha ai su dang len (nuoc trieu) the access and recess of the sea  luc trieu len va trieu xuong o bien con access of anger  con gian access of illness  con benh su them vao, su tang len access of wealth  su giau co them len access (Tech) truy cap, truy tim, truy xuat-nhap, ton thu [TQ]; loi vao; tiep can; viet (vao)-doc (ra), ton thu; tim vao access su cho vao; (may tinh) loi vao nhan tin random a. thu tu chon ngau nhien
+accessibilities	accessibility   danh tu tinh co the toi duoc, tinh co the den gan duoc su de bi anh huong accessibility (Tech) kha nang truy cap; tinh tiep can
+accessibility	accessibility   danh tu tinh co the toi duoc, tinh co the den gan duoc su de bi anh huong accessibility (Tech) kha nang truy cap; tinh tiep can
+accessible	accessible   tinh tu co the toi duoc, co the gan duoc the remote hamlet is accessible by bicycle  cai xom ngheo heo lanh do co the di xe dap den duoc de bi anh huong accessible to bribery  de hoi lo, de dut lot de gan (nguoi) accessible toi duoc, dat duoc
+accessibleness	accessibleness xem accessible
+accessibly	accessibly xem accessible
+accessiflexor	accessiflexor danh tu (giai phau) co gap phu
+accessing	Access  danh tu loi vao, cua vao, duong vao su den gan, su cho vao, su lui toi; quyen den gan, quyen lui toi easy of access  de den gan, de lui toi difficult of access  kho den gan, kho lui toi to have access to somebody  duoc gan gui ai, duoc lui toi nha ai su dang len (nuoc trieu) the access and recess of the sea  luc trieu len va trieu xuong o bien con access of anger  con gian access of illness  con benh su them vao, su tang len access of wealth  su giau co them len access (Tech) truy cap, truy tim, truy xuat-nhap, ton thu [TQ]; loi vao; tiep can; viet (vao)-doc (ra), ton thu; tim vao access su cho vao; (may tinh) loi vao nhan tin random a. thu tu chon ngau nhien
+accession	accession   danh tu su den gan, su tiep kien su len ngoi, su nham chuc; su den, su dat toi accession to the throne  su len ngoi accession to office  su nham chuc accession to manhood  su den tuoi truong thanh su tang them, su them vao; phan them vao an accession to one's stock of knowledge  su gop them vao cai von hieu biet su gia nhap, su tham gia accession to an international treaty  su tham gia mot hiep uoc quoc te su tan thanh
+accessional	accessional xem accession
+accessions	accession   danh tu su den gan, su tiep kien su len ngoi, su nham chuc; su den, su dat toi accession to the throne  su len ngoi accession to office  su nham chuc accession to manhood  su den tuoi truong thanh su tang them, su them vao; phan them vao an accession to one's stock of knowledge  su gop them vao cai von hieu biet su gia nhap, su tham gia accession to an international treaty  su tham gia mot hiep uoc quoc te su tan thanh
+accessorial	accessorial xem accessory
+accessories	accessories (Tech) phu tung, bo phu, phu kien [TQ]accessory   danh tu,  (thuong) so nhieu do phu tung; vat phu thuoc; do them vao (phap ly) ke tong pham, ke a tong, ke dong loa  tinh tu phu, phu vao, them vao (phap ly) a tong, dong loa
+accessorii	accessorius danh tu (giai phau) co phu; day than kinh nao X
+accessorily	accessorily xem accessory
+accessoriness	accessoriness xem accessory
+accessorius	accessorius danh tu (giai phau) co phu; day than kinh nao X
+accessory	accessory   danh tu,  (thuong) so nhieu do phu tung; vat phu thuoc; do them vao (phap ly) ke tong pham, ke a tong, ke dong loa  tinh tu phu, phu vao, them vao (phap ly) a tong, dong loa
+accessory software	accessory software (Tech) nhu lieu/phan mem phu
+acciaccatura	acciaccatura danh tu (am nhac) not dua
+acciaccature	acciaccatura danh tu (am nhac) not dua
+accidence	accidence   danh tu (ngon ngu hoc) hinh thai hoc yeu to co so (cua mot van de)
+accident	accident   danh tu su rui ro, tai nan, tai bien without accident  an toan khong xay ra tai nan to meet with an accident  gap rui ro; gap tai nan, gap tai bien su tinh co, su ngau nhien by accident  tinh co, ngau nhien cai phu, cai khong chu yeu su go ghe, su khap khenh (am nhac) dau thang giang bat thuong accident (Tech) hu hong, tai nan accident su ngau nhien, truong hop khong may
+accident-prone	accident-prone tinh tu thuong xay ra tai nan
+accidental	accidental   tinh tu tinh co, ngau nhien; bat ngo phu, phu thuoc, khong chu yeu  danh tu cai phu, cai khong chu yeu (am nhac) dau thang giang bat thuong accidental (Tech) rui ro; phu accidental ngau nhien
+accidental error	accidental error (Tech) sai so rui ro
+accidentally	accidentally   pho tu tinh co, ngau nhien
+accidents	accident   danh tu su rui ro, tai nan, tai bien without accident  an toan khong xay ra tai nan to meet with an accident  gap rui ro; gap tai nan, gap tai bien su tinh co, su ngau nhien by accident  tinh co, ngau nhien cai phu, cai khong chu yeu su go ghe, su khap khenh (am nhac) dau thang giang bat thuong accident (Tech) hu hong, tai nan accident su ngau nhien, truong hop khong may
+accipiter	accipiter danh tu chim ung
+accipiters	accipiter danh tu chim ung
+accipitral	accipitral   tinh tu (thuoc) chim ung; nhu chim ung tham moi (nhu chim ung); tham tan tinh mat (nhu chim ung)
+accipitrine	accipitrine tinh tu lien quan toi chim ung; giong nhu chim ung
+acclaim	acclaim   danh tu tieng hoan ho  ngoai dong tu hoan ho ton len to be acclaimed king  duoc ton len lam vua
+acclaimed	acclaim   danh tu tieng hoan ho  ngoai dong tu hoan ho ton len to be acclaimed king  duoc ton len lam vua
+acclaimer	acclaimer xem acclaim
+acclaiming	acclaim   danh tu tieng hoan ho  ngoai dong tu hoan ho ton len to be acclaimed king  duoc ton len lam vua
+acclaims	acclaim   danh tu tieng hoan ho  ngoai dong tu hoan ho ton len to be acclaimed king  duoc ton len lam vua
+acclamation	acclamation   danh tu su hoan ho nhiet liet carried by acclamation  thong qua bang cach hoan ho the decision was carried by acclamation  moi nguoi vo tay hoan ho thong qua nghi quyet ((thuong) so nhieu) tieng reo hoan ho, tieng tung ho
+acclamations	acclamation   danh tu su hoan ho nhiet liet carried by acclamation  thong qua bang cach hoan ho the decision was carried by acclamation  moi nguoi vo tay hoan ho thong qua nghi quyet ((thuong) so nhieu) tieng reo hoan ho, tieng tung ho
+acclamatory	acclamatory   tinh tu hoan ho bang cach nhiet liet hoan ho acclamatory vote  bau bang cach hoan ho
+acclimatation	acclimatation   danh tu su thich nghi khi hau, su lam hop thuy tho
+acclimate	acclimate   ngoai dong tu lam thich nghi khi hau, lam hop thuy tho (suc vat, cay coi) to acclimatize oneself  thich nghi voi moi truong  noi dong tu (tu hiem,nghia hiem) thich nghi khi hau thich nghi voi moi truong
+acclimation	acclimation   danh tu su thich nghi khi hau, su lam hop thuy tho
+acclimatisation	acclimatisation su thich nghi khi hau, su lam hop thuy tho
+acclimatise	acclimatise   ngoai dong tu lam thich nghi khi hau, lam hop thuy tho (suc vat, cay coi) to acclimatize oneself  thich nghi voi moi truong  noi dong tu (tu hiem,nghia hiem) thich nghi khi hau thich nghi voi moi truong
+acclimatization	acclimatization   danh tu su thich nghi khi hau, su lam hop thuy tho
+acclimatizations	acclimatization   danh tu su thich nghi khi hau, su lam hop thuy tho
+acclimatize	acclimatize   ngoai dong tu lam thich nghi khi hau, lam hop thuy tho (suc vat, cay coi) to acclimatize oneself  thich nghi voi moi truong  noi dong tu (tu hiem,nghia hiem) thich nghi khi hau thich nghi voi moi truong
+acclimatized	acclimatize   ngoai dong tu lam thich nghi khi hau, lam hop thuy tho (suc vat, cay coi) to acclimatize oneself  thich nghi voi moi truong  noi dong tu (tu hiem,nghia hiem) thich nghi khi hau thich nghi voi moi truong
+acclimatizer	acclimatizer xem acclimatize
+acclimatizes	acclimatize   ngoai dong tu lam thich nghi khi hau, lam hop thuy tho (suc vat, cay coi) to acclimatize oneself  thich nghi voi moi truong  noi dong tu (tu hiem,nghia hiem) thich nghi khi hau thich nghi voi moi truong
+acclimatizing	acclimatize   ngoai dong tu lam thich nghi khi hau, lam hop thuy tho (suc vat, cay coi) to acclimatize oneself  thich nghi voi moi truong  noi dong tu (tu hiem,nghia hiem) thich nghi khi hau thich nghi voi moi truong
+acclivities	acclivity   danh tu doc nguoc
+acclivity	acclivity   danh tu doc nguoc
+acclivous	acclivous   tinh tu doc nguoc
+accolade	accolade   danh tu su om hon, su go nhe song guom len vai (khi phong tuoc) (am nhac) dau gop
+accolades	accolade   danh tu su om hon, su go nhe song guom len vai (khi phong tuoc) (am nhac) dau gop
+accommodate	accommodate   ngoai dong tu dieu tiet, lam cho thich nghi, lam cho phu hop to accommodate oneself to the new way of living  lam cho minh thich nghi voi loi song moi hoa giai, dan xep to accommodate a quarrel  dan xep mot cuoc cai nhau (  with) cung cap, cap cho, kiem cho to accommodate someone with something  cung cap cho ai cai gi to accommodate somebody with a loan  cho ai vay mot so tien chua duoc, dung duoc this hall can accommodate 500 persons  gian phong co the chua duoc 500 nguoi cho tro; tim cho cho tro to be accommodated in the best hotel  tro o khach san sang nhat giup do, lam on accommodate (Tech) thu nhan, chua
+accommodated	accommodate   ngoai dong tu dieu tiet, lam cho thich nghi, lam cho phu hop to accommodate oneself to the new way of living  lam cho minh thich nghi voi loi song moi hoa giai, dan xep to accommodate a quarrel  dan xep mot cuoc cai nhau (  with) cung cap, cap cho, kiem cho to accommodate someone with something  cung cap cho ai cai gi to accommodate somebody with a loan  cho ai vay mot so tien chua duoc, dung duoc this hall can accommodate 500 persons  gian phong co the chua duoc 500 nguoi cho tro; tim cho cho tro to be accommodated in the best hotel  tro o khach san sang nhat giup do, lam on accommodate (Tech) thu nhan, chua
+accommodated location	accommodated location (Tech) vi tri thu nhan
+accommodates	accommodate   ngoai dong tu dieu tiet, lam cho thich nghi, lam cho phu hop to accommodate oneself to the new way of living  lam cho minh thich nghi voi loi song moi hoa giai, dan xep to accommodate a quarrel  dan xep mot cuoc cai nhau (  with) cung cap, cap cho, kiem cho to accommodate someone with something  cung cap cho ai cai gi to accommodate somebody with a loan  cho ai vay mot so tien chua duoc, dung duoc this hall can accommodate 500 persons  gian phong co the chua duoc 500 nguoi cho tro; tim cho cho tro to be accommodated in the best hotel  tro o khach san sang nhat giup do, lam on accommodate (Tech) thu nhan, chua
+accommodating	accommodating   ngoai dong tu dieu tiet, lam cho thich nghi, lam cho phu hop to accommodate oneself to the new way of living  lam cho minh thich nghi voi loi song moi hoa giai, dan xep to accommodate a quarrel  dan xep mot cuoc cai nhau (  with) cung cap, cap cho, kiem cho to accommodate someone with something  cung cap cho ai cai gi to accommodate somebody with a loan  cho ai vay mot so tien chua duoc, dung duoc this hall can accommodate 500 persons  gian phong co the chua duoc 500 nguoi cho tro; tim cho cho tro to be accommodated in the best hotel  tro o khach san sang nhat giup do, lam on accommodate (Tech) thu nhan, chua
+Accommodating monetary policy	Accommodating monetary policy (Econ) Chinh sach tien te dieu tiet.  Xem VALIDATED INFLATION
+accommodatingly	accommodatingly xem accommodating
+accommodation	accommodation   danh tu su dieu tiet, su thich nghi, su lam cho phu hop su dieu tiet (suc nhin cua mat) su hoa giai, su dan xep tien nghi, su tien loi, su thuan tien cho tro, cho an cho o mon tien cho vay accommodation (Tech) dieu tiet; thich ung, thich nghi (d)
+accommodation address	accommodation address danh tu dia chi tam
+accommodation ladder	accommodation ladder danh tu &lt;hai&gt; thang day (o ben suon tau thuy de len xuong cac xuong nho)
+accommodation-ladder	accommodation-ladder   danh tu (hang hai) thang, thang day (o ben suon tau thuy de len xuong cac xuong nho)
+accommodation limits	accommodation limits (Tech) gioi han dung chua
+accommodation train	accommodation train   danh tu (tu My,nghia My) xe lua dia phuong (o dia phuong)
+Accommodation transactions	Accommodation transactions (Econ) Cac giao dich dieu tiet.  Trong CAN CAN THANH TOAN, mot loai giao dich tu ban do CAC CO QUAN TIEN TE ap dung hoac dieu hanh de lam doi trong lai tinh trang tin dung hoac tinh trang no nan nay sinh trong cac GIAO DICH TU DINH.
+accommodation unit	accommodation unit   danh tu noi o
+accommodations	accommodation   danh tu su dieu tiet, su thich nghi, su lam cho phu hop su dieu tiet (suc nhin cua mat) su hoa giai, su dan xep tien nghi, su tien loi, su thuan tien cho tro, cho an cho o mon tien cho vay accommodation (Tech) dieu tiet; thich ung, thich nghi (d)
+accommodative	accommodative xem accommodate
+accommodativeness	accommodativeness xem accommodate
+accommodator	accommodator xem accommodate
+accommodators	accommodator xem accommodate
+accommode	accommode (Tech) thich ung, thich nghi (d)
+accompanied	accompany   ngoai dong tu di theo, di cung, di kem, ho tong phu them, kem theo (am nhac) dem (dan, nhac)
+accompanies	accompany   ngoai dong tu di theo, di cung, di kem, ho tong phu them, kem theo (am nhac) dem (dan, nhac)
+accompaniment	accompaniment   danh tu vat phu thuoc, vat kem theo; cai bo sung (am nhac) su dem (dan nhac); phan nhac dem
+accompaniments	accompaniment   danh tu vat phu thuoc, vat kem theo; cai bo sung (am nhac) su dem (dan nhac); phan nhac dem
+accompanist	accompanist   danh tu (am nhac) nguoi dem (nhac, dan)
+accompanists	accompanist   danh tu (am nhac) nguoi dem (nhac, dan)
+accompany	accompany   ngoai dong tu di theo, di cung, di kem, ho tong phu them, kem theo (am nhac) dem (dan, nhac)
+accompanying	accompany   ngoai dong tu di theo, di cung, di kem, ho tong phu them, kem theo (am nhac) dem (dan, nhac)
+accomplice	accomplice   danh tu ke tong pham, ke dong loa
+accomplices	accomplice   danh tu ke tong pham, ke dong loa
+accomplish	accomplish   ngoai dong tu hoan thanh, lam xong, lam tron to accomplish one's task  hoan thanh nhiem vu to accomplish one's promise  lam tron loi hua thuc hien, dat toi (muc dich...) to accomplish one's object  dat muc dich lam (ai) hoan hao, lam (ai) dat toi su hoan my (ve nhac, hoa, nu cong...)
+accomplishable	accomplishable xem accomplish
+accomplished	accomplished   ngoai dong tu hoan thanh, lam xong, lam tron to accomplish one's task  hoan thanh nhiem vu to accomplish one's promise  lam tron loi hua thuc hien, dat toi (muc dich...) to accomplish one's object  dat muc dich lam (ai) hoan hao, lam (ai) dat toi su hoan my (ve nhac, hoa, nu cong...)
+accomplisher	accomplisher xem accomplish
+accomplishes	accomplish   ngoai dong tu hoan thanh, lam xong, lam tron to accomplish one's task  hoan thanh nhiem vu to accomplish one's promise  lam tron loi hua thuc hien, dat toi (muc dich...) to accomplish one's object  dat muc dich lam (ai) hoan hao, lam (ai) dat toi su hoan my (ve nhac, hoa, nu cong...)
+accomplishing	accomplish   ngoai dong tu hoan thanh, lam xong, lam tron to accomplish one's task  hoan thanh nhiem vu to accomplish one's promise  lam tron loi hua thuc hien, dat toi (muc dich...) to accomplish one's object  dat muc dich lam (ai) hoan hao, lam (ai) dat toi su hoan my (ve nhac, hoa, nu cong...)
+accomplishment	accomplishment   danh tu su hoan thanh, su lam xong, su lam tron su thuc hien (muc dich...) the accomplishment of the prophecy  su thuc hien loi tien doan the accomplishment of a desire  su thuc hien duoc mot dieu uoc mong viec da hoan thanh, viec lam xong, y dinh da thuc hien duoc; thanh qua, thanh tuu, thanh tich (so nhieu) tai nang, tai nghe (ve nhac, hoa, nu cong...); (xau) tai vat
+accomplishments	accomplishment   danh tu su hoan thanh, su lam xong, su lam tron su thuc hien (muc dich...) the accomplishment of the prophecy  su thuc hien loi tien doan the accomplishment of a desire  su thuc hien duoc mot dieu uoc mong viec da hoan thanh, viec lam xong, y dinh da thuc hien duoc; thanh qua, thanh tuu, thanh tich (so nhieu) tai nang, tai nghe (ve nhac, hoa, nu cong...); (xau) tai vat
+accord	accord   danh tu su dong long, su dong y, su tan thanh with one accord; of one accord  dong long, nhat tri hoa uoc su phu hop, su hoa hop individual interests must be in accord with the common ones  quyen loi ca nhan phai phu hop voi quyen loi chung (am nhac) su hop am y chi, y muon to do something of one's own accord  tu nguyen lam cai gi  ngoai dong tu lam cho hoa hop cho, ban cho, chap thuan, chap nhan to accord a request  chap thuan mot yeu cau to accord a hearty welcome  tiep dai niem no than ai  noi dong tu (  with) phu hop voi, hoa hop voi, thong nhat voi, nhat tri voi words do not accord with deeds  loi noi khong thong nhat voi hanh dong, loi noi khong di doi voi viec lam
+accordance	accordance   danh tu su dong y, su thoa thuan (voi ai) to do something in accordance with somebody  lam dieu gi co su thoa thuan voi ai su phu hop, su theo dung (cai gi) in accordance with the instructions  theo dung nhung loi chi dan su cho, su ban cho
+accordances	accordance   danh tu su dong y, su thoa thuan (voi ai) to do something in accordance with somebody  lam dieu gi co su thoa thuan voi ai su phu hop, su theo dung (cai gi) in accordance with the instructions  theo dung nhung loi chi dan su cho, su ban cho
+accordant	accordant   tinh tu ((thuong)   with) thich hop, phu hop, hoa hop voi, theo dung voi
+accordantly	accordantly xem accordant
+accorde	accorde danh tu hoa uoc dong tu hoa hop; phu hop cho, ban cho, chap thuan
+accorded	accord   danh tu su dong long, su dong y, su tan thanh with one accord; of one accord  dong long, nhat tri hoa uoc su phu hop, su hoa hop individual interests must be in accord with the common ones  quyen loi ca nhan phai phu hop voi quyen loi chung (am nhac) su hop am y chi, y muon to do something of one's own accord  tu nguyen lam cai gi  ngoai dong tu lam cho hoa hop cho, ban cho, chap thuan, chap nhan to accord a request  chap thuan mot yeu cau to accord a hearty welcome  tiep dai niem no than ai  noi dong tu (  with) phu hop voi, hoa hop voi, thong nhat voi, nhat tri voi words do not accord with deeds  loi noi khong thong nhat voi hanh dong, loi noi khong di doi voi viec lam
+according	according   danh tu su dong long, su dong y, su tan thanh with one accord; of one accord  dong long, nhat tri hoa uoc su phu hop, su hoa hop individual interests must be in accord with the common ones  quyen loi ca nhan phai phu hop voi quyen loi chung (am nhac) su hop am y chi, y muon to do something of one's own accord  tu nguyen lam cai gi  ngoai dong tu lam cho hoa hop cho, ban cho, chap thuan, chap nhan to accord a request  chap thuan mot yeu cau to accord a hearty welcome  tiep dai niem no than ai  noi dong tu (  with) phu hop voi, hoa hop voi, thong nhat voi, nhat tri voi words do not accord with deeds  loi noi khong thong nhat voi hanh dong, loi noi khong di doi voi viec lam
+accordingly	accordingly   pho tu do do, vi vay, cho nen (sao) cho phu hop (voi hoan canh) (  as) (nhu) according as
+accordion	accordion   danh tu (am nhac) dan xep, dan accoc
+accordionist	accordionist   danh tu nguoi choi dan xep, nguoi choi dan accooc
+accordionists	accordionist   danh tu nguoi choi dan xep, nguoi choi dan accooc
+accordions	accordion   danh tu (am nhac) dan xep, dan accoc
+accords	accord   danh tu su dong long, su dong y, su tan thanh with one accord; of one accord  dong long, nhat tri hoa uoc su phu hop, su hoa hop individual interests must be in accord with the common ones  quyen loi ca nhan phai phu hop voi quyen loi chung (am nhac) su hop am y chi, y muon to do something of one's own accord  tu nguyen lam cai gi  ngoai dong tu lam cho hoa hop cho, ban cho, chap thuan, chap nhan to accord a request  chap thuan mot yeu cau to accord a hearty welcome  tiep dai niem no than ai  noi dong tu (  with) phu hop voi, hoa hop voi, thong nhat voi, nhat tri voi words do not accord with deeds  loi noi khong thong nhat voi hanh dong, loi noi khong di doi voi viec lam
+accost	accost   ngoai dong tu den gan bat chuyen ga gam; niu, keo, bam sat (noi ve gai diem)  danh tu su chao
+accosted	accost   ngoai dong tu den gan bat chuyen ga gam; niu, keo, bam sat (noi ve gai diem)  danh tu su chao
+accosting	accost   ngoai dong tu den gan bat chuyen ga gam; niu, keo, bam sat (noi ve gai diem)  danh tu su chao
+accosts	accost   ngoai dong tu den gan bat chuyen ga gam; niu, keo, bam sat (noi ve gai diem)  danh tu su chao
+accouchement	accouchement   danh tu su de
+accouchements	accouchement   danh tu su de
+accoucheur	accoucheur   danh tu nguoi do de
+accoucheurs	accoucheur   danh tu nguoi do de
+accoucheuse	accoucheuse   danh tu nu ho sinh, ba do
+accoucheuses	accoucheuse   danh tu nu ho sinh, ba do
+Account	Account (Econ) Tai khoan.  1.Mot ghi chep giao dich giua hai ben giao dich co the la hai bo phan cua mot doanh nghiep va la yeu to co ban trong tat ca cac he thong giao dich kinh doanh. 2.Cac giai doan, thuong la hai tuan, theo do nam kinh doanh cua SO CHUNG KHOAN LONDON duoc chia ra va qua cac giai doan nay, viec thanh toan cac giao dich tru giao dich chung khoan vien vang duoc tien hanh.
+account	account   danh tu su tinh toan to cast account  tinh toan su ke toan; so sach, ke toan to keep accounts  giu so sach ke toan profit and loss account  muc tinh lo lai ban ke khai; ban thanh toan tien, ban ghi nhung mon tien phai tra account of expenses  ban ke khai cac khoang chi tieu to make out an account of articles  lam ban ke khai mat hang to send in an account with the goods  gui hang kem theo hoa don thanh toan tien su thanh toan to render (settle) an account  thanh toan mot khoan tien (mot mon no) su tra dan, su tra lam nhieu ky to pay a sum on account  tra dan mot so tien sale for the account  ban tra dan tai khoan, so tien gui to have an account in the bank  co tien gui ngan hang account current  so tien hien gui loi, loi ich to turn something to account  su dung cai gi lam cho co loi, loi dung cai gi to find one's in...  tim thay dieu loi o...; duoc huong loi o... ly do, nguyen nhan, su giai thich to give an account of something  giai thich cai gi on no account  khong vi mot ly do gi on account of  vi bao cao, bai tuong thuat; su tuong thuat, su mieu ta to give an account of something  thuat lai chuyen gi a detailed account of a football match  bai tuong thuat chi tiet ve mot tran bong da su danh gia, su chu y, su luu tam to take into account  de y toi, luu tam toi, dem xia toi to make little account of  coi thuong, khong ke den, khong dem xia den, danh gia thap tam quan trong, gia tri of much account  dang ke of small account  khong co gi dang ke lam!according to all accounts theo su danh gia chung, theo y kien chung!to balance the accounts (xem) balance!by all accounts (nhu) according to all accounts!to be called (to go) to one's account (xem) go!to call (bring) to account bat phai bao cao so sach, bat phai bao cao moi khoan thu chi; bat phai giai thich (ve cai gi...)!to cast up accounts(dua cot); (thong tuc) non mua!to cook (doctor) an account gia mao so sach (ke toan); bia ra mot khoan, ke khai gia mao mot khoan!to demand an account doi bao cao so sach; bat phai giai thich (viec gi...)!to give a good account of oneself gay duoc tieng tot cho minh; (the duc,the thao) thang loi, dat duoc ket qua tot!the great account (ton giao) ngay tan the!to hand in one's accounts (tu My,nghia My) thoat no doi; chet!to hold of much account danh gia cao, coi trong!to lay [one's] account for (on, with) something mong doi o cai gi; hy vong o cai gi!to leave out of account khong quan tam den, khong de y den, khong dem xia den!on one's own account vi minh, vi loi ich cua minh, vi muc dich cua minh tu minh phai ganh lay moi su xay ra!on somebody's account vi ai!to settle (square, balance) accounts with somebody thanh toan voi ai tra thu ai, thanh toan moi thu voi ai  ngoai dong tu coi, coi nhu, coi la, cho la to be accounted incocent  duoc coi la vo toi  noi dong tu (  for) giai thich (cho) this accounts for his behaviour  dieu do giai thich thai do doi xu cua han giai thich (viec su dung, thanh toan, tinh toan tien nong) has that sum been accounted for?  so tien do da duoc giai thich la dem su dung vao viec gi chua? (the duc,the thao) ban duoc, ha duoc he alone accounted for a score of pheasants  minh han cung da ban duoc hai muoi con ga loi account (Tech) tai khoan, chuong muc; ke toan; khach hang; tinh toan (d); tinh den, ke den (d) account ke den, tinh den
+account card	account card (Tech) the chuong muc
+account data	account data (Tech) du kien ke toan, so lieu ke toan
+account-holder	account-holder danh tu nguoi nam giu tai khoan; chu tai khoan
+account level security	account level security (Tech) an toan muc ke toan
+account name	account name (Tech) ten chuong muc, ten tai khoan
+account number	account number (Tech) so chuong muc, so tai khoan
+accountability	accountability   danh tu trach nhiem, trach nhiem phai giai thich accountability (Tech) tinh chat kha tinh
+accountable	accountable   tinh tu chiu trach nhiem, co trach nhiem phai giai thich to be accountable to somebody  chiu trach nhiem truoc ai to be accountable for something  chiu trach nhiem ve cai gi co the noi ro duoc, co the giai thich duoc
+accountable time	accountable time (Tech) thoi gian dac dung (may dien toan)
+accountableness	accountableness xem accountable
+accountably	accountably xem accountable
+accountancies	accountancy   danh tu nghe ke toan
+accountancy	accountancy   danh tu nghe ke toan
+accountant	accountant   danh tu nhan vien ke toan, nguoi giu so sach ke toan (phap ly) nguoi co trach nhiem bao cao ve so sach ke toan; nguoi bi can ve mot vu tien nong ke toan
+accountants	accountant   danh tu nhan vien ke toan, nguoi giu so sach ke toan (phap ly) nguoi co trach nhiem bao cao ve so sach ke toan; nguoi bi can ve mot vu tien nong ke toan
+accountantship	accountantship   danh tu chuc ke toan
+accounted	Account (Econ) Tai khoan.  1.Mot ghi chep giao dich giua hai ben giao dich co the la hai bo phan cua mot doanh nghiep va la yeu to co ban trong tat ca cac he thong giao dich kinh doanh. 2.Cac giai doan, thuong la hai tuan, theo do nam kinh doanh cua SO CHUNG KHOAN LONDON duoc chia ra va qua cac giai doan nay, viec thanh toan cac giao dich tru giao dich chung khoan vien vang duoc tien hanh.account   danh tu su tinh toan to cast account  tinh toan su ke toan; so sach, ke toan to keep accounts  giu so sach ke toan profit and loss account  muc tinh lo lai ban ke khai; ban thanh toan tien, ban ghi nhung mon tien phai tra account of expenses  ban ke khai cac khoang chi tieu to make out an account of articles  lam ban ke khai mat hang to send in an account with the goods  gui hang kem theo hoa don thanh toan tien su thanh toan to render (settle) an account  thanh toan mot khoan tien (mot mon no) su tra dan, su tra lam nhieu ky to pay a sum on account  tra dan mot so tien sale for the account  ban tra dan tai khoan, so tien gui to have an account in the bank  co tien gui ngan hang account current  so tien hien gui loi, loi ich to turn something to account  su dung cai gi lam cho co loi, loi dung cai gi to find one's in...  tim thay dieu loi o...; duoc huong loi o... ly do, nguyen nhan, su giai thich to give an account of something  giai thich cai gi on no account  khong vi mot ly do gi on account of  vi bao cao, bai tuong thuat; su tuong thuat, su mieu ta to give an account of something  thuat lai chuyen gi a detailed account of a football match  bai tuong thuat chi tiet ve mot tran bong da su danh gia, su chu y, su luu tam to take into account  de y toi, luu tam toi, dem xia toi to make little account of  coi thuong, khong ke den, khong dem xia den, danh gia thap tam quan trong, gia tri of much account  dang ke of small account  khong co gi dang ke lam!according to all accounts theo su danh gia chung, theo y kien chung!to balance the accounts (xem) balance!by all accounts (nhu) according to all accounts!to be called (to go) to one's account (xem) go!to call (bring) to account bat phai bao cao so sach, bat phai bao cao moi khoan thu chi; bat phai giai thich (ve cai gi...)!to cast up accounts(dua cot); (thong tuc) non mua!to cook (doctor) an account gia mao so sach (ke toan); bia ra mot khoan, ke khai gia mao mot khoan!to demand an account doi bao cao so sach; bat phai giai thich (viec gi...)!to give a good account of oneself gay duoc tieng tot cho minh; (the duc,the thao) thang loi, dat duoc ket qua tot!the great account (ton giao) ngay tan the!to hand in one's accounts (tu My,nghia My) thoat no doi; chet!to hold of much account danh gia cao, coi trong!to lay [one's] account for (on, with) something mong doi o cai gi; hy vong o cai gi!to leave out of account khong quan tam den, khong de y den, khong dem xia den!on one's own account vi minh, vi loi ich cua minh, vi muc dich cua minh tu minh phai ganh lay moi su xay ra!on somebody's account vi ai!to settle (square, balance) accounts with somebody thanh toan voi ai tra thu ai, thanh toan moi thu voi ai  ngoai dong tu coi, coi nhu, coi la, cho la to be accounted incocent  duoc coi la vo toi  noi dong tu (  for) giai thich (cho) this accounts for his behaviour  dieu do giai thich thai do doi xu cua han giai thich (viec su dung, thanh toan, tinh toan tien nong) has that sum been accounted for?  so tien do da duoc giai thich la dem su dung vao viec gi chua? (the duc,the thao) ban duoc, ha duoc he alone accounted for a score of pheasants  minh han cung da ban duoc hai muoi con ga loi account (Tech) tai khoan, chuong muc; ke toan; khach hang; tinh toan (d); tinh den, ke den (d) account ke den, tinh den
+accounting	accounting   danh tu su tinh toan to cast account  tinh toan su ke toan; so sach, ke toan to keep accounts  giu so sach ke toan profit and loss account  muc tinh lo lai ban ke khai; ban thanh toan tien, ban ghi nhung mon tien phai tra account of expenses  ban ke khai cac khoang chi tieu to make out an account of articles  lam ban ke khai mat hang to send in an account with the goods  gui hang kem theo hoa don thanh toan tien su thanh toan to render (settle) an account  thanh toan mot khoan tien (mot mon no) su tra dan, su tra lam nhieu ky to pay a sum on account  tra dan mot so tien sale for the account  ban tra dan tai khoan, so tien gui to have an account in the bank  co tien gui ngan hang account current  so tien hien gui loi, loi ich to turn something to account  su dung cai gi lam cho co loi, loi dung cai gi to find one's in...  tim thay dieu loi o...; duoc huong loi o... ly do, nguyen nhan, su giai thich to give an account of something  giai thich cai gi on no account  khong vi mot ly do gi on account of  vi bao cao, bai tuong thuat; su tuong thuat, su mieu ta to give an account of something  thuat lai chuyen gi a detailed account of a football match  bai tuong thuat chi tiet ve mot tran bong da su danh gia, su chu y, su luu tam to take into account  de y toi, luu tam toi, dem xia toi to make little account of  coi thuong, khong ke den, khong dem xia den, danh gia thap tam quan trong, gia tri of much account  dang ke of small account  khong co gi dang ke lam!according to all accounts theo su danh gia chung, theo y kien chung!to balance the accounts (xem) balance!by all accounts (nhu) according to all accounts!to be called (to go) to one's account (xem) go!to call (bring) to account bat phai bao cao so sach, bat phai bao cao moi khoan thu chi; bat phai giai thich (ve cai gi...)!to cast up accounts(dua cot); (thong tuc) non mua!to cook (doctor) an account gia mao so sach (ke toan); bia ra mot khoan, ke khai gia mao mot khoan!to demand an account doi bao cao so sach; bat phai giai thich (viec gi...)!to give a good account of oneself gay duoc tieng tot cho minh; (the duc,the thao) thang loi, dat duoc ket qua tot!the great account (ton giao) ngay tan the!to hand in one's accounts (tu My,nghia My) thoat no doi; chet!to hold of much account danh gia cao, coi trong!to lay [one's] account for (on, with) something mong doi o cai gi; hy vong o cai gi!to leave out of account khong quan tam den, khong de y den, khong dem xia den!on one's own account vi minh, vi loi ich cua minh, vi muc dich cua minh tu minh phai ganh lay moi su xay ra!on somebody's account vi ai!to settle (square, balance) accounts with somebody thanh toan voi ai tra thu ai, thanh toan moi thu voi ai  ngoai dong tu coi, coi nhu, coi la, cho la to be accounted incocent  duoc coi la vo toi  noi dong tu (  for) giai thich (cho) this accounts for his behaviour  dieu do giai thich thai do doi xu cua han giai thich (viec su dung, thanh toan, tinh toan tien nong) has that sum been accounted for?  so tien do da duoc giai thich la dem su dung vao viec gi chua? (the duc,the thao) ban duoc, ha duoc he alone accounted for a score of pheasants  minh han cung da ban duoc hai muoi con ga loi account (Tech) tai khoan, chuong muc; ke toan; khach hang; tinh toan (d); tinh den, ke den (d) account ke den, tinh den
+accounting data	accounting data (Tech) du kien ke toan
+accounting file	accounting file (Tech) ho so ke toan
+accounting information	accounting information (Tech) thong tin ke toan
+accounting journal	accounting journal (Tech) bien ban ke toan, nhat ky ke toan
+accounting legend	accounting legend (Tech) chu giai ke toan
+accounting machine	accounting machine (Tech) may ke toan
+accounting package	accounting package (Tech) toan bo chuong trinh ke toan
+Accounting price	Accounting price (Econ) Gia ke toan.
+accounting process	accounting process (Tech) trinh tu/qua trinh ke toan
+accounting program	accounting program (Tech) chuong trinh ke toan
+accounting rate	accounting rate (Tech) bieu suat ke toan
+accounting record	accounting record (Tech) ban ghi ke toan
+accounting report	accounting report (Tech) bao cao ke toan
+accounting routine	accounting routine (Tech) thuong trinh ke toan
+accounting software	accounting software (Tech) nhu lieu/phan mem ke toan
+accounting symbol	accounting symbol (Tech) bieu tuong ke toan
+accounts	Account (Econ) Tai khoan.  1.Mot ghi chep giao dich giua hai ben giao dich co the la hai bo phan cua mot doanh nghiep va la yeu to co ban trong tat ca cac he thong giao dich kinh doanh. 2.Cac giai doan, thuong la hai tuan, theo do nam kinh doanh cua SO CHUNG KHOAN LONDON duoc chia ra va qua cac giai doan nay, viec thanh toan cac giao dich tru giao dich chung khoan vien vang duoc tien hanh.account   danh tu su tinh toan to cast account  tinh toan su ke toan; so sach, ke toan to keep accounts  giu so sach ke toan profit and loss account  muc tinh lo lai ban ke khai; ban thanh toan tien, ban ghi nhung mon tien phai tra account of expenses  ban ke khai cac khoang chi tieu to make out an account of articles  lam ban ke khai mat hang to send in an account with the goods  gui hang kem theo hoa don thanh toan tien su thanh toan to render (settle) an account  thanh toan mot khoan tien (mot mon no) su tra dan, su tra lam nhieu ky to pay a sum on account  tra dan mot so tien sale for the account  ban tra dan tai khoan, so tien gui to have an account in the bank  co tien gui ngan hang account current  so tien hien gui loi, loi ich to turn something to account  su dung cai gi lam cho co loi, loi dung cai gi to find one's in...  tim thay dieu loi o...; duoc huong loi o... ly do, nguyen nhan, su giai thich to give an account of something  giai thich cai gi on no account  khong vi mot ly do gi on account of  vi bao cao, bai tuong thuat; su tuong thuat, su mieu ta to give an account of something  thuat lai chuyen gi a detailed account of a football match  bai tuong thuat chi tiet ve mot tran bong da su danh gia, su chu y, su luu tam to take into account  de y toi, luu tam toi, dem xia toi to make little account of  coi thuong, khong ke den, khong dem xia den, danh gia thap tam quan trong, gia tri of much account  dang ke of small account  khong co gi dang ke lam!according to all accounts theo su danh gia chung, theo y kien chung!to balance the accounts (xem) balance!by all accounts (nhu) according to all accounts!to be called (to go) to one's account (xem) go!to call (bring) to account bat phai bao cao so sach, bat phai bao cao moi khoan thu chi; bat phai giai thich (ve cai gi...)!to cast up accounts(dua cot); (thong tuc) non mua!to cook (doctor) an account gia mao so sach (ke toan); bia ra mot khoan, ke khai gia mao mot khoan!to demand an account doi bao cao so sach; bat phai giai thich (viec gi...)!to give a good account of oneself gay duoc tieng tot cho minh; (the duc,the thao) thang loi, dat duoc ket qua tot!the great account (ton giao) ngay tan the!to hand in one's accounts (tu My,nghia My) thoat no doi; chet!to hold of much account danh gia cao, coi trong!to lay [one's] account for (on, with) something mong doi o cai gi; hy vong o cai gi!to leave out of account khong quan tam den, khong de y den, khong dem xia den!on one's own account vi minh, vi loi ich cua minh, vi muc dich cua minh tu minh phai ganh lay moi su xay ra!on somebody's account vi ai!to settle (square, balance) accounts with somebody thanh toan voi ai tra thu ai, thanh toan moi thu voi ai  ngoai dong tu coi, coi nhu, coi la, cho la to be accounted incocent  duoc coi la vo toi  noi dong tu (  for) giai thich (cho) this accounts for his behaviour  dieu do giai thich thai do doi xu cua han giai thich (viec su dung, thanh toan, tinh toan tien nong) has that sum been accounted for?  so tien do da duoc giai thich la dem su dung vao viec gi chua? (the duc,the thao) ban duoc, ha duoc he alone accounted for a score of pheasants  minh han cung da ban duoc hai muoi con ga loi account (Tech) tai khoan, chuong muc; ke toan; khach hang; tinh toan (d); tinh den, ke den (d) account ke den, tinh den
+accouterment	accouterment danh tu (My) trang bi y phuc do quan dung (cua nguoi linh)
+accouterments	accouterment danh tu (My) trang bi y phuc do quan dung (cua nguoi linh)
+accoutre	accoutre   ngoai dong tu mac cho (bo do dac biet...); trang bi cho
+accoutrement	accoutrement   danh tu,  (thuong) so nhieu bo ao quan dac biet; quan ao (quan su) do trang bi (cho nguoi linh, tru quan ao, sung)
+accoutrements	accoutrements danh tu, pl quan ao, trang phuc &lt;qsu&gt; do trang bi cho nguoi linh (tru quan ao, sung)accoutrement   danh tu,  (thuong) so nhieu bo ao quan dac biet; quan ao (quan su) do trang bi (cho nguoi linh, tru quan ao, sung)
+accredit	accredit   ngoai dong tu lam cho nguoi ta tin (y kien, tin tuc, tin don...) lam cho duoc tin nhiem, gay uy tin cho (ai...) uy nhiem lam (dai su...) to accredit someone ambassador to (at)...  uy nhiem ai lam dai su o... (  to,  with) gan cho, quy cho, do cho to accredit a saying tosomebody; to accredit somebody with a saying  gan cho ai da noi cau gi, do cho ai da noi cau gi
+accredited	accredited   ngoai dong tu lam cho nguoi ta tin (y kien, tin tuc, tin don...) lam cho duoc tin nhiem, gay uy tin cho (ai...) uy nhiem lam (dai su...) to accredit someone ambassador to (at)...  uy nhiem ai lam dai su o... (  to,  with) gan cho, quy cho, do cho to accredit a saying tosomebody; to accredit somebody with a saying  gan cho ai da noi cau gi, do cho ai da noi cau gi
+accrediting	accredit   ngoai dong tu lam cho nguoi ta tin (y kien, tin tuc, tin don...) lam cho duoc tin nhiem, gay uy tin cho (ai...) uy nhiem lam (dai su...) to accredit someone ambassador to (at)...  uy nhiem ai lam dai su o... (  to,  with) gan cho, quy cho, do cho to accredit a saying tosomebody; to accredit somebody with a saying  gan cho ai da noi cau gi, do cho ai da noi cau gi
+accredits	accredit   ngoai dong tu lam cho nguoi ta tin (y kien, tin tuc, tin don...) lam cho duoc tin nhiem, gay uy tin cho (ai...) uy nhiem lam (dai su...) to accredit someone ambassador to (at)...  uy nhiem ai lam dai su o... (  to,  with) gan cho, quy cho, do cho to accredit a saying tosomebody; to accredit somebody with a saying  gan cho ai da noi cau gi, do cho ai da noi cau gi
+accrescent	accrescent   tinh tu (thuc vat hoc) cung phat trien, cung lon len
+accrete	accrete   dong tu cung phat trien, cung lon len thanh mot khoi boi dan len quanh mot hat nhan, phat trien dan len quanh mot hat nhan  tinh tu (thuc vat hoc) lon len
+accreted	accrete   dong tu cung phat trien, cung lon len thanh mot khoi boi dan len quanh mot hat nhan, phat trien dan len quanh mot hat nhan  tinh tu (thuc vat hoc) lon len
+accretes	accrete   dong tu cung phat trien, cung lon len thanh mot khoi boi dan len quanh mot hat nhan, phat trien dan len quanh mot hat nhan  tinh tu (thuc vat hoc) lon len
+accreting	accrete   dong tu cung phat trien, cung lon len thanh mot khoi boi dan len quanh mot hat nhan, phat trien dan len quanh mot hat nhan  tinh tu (thuc vat hoc) lon len
+accretion	accretion   danh tu su lon dan len, su phat trien dan len,  su boi dan vao phan boi them, phan phat trien dan len (phap ly) su tang them (cua cai, tai san...)
+accretionary	accretionary xem accretion
+accretions	accretion   danh tu su lon dan len, su phat trien dan len,  su boi dan vao phan boi them, phan phat trien dan len (phap ly) su tang them (cua cai, tai san...)
+accretive	accretive   tinh tu lon dan len, phat trien dan len duoc boi dan vao
+accrual	accrual   danh tu su don lai, su tich lai so luong don lai, so luong tich lai
+accruals	accrual   danh tu su don lai, su tich lai so luong don lai, so luong tich lai
+accrue	accrue   noi dong tu (  to) do don ve (ai...) great profit accrued to them  nhung mon loi lon cu don ve ho (  from) sinh ra (tu...), do... ma ra such difficulties always accrue from carelessness  nhung kho khan nhu vay thuong do su cau tha ma ra don lai, tich luy lai (tien lai...) interest accrues from the first of January  tien lai don lai tu ngay mong mot thang gieng accrued interest  tien lai de don lai
+accrued	accrue   noi dong tu (  to) do don ve (ai...) great profit accrued to them  nhung mon loi lon cu don ve ho (  from) sinh ra (tu...), do... ma ra such difficulties always accrue from carelessness  nhung kho khan nhu vay thuong do su cau tha ma ra don lai, tich luy lai (tien lai...) interest accrues from the first of January  tien lai don lai tu ngay mong mot thang gieng accrued interest  tien lai de don lai
+Accrued expenses	Accrued expenses (Econ) Chi phi phat sinh (tinh truoc).  Thuong muc trong tai khoan cua mot cong ty duoc ghi nhu mot khoan no cua cac dich vu da su dung nhung chua duoc thanh toan.
+accruement	accruement   danh tu su don lai, su tich lai so luong don lai, so luong tich lai
+accrues	accrue   noi dong tu (  to) do don ve (ai...) great profit accrued to them  nhung mon loi lon cu don ve ho (  from) sinh ra (tu...), do... ma ra such difficulties always accrue from carelessness  nhung kho khan nhu vay thuong do su cau tha ma ra don lai, tich luy lai (tien lai...) interest accrues from the first of January  tien lai don lai tu ngay mong mot thang gieng accrued interest  tien lai de don lai
+accruing	accrue   noi dong tu (  to) do don ve (ai...) great profit accrued to them  nhung mon loi lon cu don ve ho (  from) sinh ra (tu...), do... ma ra such difficulties always accrue from carelessness  nhung kho khan nhu vay thuong do su cau tha ma ra don lai, tich luy lai (tien lai...) interest accrues from the first of January  tien lai don lai tu ngay mong mot thang gieng accrued interest  tien lai de don lai
+acculturate	acculturate ngoai dong tu tiep bien ve van hoa
+acculturation	acculturation danh tu su tiep nhan va bien doi van hoa, su tiep bien ve van hoa
+accumbent	accumbent tinh tu (sinh hoc) ap ngoai; cap vao
+accumulable	accumulable xem accumulate
+accumulate	accumulate   dong tu chat dong, chong chat, tich luy, gom gop lai to accumulate capital  tich luy von to accumulate good experience  tich luy nhung kinh nghiem hay garbage accumulated  rac ruoi chat dong len lam giau, tich cua thi cung mot luc nhieu bang (o truong dai hoc) accumulate (Tech) tich luy [TQ], luy tich [TQ], luy toan [NB], cong don(d) accumulate tich luy, tu
+accumulated	accumulate   dong tu chat dong, chong chat, tich luy, gom gop lai to accumulate capital  tich luy von to accumulate good experience  tich luy nhung kinh nghiem hay garbage accumulated  rac ruoi chat dong len lam giau, tich cua thi cung mot luc nhieu bang (o truong dai hoc) accumulate (Tech) tich luy [TQ], luy tich [TQ], luy toan [NB], cong don(d) accumulate tich luy, tu
+Accumulated depreciation	Accumulated depreciation (Econ) Khau hao tich luy.
+accumulated deviation	accumulated deviation (Tech) do sai biet tich luy
+accumulated error	accumulated error (Tech) sai so tich luy
+accumulates	accumulate   dong tu chat dong, chong chat, tich luy, gom gop lai to accumulate capital  tich luy von to accumulate good experience  tich luy nhung kinh nghiem hay garbage accumulated  rac ruoi chat dong len lam giau, tich cua thi cung mot luc nhieu bang (o truong dai hoc) accumulate (Tech) tich luy [TQ], luy tich [TQ], luy toan [NB], cong don(d) accumulate tich luy, tu
+accumulating	accumulate   dong tu chat dong, chong chat, tich luy, gom gop lai to accumulate capital  tich luy von to accumulate good experience  tich luy nhung kinh nghiem hay garbage accumulated  rac ruoi chat dong len lam giau, tich cua thi cung mot luc nhieu bang (o truong dai hoc) accumulate (Tech) tich luy [TQ], luy tich [TQ], luy toan [NB], cong don(d) accumulate tich luy, tu
+accumulation	accumulation   danh tu su chat dong, su chong chat, su tich luy, su tich lai, su tich tu, su gop nhat su lam giau, su tich cua su tich them von (do lai ngay mot de ra) dong (giay ma, sach vo...) su thi cung mot luc nhieu bang (o truong dai hoc) accumulation su tich luy; su tu, diem tu
+accumulation electrode	accumulation electrode (Tech) dien cuc tich luy
+accumulation layer	accumulation layer (Tech) lop luy tich
+accumulations	accumulation   danh tu su chat dong, su chong chat, su tich luy, su tich lai, su tich tu, su gop nhat su lam giau, su tich cua su tich them von (do lai ngay mot de ra) dong (giay ma, sach vo...) su thi cung mot luc nhieu bang (o truong dai hoc) accumulation su tich luy; su tu, diem tu
+accumulative	accumulative   tinh tu chat dong, chong chat; tich luy duoc, gop nhat duoc accumulative evidence  nhung chung co chong chat thich tich luy cua cai, ham lam giau (nguoi)
+accumulative carry	accumulative carry (Tech) so nho tich luy
+accumulatively	accumulatively xem accumulative
+accumulativeness	accumulativeness xem accumulative
+accumulator	accumulator   danh tu nguoi tich luy nguoi thich lam giau, nguoi tru cua (vat ly) acquy nguoi thi cung mot luc nhieu bang (o truong dai hoc) accumulator (Tech) binh dien, acquy, pin chua; bo tich luy; thanh tong; bo cong, may luy toan accumulator (may tinh) bo tich luy, bo dem; bo cong tich luy adder a. bo cong tich luy double precision a. bo cong kep floating a. bo cong voi day phay di dong imaginary a. phan ao cua bo cong tich luy real a. phan thuc cua bo cong tich luy round - off a. bo tich luy do sai quy tron singleprecision a. bo cong don sum a. bo tich luy tong
+accumulator battery	accumulator battery (Tech) binh dien (tru)
+accumulator cell	accumulator cell (Tech) binh tru dien; bo tich
+accumulator register	accumulator register (Tech) bo ghi tong cong/luy gia [DL], ngan tich luy, thanh tich luy
+accumulators	accumulator   danh tu nguoi tich luy nguoi thich lam giau, nguoi tru cua (vat ly) acquy nguoi thi cung mot luc nhieu bang (o truong dai hoc) accumulator (Tech) binh dien, acquy, pin chua; bo tich luy; thanh tong; bo cong, may luy toan accumulator (may tinh) bo tich luy, bo dem; bo cong tich luy adder a. bo cong tich luy double precision a. bo cong kep floating a. bo cong voi day phay di dong imaginary a. phan ao cua bo cong tich luy real a. phan thuc cua bo cong tich luy round - off a. bo tich luy do sai quy tron singleprecision a. bo cong don sum a. bo tich luy tong
+accuracies	accuracy   danh tu su dung dan, su chinh xac; do chinh xac accuracy of fire  su ban chinh xac high accuracy  do chinh xac cao accuracy of measurement  do chinh xac cua phep do accuracy (Tech) chinh xac (d); do chinh xac accuracy [su; do] chinh xac a. of a solution do chinh xac cua nghiem adequate a. do chinh xac [can thiet, doi hoi, thich hop] attainable a. do chinh xac trong, thong tin Fiso
+accuracy	accuracy   danh tu su dung dan, su chinh xac; do chinh xac accuracy of fire  su ban chinh xac high accuracy  do chinh xac cao accuracy of measurement  do chinh xac cua phep do accuracy (Tech) chinh xac (d); do chinh xac accuracy [su; do] chinh xac a. of a solution do chinh xac cua nghiem adequate a. do chinh xac [can thiet, doi hoi, thich hop] attainable a. do chinh xac trong, thong tin Fiso
+accurate	accurate   tinh tu dung dan, chinh xac, xac dang an accurate watch  dong ho chinh xac an accurate remark  mot nhan xet xac dang accurate chinh xac a. to five decimalplaces chinh xac den nam so thap phan
+accurately	accurately pho tu dung dan, chinh xac, xac dang
+accurateness	accurateness   danh tu su dung dan, su chinh xac; do chinh xac accuracy of fire  su ban chinh xac high accuracy  do chinh xac cao accuracy of measurement  do chinh xac cua phep do
+accursal	accursal   danh tu su ket toi, su buoc toi; su bi ket toi to bring an accusation against  ket toi, buoc toi to be under an accusation of  bi ket toi ve, bi buoc toi ve su to cao cao trang
+accursed	accursed   tinh tu dang nguyen rua, dang ghet, ghe tom xau so, phan rui, phan ham hiu phien toai, kho chiu
+accursedly	accursedly xem accursed
+accursedness	accursedness xem accursed
+accurst	accurst   tinh tu dang nguyen rua, dang ghet, ghe tom xau so, phan rui, phan ham hiu phien toai, kho chiu
+accusal	accusal su ket toi, su buoc toi; su bi ket toi su to cao cao trang
+accusals	accusal su ket toi, su buoc toi; su bi ket toi su to cao cao trang
+accusation	accusation   danh tu su ket toi, su buoc toi; su bi ket toi to bring an accusation against  ket toi, buoc toi to be under an accusation of  bi ket toi ve, bi buoc toi ve su to cao cao trang
+accusations	accusation   danh tu su ket toi, su buoc toi; su bi ket toi to bring an accusation against  ket toi, buoc toi to be under an accusation of  bi ket toi ve, bi buoc toi ve su to cao cao trang
+accusative	accusative   tinh tu (ngon ngu hoc) (thuoc) doi cach  danh tu (ngon ngu hoc) doi cach
+accusatively	accusatively xem accusative
+accusatives	accusative   tinh tu (ngon ngu hoc) (thuoc) doi cach  danh tu (ngon ngu hoc) doi cach
+accusatorial	accusatorial   tinh tu buoc toi, ket toi; to cao
+accusatorially	accusatorially xem accusatorial
+accusatory	accusatory   tinh tu buoc toi, ket toi; to cao
+accusatrix	accuser   danh tu uy vien cong to, nguoi buoc toi nguyen cao
+accusatrixes	accuser   danh tu uy vien cong to, nguoi buoc toi nguyen cao
+accuse	accuse   ngoai dong tu buoc toi, ket toi; to cao the accused  nguoi bi ket toi, nguoi bi buoc toi; bi cao
+accused	accused danh tu bi caoaccuse   ngoai dong tu buoc toi, ket toi; to cao the accused  nguoi bi ket toi, nguoi bi buoc toi; bi cao
+accuser	accuser   danh tu uy vien cong to, nguoi buoc toi nguyen cao
+accusers	accuser   danh tu uy vien cong to, nguoi buoc toi nguyen cao
+accuses	accuse   ngoai dong tu buoc toi, ket toi; to cao the accused  nguoi bi ket toi, nguoi bi buoc toi; bi cao
+accusing	accuse   ngoai dong tu buoc toi, ket toi; to cao the accused  nguoi bi ket toi, nguoi bi buoc toi; bi cao
+accusingly	accusingly pho tu voi ve cao buoc, voi ve to cao
+accustom	accustom   ngoai dong tu lam cho quen, tap cho quen to accustom oneself to something  lam cho quen voi viec gi
+accustomed	accustomed   ngoai dong tu lam cho quen, tap cho quen to accustom oneself to something  lam cho quen voi viec gi
+accustoming	accustom   ngoai dong tu lam cho quen, tap cho quen to accustom oneself to something  lam cho quen voi viec gi
+accustoms	accustom   ngoai dong tu lam cho quen, tap cho quen to accustom oneself to something  lam cho quen voi viec gi
+ace	ace   danh tu (danh bai) quan at, quan xi; diem 1 (tren quan bai hay con suc sac) duece ace  mot con "hai" va mot con "mot" (danh suc sac) phi cong xuat sac (ha duoc tren muoi may bay dich); van dong vien xuat sac; nguoi gioi nhat (ve cai gi...); nha vo dich (the duc,the thao) cu giao bong thang diem; diem thang giao bong (quan vot) chut xiu to be within an ace of death  suyt nua thi chet!ace in the hole (tu My,nghia My),  (thong tuc) quan bai chu cao nhat danh cho luc can den (den &amp; bong) nguoi ban co the dua khi gap kho khan!the ace of aces phi cong uu tu nhat nguoi xuat sac nhat trong nhung nguoi xuat sac!the ace of trumps quan bai chu cao nhat!to have an ace up one's sleeve giu kin quan bai chu cao nhat danh cho luc can!to trump somebody's ace cat quan at cua ai bang bai chu gat duoc mot don ac hiem cua ai ace (ly thuyet tro choi) diem mot, mat nhat (suc sac), quan at (bai)
+acellular	acellular tinh tu khong co te bao; khong chia thanh te bao
+acentral	acentral khong trung tam
+acentric	acentric tinh tu khong co tam, khong co doan trung tam
+acephalous	acephalous   tinh tu khong co dau khong co tuong, khong co nguoi cam dau; khong chiu nhan ai la nguoi cam dau (thong tuc) cut dau, bi chat ngon thieu am dau (cau tho)
+acerate	acerate tinh tu co dang kim; co dau nhon
+acerbate	acerbate   ngoai dong tu lam tang, lam tram trong (benh, su tuc gian, su dau don) lam buc tuc, lam cau tiet, lam tuc gian
+acerbic	acerbic tinh tu chua chat, gay gat
+acerbically	acerbically xem acerbic
+acerbities	acerbity   danh tu vi chat, vi chua chat tinh chua chat, tinh gay gat (giong noi...)
+acerbity	acerbity   danh tu vi chat, vi chua chat tinh chua chat, tinh gay gat (giong noi...)
+acerose	acerose   tinh tu (thuc vat hoc) hinh kim (la thong, la tung...)
+acerous	acerous   tinh tu (thuc vat hoc) hinh kim (la thong, la tung...)
+acervate	acervate   tinh tu (thuc vat hoc) moc thanh chum
+acervuline	acervuline tinh tu chen chuc, day dac; thanh cum, thanh chum
+aces	ace   danh tu (danh bai) quan at, quan xi; diem 1 (tren quan bai hay con suc sac) duece ace  mot con "hai" va mot con "mot" (danh suc sac) phi cong xuat sac (ha duoc tren muoi may bay dich); van dong vien xuat sac; nguoi gioi nhat (ve cai gi...); nha vo dich (the duc,the thao) cu giao bong thang diem; diem thang giao bong (quan vot) chut xiu to be within an ace of death  suyt nua thi chet!ace in the hole (tu My,nghia My),  (thong tuc) quan bai chu cao nhat danh cho luc can den (den &amp; bong) nguoi ban co the dua khi gap kho khan!the ace of aces phi cong uu tu nhat nguoi xuat sac nhat trong nhung nguoi xuat sac!the ace of trumps quan bai chu cao nhat!to have an ace up one's sleeve giu kin quan bai chu cao nhat danh cho luc can!to trump somebody's ace cat quan at cua ai bang bai chu gat duoc mot don ac hiem cua ai ace (ly thuyet tro choi) diem mot, mat nhat (suc sac), quan at (bai)
+acescent	acescent   tinh tu hoa chua; chua
+acetabula	acetabulum danh tu o coi; dia nhau
+acetabuliform	acetabuliform tinh tu dang coi; dang chen
+acetabulum	acetabulum danh tu o coi; dia nhau
+acetabulums	acetabulum danh tu o coi; dia nhau
+acetate	acetate   danh tu (hoa hoc) Axetat
+acetate film	acetate film (Tech) phim axetat
+acetates	acetate   danh tu (hoa hoc) Axetat
+acetic	acetic   tinh tu (hoa hoc) axetic; (thuoc) giam acetic acid  axit axetic acetic fermentation  su len men giam
+acetic acid	acetic acid (hoa) axit axetic
+acetification	acetification   danh tu su hoa giam; su lam thanh giam
+acetified	acetify   ngoai dong tu lam thanh giam  noi dong tu hoa chua; hoa thanh giam
+acetifier	acetifier xem acetify
+acetifies	acetify   ngoai dong tu lam thanh giam  noi dong tu hoa chua; hoa thanh giam
+acetify	acetify   ngoai dong tu lam thanh giam  noi dong tu hoa chua; hoa thanh giam
+acetifying	acetify   ngoai dong tu lam thanh giam  noi dong tu hoa chua; hoa thanh giam
+acetone	acetone   danh tu axeton
+acetonic	acetonic xem acetone
+acetous	acetous   tinh tu chua, co vi giam
+acetylen	acetylen danh tu (hoa) axetilen
+acetylene	acetylene   danh tu (hoa hoc) Axetylen
+acetylenic	acetylenic xem acetylene
+ache	ache   danh tu su dau, su nhuc  noi dong tu dau, nhuc, nhuc nhoi my head aches  toi nhuc dau (nghia bong) dau don my head aches at the sight of such misfortunes  long toi dau don truoc nhung canh ngo rui ro ay
+ached	ache   danh tu su dau, su nhuc  noi dong tu dau, nhuc, nhuc nhoi my head aches  toi nhuc dau (nghia bong) dau don my head aches at the sight of such misfortunes  long toi dau don truoc nhung canh ngo rui ro ay
+acheless	acheless tinh tu khong dau don, khong dau xot
+achene	achene   danh tu (thuc vat hoc) qua be
+achenes	achene   danh tu (thuc vat hoc) qua be
+achenial	achenial xem achene
+aches	ache   danh tu su dau, su nhuc  noi dong tu dau, nhuc, nhuc nhoi my head aches  toi nhuc dau (nghia bong) dau don my head aches at the sight of such misfortunes  long toi dau don truoc nhung canh ngo rui ro ay
+achiasmatic	achiasmatic tinh tu khong vat treo
+achier	achy tinh tu bi dau nhuc
+achiest	achy tinh tu bi dau nhuc
+achievable	achievable   tinh tu co the dat duoc, co the thuc hien duoc an achievable task  nhiem vu co the thuc hien duoc achievable results  ket qua co the dat duoc
+achieve	achieve   ngoai dong tu dat duoc, gianh duoc to achieve one's purpose (aim)  dat muc dich to achieve good results  dat duoc nhung ket qua tot to achieve national independence  gianh doc lap dan toc to achieve great victories  gianh duoc nhung chien thang lon hoan thanh, thuc hien to achieve a great work  hoan thanh mot cong trinh lon to achieve one's task  hoan thanh nhiem vu
+achieved	achieve   ngoai dong tu dat duoc, gianh duoc to achieve one's purpose (aim)  dat muc dich to achieve good results  dat duoc nhung ket qua tot to achieve national independence  gianh doc lap dan toc to achieve great victories  gianh duoc nhung chien thang lon hoan thanh, thuc hien to achieve a great work  hoan thanh mot cong trinh lon to achieve one's task  hoan thanh nhiem vu
+achievement	achievement   danh tu thanh tich, thanh tuu to record great achievements  dat duoc nhung thanh tich lon a scientific achievement  mot thanh tuu khoa hoc su dat duoc, su gianh duoc; su hoan thanh the achievement of independence  su gianh duoc doc lap huy hieu, huy chuong (de ghi nho mot thanh tich ve vang)
+achievements	achievement   danh tu thanh tich, thanh tuu to record great achievements  dat duoc nhung thanh tich lon a scientific achievement  mot thanh tuu khoa hoc su dat duoc, su gianh duoc; su hoan thanh the achievement of independence  su gianh duoc doc lap huy hieu, huy chuong (de ghi nho mot thanh tich ve vang)
+achiever	achiever xem achieve
+achievers	achiever xem achieve
+achieves	achieve   ngoai dong tu dat duoc, gianh duoc to achieve one's purpose (aim)  dat muc dich to achieve good results  dat duoc nhung ket qua tot to achieve national independence  gianh doc lap dan toc to achieve great victories  gianh duoc nhung chien thang lon hoan thanh, thuc hien to achieve a great work  hoan thanh mot cong trinh lon to achieve one's task  hoan thanh nhiem vu
+achieving	achieve   ngoai dong tu dat duoc, gianh duoc to achieve one's purpose (aim)  dat muc dich to achieve good results  dat duoc nhung ket qua tot to achieve national independence  gianh doc lap dan toc to achieve great victories  gianh duoc nhung chien thang lon hoan thanh, thuc hien to achieve a great work  hoan thanh mot cong trinh lon to achieve one's task  hoan thanh nhiem vu
+Achieving Society, the.	Achieving Society, the. (Econ) Xa hoi thanh dat.  Day la tieu de cua mot cuon sach do giao su David C. Mc. Clelland cua truong dai hoc Harvard (Princeton, NJ, 1962) xuat ban, trong do ong dinh nghia khai niem dong co thanh dat de do y nghi tuong tuong va muc do cua cac y tuong moi ma ong coi la nhan cach can thiet doi voi cac CHU DOANH NGHIEP va vi vay co y nghia doi voi SU PHAT TRIEN KINH TE.
+achilles	achilles   danh tu A-sin (anh hung co Hy lap)
+achilles heel	achilles heel danh tu diem yeu
+achilles' tendon	achilles' tendon (giai) gan got
+achiness	achiness xem achy
+aching	aching   danh tu su dau, su nhuc  noi dong tu dau, nhuc, nhuc nhoi my head aches  toi nhuc dau (nghia bong) dau don my head aches at the sight of such misfortunes  long toi dau don truoc nhung canh ngo rui ro ay
+achlamydeous	achlamydeous   tinh tu (thuc vat hoc) khong bao hoa, co hoa tran
+achondroplasia	achondroplasia tinh tu tinh trang thieu phat trien sun (o nguoi)
+achondroplastic	achondroplastic tinh tu khong tao sun
+achromat	achromat (Tech) chat tieu sac
+achromatic	achromatic   tinh tu (vat ly) tieu sac khong mau, khong sac achromatic (Tech) tieu sac; vo sac
+achromatic color	achromatic color (Tech) mau vo sac, mau khong sac
+achromatic lens	achromatic lens (Tech) thau kinh tieu sac
+achromatically	achromatically xem achromatic
+achromatism	achromatism   tinh tu (vat ly) tinh tieu sac tinh khong mau, tinh khong sac
+achromatize	achromatize   ngoai dong tu (vat ly) lam tieu sac lam thanh khong mau, lam thanh khong sac
+achromatous	achromatous   tinh tu khong mau, khong sac
+achromous	achromous   ngoai dong tu (vat ly) lam tieu sac lam thanh khong mau, lam thanh khong sac
+achy	achy tinh tu bi dau nhuc
+acicula	acicula danh tu; so nhieu aciculae,  aciculas dang kim
+aciculae	acicula danh tu; so nhieu aciculae,  aciculas dang kim
+acicular	acicular   tinh tu hinh kim; ket tinh thanh hinh kim
+acid	acid   danh tu (hoa hoc) Axit chat chua  tinh tu Axit acid radical  goc axit acid test  su thu bang axit (nghia bong) thu thach gay go chua chua cay, gay gat; gat gong acid looks  ve gay gat, ve gat gong
+acid-proof	acid-proof   tinh tu chiu axit
+acid rain	acid rain danh tu nuoc mua cay gat do hoa lan cac khi thai doc hai
+acid-resisting	acid-resisting   tinh tu chiu axit
+acid-soluble	acid-soluble tinh tu tan trong axit
+acid test	acid test danh tu su thu nghiem gia tri, su thu thach
+acidic	acidic   tinh tu co tinh chat axit
+acidifiable	acidifiable xem acidify
+acidification	acidification   danh tu (hoa hoc) su axit hoa
+acidified	acidify   ngoai dong tu Axit hoa  noi dong tu thanh axit, hoa chua
+acidifier	acidifier   danh tu (hoa hoc) chat axit hoa
+acidifiers	acidifier   danh tu (hoa hoc) chat axit hoa
+acidify	acidify   ngoai dong tu Axit hoa  noi dong tu thanh axit, hoa chua
+acidimeter	acidimeter   danh tu cai do axit
+acidimeters	acidimeter   danh tu cai do axit
+acidimetric	acidimetric xem acidimeter
+acidimetries	acidimetry xem acidimeter
+acidimetry	acidimetry xem acidimeter
+acidities	acidity   danh tu tinh axit; do axit vi chua
+acidity	acidity   danh tu tinh axit; do axit vi chua
+acidly	acidly   pho tu chua chat, gay gat
+acidness	acidness xem acid
+acidofuge	acidofuge tinh tu (sinh hoc) tranh axit
+acidophilous	acidophilous tinh tu (sinh hoc) ua axit; ua chua; moc o dat chua
+acidophily	acidophily danh tu (sinh hoc) tinh ua axit, tinh ua chua
+acidophyte	acidophyte danh tu thuc vat ua dat chua
+acidose	acidose   danh tu (y hoc) su nhiem axit
+acidoses	acidosis danh tu su nhiem axit
+acidosis	acidosis danh tu su nhiem axit
+acidotrophic	acidotrophic tinh tu dinh duong axit, an chat chua
+acidotropic	acidotropic tinh tu huong axit, huong chua
+acids	acid   danh tu (hoa hoc) Axit chat chua  tinh tu Axit acid radical  goc axit acid test  su thu bang axit (nghia bong) thu thach gay go chua chua cay, gay gat; gat gong acid looks  ve gay gat, ve gat gong
+acidulate	acidulate   ngoai dong tu lam cho hoi chua pha axit
+acidulated	acidulated   ngoai dong tu lam cho hoi chua pha axit
+acidulates	acidulate   ngoai dong tu lam cho hoi chua pha axit
+acidulating	acidulate   ngoai dong tu lam cho hoi chua pha axit
+acidulation	acidulation xem acidulate
+acidulous	acidulous   tinh tu hoi chua co pha axit chua cay, gay gat (loi noi)
+acierage	acierage danh tu (ky thuat) viec luyen thanh thep, viec ma thep
+aciform	aciform   tinh tu hinh kim
+acinaceous	acinaceous tinh tu co hach
+acinose	acinose tinh tu nhieu hat
+ack-ack	ack-ack   danh tu (tu long) sung cao su tieng sung cao xa su ban sung cao xa
+ACK (Acknowledge <Positive>)	ACK (Acknowledge &lt;Positive&gt;) (Tech) khang dinh, bao nhan
+ACK (acknowledgement)	ACK (acknowledgement) (Tech) khang dinh (tra loi), bao nhan
+ack emma	ack emma   pho tu (thong tuc) (nhu) ante_meridiem  danh tu (thong tuc) (nhu) air-mechanic
+ack-emma	ack-emma pho tu (thong tuc) buoi sang
+acknowledge	acknowledge   ngoai dong tu nhan, thua nhan, cong nhan to acknowledge one's error  nhan la mac sai lam to be acknowledged as the best player in the team  duoc cong nhan la cau thu xuat sac nhat trong doi to acknowledge someone's nod  nhin thay va dap lai cai gat dau cua ai bao cho biet da nhan duoc to acknowledge a letter; to acknowledge receipt of a letter  bao la da nhan duoc thu den dap; to long biet on, cam ta to acknowledge someone's service  den dap lai su giup do cua ai to acknowledge someone's kindness  cam ta long tot cua ai
+acknowledge (ACK)	acknowledge (ACK) (Tech) bao nhan, ghi nhan, bao xac dinh
+acknowledge character	acknowledge character (Tech) ky tu bao nhan
+acknowledge packet assembly and disassembly	acknowledge packet assembly and disassembly (Tech)  bao nhan lap va thao goi
+acknowledge pulse	acknowledge pulse (Tech) xung bao nhan
+acknowledge request	acknowledge request (Tech) yeu cau bao nhan
+acknowledge state	acknowledge state (Tech) trang thai bao nhan
+acknowledgeable	acknowledgeable xem acknowledge
+acknowledged	acknowledge   ngoai dong tu nhan, thua nhan, cong nhan to acknowledge one's error  nhan la mac sai lam to be acknowledged as the best player in the team  duoc cong nhan la cau thu xuat sac nhat trong doi to acknowledge someone's nod  nhin thay va dap lai cai gat dau cua ai bao cho biet da nhan duoc to acknowledge a letter; to acknowledge receipt of a letter  bao la da nhan duoc thu den dap; to long biet on, cam ta to acknowledge someone's service  den dap lai su giup do cua ai to acknowledge someone's kindness  cam ta long tot cua ai
+acknowledgement	acknowledgement   danh tu su nhan, su cong nhan, su thua nhan an acknowledgment of one's fault  su nhan loi a written acknowledgment of debt  giay nhan co vay no vat den dap, vat ta on; su den dap in acknowledgment of someone's help  de cam ta su giup do cua ai su bao cho biet da nhan duoc (thu...) to have no acknowledgment of one's letter  khong nhan duoc giay bao cho biet da nhan duoc thu
+acknowledgement signal	acknowledgement signal (Tech) tin hieu bao nhan
+acknowledgements	acknowledgement   danh tu su nhan, su cong nhan, su thua nhan an acknowledgment of one's fault  su nhan loi a written acknowledgment of debt  giay nhan co vay no vat den dap, vat ta on; su den dap in acknowledgment of someone's help  de cam ta su giup do cua ai su bao cho biet da nhan duoc (thu...) to have no acknowledgment of one's letter  khong nhan duoc giay bao cho biet da nhan duoc thu
+acknowledges	acknowledge   ngoai dong tu nhan, thua nhan, cong nhan to acknowledge one's error  nhan la mac sai lam to be acknowledged as the best player in the team  duoc cong nhan la cau thu xuat sac nhat trong doi to acknowledge someone's nod  nhin thay va dap lai cai gat dau cua ai bao cho biet da nhan duoc to acknowledge a letter; to acknowledge receipt of a letter  bao la da nhan duoc thu den dap; to long biet on, cam ta to acknowledge someone's service  den dap lai su giup do cua ai to acknowledge someone's kindness  cam ta long tot cua ai
+acknowledging	acknowledge   ngoai dong tu nhan, thua nhan, cong nhan to acknowledge one's error  nhan la mac sai lam to be acknowledged as the best player in the team  duoc cong nhan la cau thu xuat sac nhat trong doi to acknowledge someone's nod  nhin thay va dap lai cai gat dau cua ai bao cho biet da nhan duoc to acknowledge a letter; to acknowledge receipt of a letter  bao la da nhan duoc thu den dap; to long biet on, cam ta to acknowledge someone's service  den dap lai su giup do cua ai to acknowledge someone's kindness  cam ta long tot cua ai
+acknowledgment	acknowledgment   danh tu su nhan, su cong nhan, su thua nhan an acknowledgment of one's fault  su nhan loi a written acknowledgment of debt  giay nhan co vay no vat den dap, vat ta on; su den dap in acknowledgment of someone's help  de cam ta su giup do cua ai su bao cho biet da nhan duoc (thu...) to have no acknowledgment of one's letter  khong nhan duoc giay bao cho biet da nhan duoc thu
+acknowledgments	acknowledgment   danh tu su nhan, su cong nhan, su thua nhan an acknowledgment of one's fault  su nhan loi a written acknowledgment of debt  giay nhan co vay no vat den dap, vat ta on; su den dap in acknowledgment of someone's help  de cam ta su giup do cua ai su bao cho biet da nhan duoc (thu...) to have no acknowledgment of one's letter  khong nhan duoc giay bao cho biet da nhan duoc thu
+acleidian	acleidian tinh tu (giai phau) khong xuong don
+aclimate	aclimate tinh tu phi khi hau
+aclinic	aclinic   tinh tu (vat ly) khong nghieng, vo khuynh aclinic line  duong vo khuynh
+aclinic line   magnetic equator	aclinic line   magnetic equator (Tech) duong khong tu khuynh, duong tu xich dao
+acme	acme   danh tu tot dinh, dinh cao nhat acme of perfection  dinh cao nhat cua su hoan my (y hoc) thoi ky nguy kich nhat (cua benh)
+acne	acne danh tu mun trung ca
+acned	acned xem acne
+acnode	acnode (hinh hoc) diem co lap (cua duong cong)
+acock	acock   pho tu doi lech (mu) to set one's hat acock  doi mu lech
+acold	acold tinh tu lanh toat
+acolyte	acolyte   danh tu (ton giao) thay tu cap duoi, thay dong, thay tang nguoi theo hau
+acolytes	acolyte   danh tu (ton giao) thay tu cap duoi, thay dong, thay tang nguoi theo hau
+aconite	aconite   danh tu (thuc vat hoc) cay phu tu
+aconites	aconite   danh tu (thuc vat hoc) cay phu tu
+acorn	acorn   danh tu (thuc vat hoc) qua dau
+acorn-shaped	acorn-shaped tinh tu (thuc vat) dang qua dau
+acorn tube	acorn tube (Tech) den hat de
+acorns	acorn   danh tu (thuc vat hoc) qua dau
+acotyledon	acotyledon   danh tu (thuc vat hoc) cay khong la mam
+acotyledonous	acotyledonous   tinh tu (thuc vat hoc) khong la mam
+acoumeter	acoumeter   danh tu cai do nghe
+acoumeters	acoumeter   danh tu cai do nghe
+acoustic	acoustic   tinh tu (thuoc) am thanh; (thuoc) am hoc (thuoc) thinh giac acoustic nerves  day than kinh thinh giac acoustic mine  min am thanh acoustic (Tech) thuoc ve (co tinh) am thanh; thuoc am hoc; thuoc truyen am; am chat
+acoustic absorber	acoustic absorber (Tech) bo hap thu am thanh
+acoustic absorption	acoustic absorption (Tech) hap thu am thanh
+acoustic admittance	acoustic admittance (Tech) dan nap am thanh
+acoustic baffle	acoustic baffle (Tech) van tro am thanh
+acoustic capacitance	acoustic capacitance (Tech) am dung, am luong
+acoustic coupler	acoustic coupler (Tech) bo ghep am, bo doi am sang so
+acoustic coupler modem	acoustic coupler modem (Tech) bo bien hoan ghep am
+acoustic dispersion	acoustic dispersion (Tech) phan tan am thanh
+acoustic engineering	acoustic engineering (Tech) nganh ky thuat am thanh
+acoustic fidelity	acoustic fidelity (Tech) do trung thuc am thanh
+acoustic filter	acoustic filter (Tech) bo loc am thanh
+acoustic impedance	acoustic impedance (Tech) tro khang am thanh, am tro
+acoustic noise	acoustic noise (Tech) nhieu am
+acoustic phonon	acoustic phonon (Tech) thanh tu am thanh
+acoustic sensor	acoustic sensor (Tech) bo cam nhan am thanh
+acoustic wave	acoustic wave (Tech) song am thanh
+acoustical	acoustical (thuoc) am thanh
+acoustically	acoustically pho tu ve am thanh, ve do vang am
+acoustician	acoustician   danh tu nha am hoc
+acoustics	acoustics   danh tu,  so nhieu (dung nhu so it) am hoc room (architectural) acoustics  am hoc kien truc wave acoustics  am hoc song ray acoustics  am hoc tia (so nhieu) do vang am (cua mot rap hat, rap chieu bong...) acoustics (vat li) am hoc
+acquaint	acquaint   ngoai dong tu lam quen to acquaint oneself with something  lam quen voi cai gi to be acquainted with somebody  quen biet ai to get (become) acquainted with  tro thanh quen thuoc voi bao, cho biet, cho hay to acquaint somebody with a piece of news  bao cho ai biet mot tin gi to acquaint somebody with a fact  cho ai biet mot su viec gi
+acquaintance	acquaintance   danh tu su biet, su hieu biet to have a good acquaintance with Vietnam  hieu biet rat ro ve Viet Nam to have an intimate acquaintance with a subject  hieu biet tuong tan mot van de su quen, su quen biet to make acquaintance with somebody; to make someone's acquaintance  lam quen voi ai ((thuong) so nhieu) nguoi quen an old acquaintance  mot nguoi quen cu a man of many acquaintances  mot nguoi quen biet nhieu!bowing (nodding) aquaintance nguoi quen so so!to drop an aquaintance bo roi mot nguoi quen, lo mot nguoi quen!to scrape acquaintance with somebody co lam quen bang duoc voi ai!speaking acquaintance (xem) speaking!to strike up an aquaintance (xem) strike
+acquaintances	acquaintance   danh tu su biet, su hieu biet to have a good acquaintance with Vietnam  hieu biet rat ro ve Viet Nam to have an intimate acquaintance with a subject  hieu biet tuong tan mot van de su quen, su quen biet to make acquaintance with somebody; to make someone's acquaintance  lam quen voi ai ((thuong) so nhieu) nguoi quen an old acquaintance  mot nguoi quen cu a man of many acquaintances  mot nguoi quen biet nhieu!bowing (nodding) aquaintance nguoi quen so so!to drop an aquaintance bo roi mot nguoi quen, lo mot nguoi quen!to scrape acquaintance with somebody co lam quen bang duoc voi ai!speaking acquaintance (xem) speaking!to strike up an aquaintance (xem) strike
+acquaintanceship	acquaintanceship   danh tu su quen biet
+acquaintanceships	acquaintanceship   danh tu su quen biet
+acquainted	acquainted   ngoai dong tu lam quen to acquaint oneself with something  lam quen voi cai gi to be acquainted with somebody  quen biet ai to get (become) acquainted with  tro thanh quen thuoc voi bao, cho biet, cho hay to acquaint somebody with a piece of news  bao cho ai biet mot tin gi to acquaint somebody with a fact  cho ai biet mot su viec gi
+acquainting	acquaint   ngoai dong tu lam quen to acquaint oneself with something  lam quen voi cai gi to be acquainted with somebody  quen biet ai to get (become) acquainted with  tro thanh quen thuoc voi bao, cho biet, cho hay to acquaint somebody with a piece of news  bao cho ai biet mot tin gi to acquaint somebody with a fact  cho ai biet mot su viec gi
+acquaints	acquaint   ngoai dong tu lam quen to acquaint oneself with something  lam quen voi cai gi to be acquainted with somebody  quen biet ai to get (become) acquainted with  tro thanh quen thuoc voi bao, cho biet, cho hay to acquaint somebody with a piece of news  bao cho ai biet mot tin gi to acquaint somebody with a fact  cho ai biet mot su viec gi
+acquest	acquest   danh tu vat kiem duoc, cua cai lam ra (phap ly) cua lam ra (khong do thua ke)
+acquiesce	acquiesce   noi dong tu bang long, ung thuan, dong y; bang long ngam, mac nhan to acquiesce in someone's proposal  dong y voi loi de nghi cua ai to acquiesce in a conclusion  dong y voi mot ket luan
+acquiesced	acquiesce   noi dong tu bang long, ung thuan, dong y; bang long ngam, mac nhan to acquiesce in someone's proposal  dong y voi loi de nghi cua ai to acquiesce in a conclusion  dong y voi mot ket luan
+acquiescence	acquiescence   danh tu su bang long, su ung thuan, su dong y; su bang long ngam, su mac nhan su phuc tung
+acquiescent	acquiescent   tinh tu bang long, ung thuan, dong y; bang long ngam, mac nhan phuc tung
+acquiescently	acquiescently xem acquiescent
+acquiesces	acquiesce   noi dong tu bang long, ung thuan, dong y; bang long ngam, mac nhan to acquiesce in someone's proposal  dong y voi loi de nghi cua ai to acquiesce in a conclusion  dong y voi mot ket luan
+acquiescing	acquiesce   noi dong tu bang long, ung thuan, dong y; bang long ngam, mac nhan to acquiesce in someone's proposal  dong y voi loi de nghi cua ai to acquiesce in a conclusion  dong y voi mot ket luan
+acquirable	acquirable xem acquire
+acquire	acquire   ngoai dong tu duoc, gianh duoc, thu duoc, dat duoc, kiem duoc to acquire a good reputation  duoc tieng tot acquired characteristic  (sinh vat hoc) tinh chat thu duoc an acquired taste  so thich do quen ma co
+acquired	acquire   ngoai dong tu duoc, gianh duoc, thu duoc, dat duoc, kiem duoc to acquire a good reputation  duoc tieng tot acquired characteristic  (sinh vat hoc) tinh chat thu duoc an acquired taste  so thich do quen ma co
+acquirement	acquirement   danh tu su duoc, su gianh duoc, su thu duoc, su dat duoc, su kiem duoc (so nhieu) dieu hoc duoc, hoc thuc, tai nghe, tai nang (do trau gioi ma co, doi lai voi thien tu) a man of vast acquirements  mot nguoi co nhieu tai nang; nguoi co von kien thuc rong
+acquirements	acquirement   danh tu su duoc, su gianh duoc, su thu duoc, su dat duoc, su kiem duoc (so nhieu) dieu hoc duoc, hoc thuc, tai nghe, tai nang (do trau gioi ma co, doi lai voi thien tu) a man of vast acquirements  mot nguoi co nhieu tai nang; nguoi co von kien thuc rong
+acquirer	acquirer xem acquire
+acquires	acquire   ngoai dong tu duoc, gianh duoc, thu duoc, dat duoc, kiem duoc to acquire a good reputation  duoc tieng tot acquired characteristic  (sinh vat hoc) tinh chat thu duoc an acquired taste  so thich do quen ma co
+acquiring	acquire   ngoai dong tu duoc, gianh duoc, thu duoc, dat duoc, kiem duoc to acquire a good reputation  duoc tieng tot acquired characteristic  (sinh vat hoc) tinh chat thu duoc an acquired taste  so thich do quen ma co
+acquisition	acquisition   danh tu su duoc, su gianh duoc, su thu duoc, su dat duoc, su kiem duoc cai gianh duoc, cai thu nhan duoc Mr. A will be a valuable acquisition to the teaching staff of our school  thu nhan duoc ong A thi se co loi cho hang ngu giao vien cua truong chung ta acquisition (Tech) thu thap, thu nhan
+acquisitions	acquisition   danh tu su duoc, su gianh duoc, su thu duoc, su dat duoc, su kiem duoc cai gianh duoc, cai thu nhan duoc Mr. A will be a valuable acquisition to the teaching staff of our school  thu nhan duoc ong A thi se co loi cho hang ngu giao vien cua truong chung ta acquisition (Tech) thu thap, thu nhan
+acquisitive	acquisitive   tinh tu thich tru cua, ham loi co the hoc hoi, co kha nang tiep thu, co kha nang linh hoi
+acquisitively	acquisitively xem acquisitive
+acquisitiveness	acquisitiveness   danh tu tinh thich tru cua, tinh ham loi tinh co the hoc hoi, kha nang tiep thu, kha nang linh hoi
+acquisitor	acquisitor xem acquisitive
+acquit	acquit   ngoai dong tu tra het, trang trai (no nan) to acquit one's debt trang trai het no nan  tha bong, tha toi, tuyen bo trang an to be acquitted of one's crime  duoc tha bong to acquit oneself of lam xong, lam tron (nghia vu, bon phan...) to acquit oneself of a promise  lam tron loi hua to acquit oneself of one's task  lam tron nhiem vu!to acquit oneself lam bon phan minh, lam tron phan minh; xu su to acquit oneself ill  lam khong tot phan minh, xu su xau
+acquits	acquit   ngoai dong tu tra het, trang trai (no nan) to acquit one's debt trang trai het no nan  tha bong, tha toi, tuyen bo trang an to be acquitted of one's crime  duoc tha bong to acquit oneself of lam xong, lam tron (nghia vu, bon phan...) to acquit oneself of a promise  lam tron loi hua to acquit oneself of one's task  lam tron nhiem vu!to acquit oneself lam bon phan minh, lam tron phan minh; xu su to acquit oneself ill  lam khong tot phan minh, xu su xau
+acquittal	acquittal   danh tu su tra xong no, su trang trai xong no nan su tha toi, su tha bong, su tuyen bo trang an su lam tron (bon phan, trach nhiem...)
+acquittals	acquittal   danh tu su tra xong no, su trang trai xong no nan su tha toi, su tha bong, su tuyen bo trang an su lam tron (bon phan, trach nhiem...)
+acquittancce	acquittancce   danh tu su tra no, su trang trai het no nan su trang trai het no nan bien lai
+acquittance	acquittance danh tu su tra no, su trang trai het no nan su trang trai het no nan bien lai
+acquitted	acquit   ngoai dong tu tra het, trang trai (no nan) to acquit one's debt trang trai het no nan  tha bong, tha toi, tuyen bo trang an to be acquitted of one's crime  duoc tha bong to acquit oneself of lam xong, lam tron (nghia vu, bon phan...) to acquit oneself of a promise  lam tron loi hua to acquit oneself of one's task  lam tron nhiem vu!to acquit oneself lam bon phan minh, lam tron phan minh; xu su to acquit oneself ill  lam khong tot phan minh, xu su xau
+acquitter	acquitter xem acquit
+acquitting	acquit   ngoai dong tu tra het, trang trai (no nan) to acquit one's debt trang trai het no nan  tha bong, tha toi, tuyen bo trang an to be acquitted of one's crime  duoc tha bong to acquit oneself of lam xong, lam tron (nghia vu, bon phan...) to acquit oneself of a promise  lam tron loi hua to acquit oneself of one's task  lam tron nhiem vu!to acquit oneself lam bon phan minh, lam tron phan minh; xu su to acquit oneself ill  lam khong tot phan minh, xu su xau
+acral	acral tinh tu thuoc phia dau; phia ngoai cung
+acranial	acranial tinh tu (y hoc) khong so, thieu so
+acraspedout	acraspedout tinh tu khong diem, thieu diem
+acre	acre   danh tu mau Anh (khoang 0, 4 hecta) canh dong, dong co broad acres  dong ruong, canh dong God's acre  nghia dia, nghia trang
+acreage	acreage   danh tu dien tich (tinh theo mau Anh)
+acres	acre   danh tu mau Anh (khoang 0, 4 hecta) canh dong, dong co broad acres  dong ruong, canh dong God's acre  nghia dia, nghia trang
+acrid	acrid   tinh tu hang, cay se chua cay, gay gat (loi noi, thai do...)
+acridities	acridity   danh tu vi hang, mui hang, mui cay se su chua cay, su gay gat
+acridity	acridity   danh tu vi hang, mui hang, mui cay se su chua cay, su gay gat
+acridly	acridly xem acrid
+acrimonies	acrimony   danh tu su chua cay, su gay gat
+acrimonious	acrimonious   tinh tu chua cay, gay gat (loi noi, thai do)
+acrimoniously	acrimoniously pho tu chua cay, gay gat
+acrimoniousness	acrimoniousness xem acrimonious
+acrimony	acrimony   danh tu su chua cay, su gay gat
+acrobat	acrobat   danh tu nguoi bieu dien leo day, nguoi bieu dien nhao lon nha chinh tri nghieng nga (de dang thay doi lap truong); nha bien luan nghieng nga (de dang thay doi lap luan)
+acrobatic	acrobatic tinh tu tinh chat nhao lon, lien quan den nhao lon
+acrobatically	acrobatically   pho tu tai tinh, kheo leo
+acrobatics	acrobatics   danh tu,  so nhieu (dung nhu so it) thuat leo day, thuat nhao lon aerial acrobatics  (hang khong) thuat nhao lon tren khong
+acrobatism	acrobatism   danh tu thuat leo day, thuat nhao lon
+acrobats	acrobat   danh tu nguoi bieu dien leo day, nguoi bieu dien nhao lon nha chinh tri nghieng nga (de dang thay doi lap truong); nha bien luan nghieng nga (de dang thay doi lap luan)
+acrocarpic	acrocarpic tinh tu thuoc qua ngon
+acrocarpous	acrocarpous   tinh tu (thuc vat hoc) co qua o ngon
+acrocentric	acrocentric danh tu the nhiem sac dang que
+acrogenous	acrogenous   tinh tu (thuc vat hoc) sinh o ngon
+acrogynous	acrogynous tinh tu co tui noan o ngon
+acromegalic	acromegalic xem acromegaly
+acromegalies	acromegaly   danh tu (y hoc) benh to cuc
+acromegaly	acromegaly   danh tu (y hoc) benh to cuc
+acronycal	acronycal   tinh tu (thien van hoc) xuat hien vao luc chap toi (sao...)
+acronychal	acronychal   tinh tu (thien van hoc) xuat hien vao luc chap toi (sao...)
+acronym	acronym   danh tu tu (cau tao bang) chu dau (cua nhung tu khac) (vi du NATO,  radar...) acronym (Tech) luoc danh, luoc (thanh) ngu, ten gon
+acronymic	acronymic xem acronym
+acronymous	acronymous xem acronym
+acronyms	acronym   danh tu tu (cau tao bang) chu dau (cua nhung tu khac) (vi du NATO,  radar...) acronym (Tech) luoc danh, luoc (thanh) ngu, ten gon
+acropetal	acropetal   tinh tu huong ngon
+acropetally	acropetally xem acropetal
+acrophilous	acrophilous tinh tu (thuc vat) ua ngon
+acrophily	acrophily danh tu tinh ua ngon
+acrophobia	acrophobia   danh tu (y hoc) chung so noi cao
+acropodium	acropodium danh tu ngon (chan, tay)
+acropolis	acropolis   danh tu ve thanh, thanh phong ngu (dac biet hay dung de chi ve thanh cua thanh A-ten, thoi co Hy lap)
+acroscopic	acroscopic tinh tu (thuc vat) doi ngon
+acrospire	acrospire danh tu (thuc vat) man ngon cuon
+acrospore	acrospore   danh tu (thuc vat hoc) bao tu ngon
+across	across   pho tu qua, ngang, ngang qua a bird is flying across  mot con chim dang bay ngang qua bat cheo, cheo nhau, cheo chu thap to stand with legs across  dung cheo khoeo with arms across  khoanh tay  gioi tu qua, ngang, ngang qua across the fields  ngang qua canh dong o ben kia, o phia ben kia the hotel is across the river  khach san o ben kia song!to come across (xem) come!to get across somebody cai nhau voi ai!to turn across (xem) trun!to put it across somebody (tu long) tra thu ai danh lua ai trung phat ai, sua cho ai mot tran across ngang, qua
+Across-the-board tariff changes	Across-the-board tariff changes (Econ) Thay doi thue quan dong loat.  Mot tinh huong khi tat ca thue quan cua mot nuoc duoc tang hoac giam theo ty le phan tram ngang bang.
+acrostic	acrostic   danh tu (tho ca) chu dau  tinh tu (thuoc) the tho chu dau, theo the tho chu dau
+acrostically	acrostically xem acrostic
+acrostics	acrostic   danh tu (tho ca) chu dau  tinh tu (thuoc) the tho chu dau, theo the tho chu dau
+acrotropism	acrotropism danh tu tinh huong ngon
+acrylic	acrylic tinh tu (hoa) acrylic danh tu soi acrylic
+acrylics	acrylic tinh tu (hoa) acrylic danh tu soi acrylic
+act	act   danh tu hanh dong, viec lam, cu chi, hanh vi act of violence  hanh dong bao luc act of madness  hanh dong dien ro dao luat to pass an act  thong qua mot dao luat act of parliament  mot dao luat cua quoc hoi chung thu to take act  chung nhan I deliver this as my act and deed  toi xin nop cai nay coi nhu chung nhan cua toi (noi khi ky) hoi, man (trong vo kich) a play in five acts  vo kich nam man tiet muc (xiec, ca mua nhac...) luan an, khoa luan!to be in act to sap sua (lam gi) to be in act to fire  sap ban!in the very act [of] khi dang hanh dong, qua tang to be caught in the very act  bi bat qua tang!to put on an act (tu long) khoe me, noi khoe  ngoai dong tu dong vai (kich, cheo, tuong, phim) to act Hamlet  dong vai Ham-let gia vo, gia do "dong kich"  to act madness  gia vo dien to act a part  dong mot vai; gia do  noi dong tu hanh dong to act like a fool  hanh dong nhu mot thang dien cu xu, doi xu to act kindly towards someone  doi xu tu te voi ai giu nhiem vu, lam cong tac, lam to act as interpreter  lam phien dich he acted as director in the latter's absence  anh ay thay quyen ong giam doc khi ong giam doc di vang tac dong, co tac dung, co anh huong alcohol acts on the nerves  ruou co tac dong den than kinh the brake refused to act  phanh khong an dong kich, dien kich, thu vai to act very well  thu vai rat dat (  upon,  on) hanh dong theo, lam theo to act upon someone's advice  hanh dong theo loi khuyen cua ai (  up to) thuc hanh cho xung dang voi, hanh dong cho xung dang voi to act up to one's reputation  hanh dong xung dang voi thanh danh cua minh act tac dong
+act of god	act of god thien tai (nhu bao, lut, dong dat...)
+actability	actability xem act
+actable	actable xem act
+acted	act   danh tu hanh dong, viec lam, cu chi, hanh vi act of violence  hanh dong bao luc act of madness  hanh dong dien ro dao luat to pass an act  thong qua mot dao luat act of parliament  mot dao luat cua quoc hoi chung thu to take act  chung nhan I deliver this as my act and deed  toi xin nop cai nay coi nhu chung nhan cua toi (noi khi ky) hoi, man (trong vo kich) a play in five acts  vo kich nam man tiet muc (xiec, ca mua nhac...) luan an, khoa luan!to be in act to sap sua (lam gi) to be in act to fire  sap ban!in the very act [of] khi dang hanh dong, qua tang to be caught in the very act  bi bat qua tang!to put on an act (tu long) khoe me, noi khoe  ngoai dong tu dong vai (kich, cheo, tuong, phim) to act Hamlet  dong vai Ham-let gia vo, gia do "dong kich"  to act madness  gia vo dien to act a part  dong mot vai; gia do  noi dong tu hanh dong to act like a fool  hanh dong nhu mot thang dien cu xu, doi xu to act kindly towards someone  doi xu tu te voi ai giu nhiem vu, lam cong tac, lam to act as interpreter  lam phien dich he acted as director in the latter's absence  anh ay thay quyen ong giam doc khi ong giam doc di vang tac dong, co tac dung, co anh huong alcohol acts on the nerves  ruou co tac dong den than kinh the brake refused to act  phanh khong an dong kich, dien kich, thu vai to act very well  thu vai rat dat (  upon,  on) hanh dong theo, lam theo to act upon someone's advice  hanh dong theo loi khuyen cua ai (  up to) thuc hanh cho xung dang voi, hanh dong cho xung dang voi to act up to one's reputation  hanh dong xung dang voi thanh danh cua minh act tac dong
+actin	actin Cach viet khac : actino
+actinal	actinal tinh tu thuoc tam toa tia
+acting	acting   danh tu hanh dong, viec lam, cu chi, hanh vi act of violence  hanh dong bao luc act of madness  hanh dong dien ro dao luat to pass an act  thong qua mot dao luat act of parliament  mot dao luat cua quoc hoi chung thu to take act  chung nhan I deliver this as my act and deed  toi xin nop cai nay coi nhu chung nhan cua toi (noi khi ky) hoi, man (trong vo kich) a play in five acts  vo kich nam man tiet muc (xiec, ca mua nhac...) luan an, khoa luan!to be in act to sap sua (lam gi) to be in act to fire  sap ban!in the very act [of] khi dang hanh dong, qua tang to be caught in the very act  bi bat qua tang!to put on an act (tu long) khoe me, noi khoe  ngoai dong tu dong vai (kich, cheo, tuong, phim) to act Hamlet  dong vai Ham-let gia vo, gia do "dong kich"  to act madness  gia vo dien to act a part  dong mot vai; gia do  noi dong tu hanh dong to act like a fool  hanh dong nhu mot thang dien cu xu, doi xu to act kindly towards someone  doi xu tu te voi ai giu nhiem vu, lam cong tac, lam to act as interpreter  lam phien dich he acted as director in the latter's absence  anh ay thay quyen ong giam doc khi ong giam doc di vang tac dong, co tac dung, co anh huong alcohol acts on the nerves  ruou co tac dong den than kinh the brake refused to act  phanh khong an dong kich, dien kich, thu vai to act very well  thu vai rat dat (  upon,  on) hanh dong theo, lam theo to act upon someone's advice  hanh dong theo loi khuyen cua ai (  up to) thuc hanh cho xung dang voi, hanh dong cho xung dang voi to act up to one's reputation  hanh dong xung dang voi thanh danh cua minh act tac dong
+actinia	actinia   danh tu (so nhieu actinias,  actiniae) (dong vat hoc) hai quy
+actiniae	actiniae   danh tu (so nhieu actinias,  actiniae) (dong vat hoc) hai quy
+actinic	actinic   tinh tu (vat ly),  (hoa hoc) quang hoa actinic (Tech) quang hoa
+actinically	actinically xem actinic
+actinide	actinide danh tu (hoa hoc) actinit
+actinidia	actinidia danh tu cay duong dao
+actiniform	actiniform danh tu (sinh hoc)
