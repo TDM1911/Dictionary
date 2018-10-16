@@ -1,0 +1,11 @@
+Đây là chương trình từ điển Anh-Việt/Việt-Anh.
+
+Chương trình gồm hơn 100,000 mục từ tiếng Anh, và 140,000 mục từ tiếng Việt.
+Bộ từ điển cũng bao gồm hơn 7000 mục âm thanh chất lượng cao phát âm từ tiếng Anh cơ bản.
+
+Chúng mình đang cố gắng tạo một giao diện thân thiện giúp người dùng dễ dàng thêm, sửa hay xóa những từ không mong muốn.
+
+Các bạn có thể và mục 'How to use' để biết thêm chi tiết về cách sử dụng.
+
+Cảm ơn vì đã sử dụng phần mềm của chúng mình.
+Nếu như các bạn phát hiện ra một lỗi nào đó và muốn báo cáo, hãy nhấn vào mục 'Contact us' để biết thêm thông tin.

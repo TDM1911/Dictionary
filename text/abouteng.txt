@@ -1,0 +1,11 @@
+This is a Eng-Vie/Vie-Eng dictionary program.
+
+It contains over 100,000 entries in English, and 140,000 entries in Vietnamese.
+The dictionary also include more than 7000 quality entries of basic English pronunciation.
+
+We're trying to create a friendly interface to help users to add, edit or remove unwanted words easily.
+
+Check 'How to use' in the 'Help' menu for more detail on how to use the dictionary.
+
+Thanks for using our program.
+If there is a bug you want to report, please click 'Contact us' for more info.

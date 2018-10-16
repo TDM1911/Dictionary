@@ -1,0 +1,12 @@
+Chào mừng các bạn đã đến với chương trình từ điển Half-a-heart.
+
+Đây là cửa sổ trợ giúp hướng dẫn bạn tất cả những gì bạn cần biết về bộ từ điển này.
+
+Hãy nhấn vào tab mà bạn muốn tìm hiểu và chúng tôi sẽ giúp bạn với những gì bạn cần biết
+
+- Start: (bạn đang ở đây) khái quát về cửa sổ trợ giúp.
+- Search: hướng dẫn bạn tra từ một cách hiệu quả nhất.
+- Add & Edit: hướng dẫn thêm một từ mới hoặc sửa một từ có sẵn trong dữ liệu từ điển.
+- Remove: loại bỏ một từ bạn không dùng đến hoặc không muốn có trong từ điển.
+- Pronounce: hướng dẫn bạn kiểm tra phát âm của một từ.
+- Menu: trợ giúp về những gì cần biết về Menubar.

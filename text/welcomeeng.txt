@@ -1,0 +1,12 @@
+Hi! Welcome to Half-a-heart Dictionary. 
+
+This is a guide to help you with everything you need to know about this dictionary.
+
+Click on the tab you want to know more, we'll help you with it.
+
+- Start: (you are here) an overview about 'How to use'.
+- Search: a guide on how to search a word effectively.
+- Add & Edit: a guide on how to add new words, or edit one that already in the database.
+- Remove: a guide on how to remove a word that you no longer needed or unwanted.
+- Pronounce: a guide on how to play the word pronunciation.
+- Menu: a guide about our Menubar.
