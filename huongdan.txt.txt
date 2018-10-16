@@ -1,0 +1,30 @@
+Từ điển gồm 2 phần:
+- Anh – Việt.
+- Việt – Anh.			
+Hướng dẫn sử dụng từ điển:
+-	Searching: nhập từ cần tra sau đó nhấn enter, trên bảng nghĩa sẽ 4 màu chữ: màu đỏ là phát âm; màu xanh nước biển là loại từ; màu đen là nghĩa của từ cần tìm; màu xám là từ đồng nghĩa và ví dụ.
+-	History: lưu những từ đã tra.
+-	Bookmark: lưu từ yêu thích.
+-	Word/ Phrase: hiện lên từ được tra.
+-	Ô vuông thứ nhất cạnh Word/ Phrase: sửa từ (người dùng cảm thấy nghĩa không chính xác hoàn toàn thì sửa trực tiếp vào bảng nghĩa).
+-	Ô vuông thứ 2 cạnh ô sửa từ: xóa từ đang tra trên word/phrase.
+-	Ô vuông thứ 3 cạnh ô xóa từ: phát âm từ vừa tra.
+-	Ô vuông thứ 4 cạnh ô phát âm từ: thêm vào danh sách từ yêu thích.
+-	Distionary: 
++ Save Ctrl+S: lưu trạng thái hiện tại của từ điển nếu có thay đổi hoặc xóa bớt từ.
++ Exit: thoát khỏi từ điển. Ngoài ra có thể nhấn nút X màu đỏ ở góc trên bên phải của ứng dụng.
+-	Options gồm: 
++ Display: chọn phong cách
++ Dictionary type: chọn loại từ điển. Ngoài ra có thể nhấn tổ hợp phím Ctrl+Enter. Người dùng có thể nhìn vào góc trên bên phải dưới nút X màu đỏ để biết mình đang sử dụng từ điển Việt-Anh hay Anh-Việt.
++ Suggestion mode: lựa chọn cách gợi ý:
+	Start with …: bắt đầu với tiền tố nào đó.
+	Have …: tìm từ có tiền tố đó.
+	No suggestion: tắt gợi ý.
+-	Help: 
++ How to use: hướng dẫn sử dụng.
++ Credit: gồm nguồn thông tin lấy từ đâu và những người làm ứng dụng này.
++ About Half-a-heart dictionary: thông tin giới thiệu về cuốn từ điển, gồm tiếng Anh và tiếng Việt.
++ Contact us: địa chỉ để người dùng gửi phản hồi nếu gặp phải lỗi trong khi sử dụng ứng dụng này.
+Lưu ý:
+-	Một số từ không có trong từ điển, người dùng có thể thêm bằng nút chỉnh sửa (nếu chắc chắn).
+-	Một số từ chưa có phát âm thì trên bảng nghĩa sẽ xuất hiện: “No quality audio file for this word yet”, nghĩa là: “Chưa tồn tại tệp tin chất lượng cho từ này”.
