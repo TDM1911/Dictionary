@@ -1,1 +1,16 @@
-Menu Eng
+Menubare contain all the menu you need for the dictionary:
+ - Distionary: 
+	+ Save (Ctrl+S): save the changes to the current database (if has any).
+	+ Exit: exit the program. If there're changes being made, there will be a confirm closing popup asking if you want to keep the changes.
+ - Options gồm: 
+	+ Display: choose the dictionary's theme.
+	+ Dictionary type (Ctrl+Enter): choose dictionary mode. you can check the top right corner to know which mode you are on (English-Vietnamese , Vietnamese-English)
+	+ Suggestion mode: choose suggestion mode:
+		Start with …: find word start with prefix.
+		Have …: find word contain.
+		No suggestion: suggestion off.
+ - Help: 
+	+ How to use.
+	+ Credit: contribute of each member, sources of all the resources.
+	+ About Half-a-heart dictionary.
+	+ Contact us: where you can find us.

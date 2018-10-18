@@ -1,1 +1,10 @@
-search : null Eng
+How to search:
+ - Type in the search box the word you need to find.
+ - You can see a list of sugggestion word under the box.
+ - To choose a sugggestion, press the arrow key. Press Enter to pick the word.
+ - There're many sugggestion mode. Check the Menubar help for more detail.
+ - Once you done, press Enter to search. You will see the word on the right box an the meaning in the box below called the meaning box.
+ Each line will be color coded differently to help you find what you need easily.
+NOTE: Make sure you are on the right dictionary mode.
+You can see by checking in the Option Menu/Dictionary mode or check at the top right corner of the screeen. 
+You can also use Ctrl+Enter for a quick dictionary switch.

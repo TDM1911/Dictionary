@@ -1,1 +1,5 @@
-remove Eng
+Remove a word:
+ - The remove button is located at the rightside of the edit button. (2nd button)
+ - Press the remove button.to delete the current searching word.
+ - There'll be a popup window confirm your delete. Press 'Yes' to delete the word 'No' to undo the action.
+ - Press 'Save' or Ctrl+S to save the changes to the dictionary.

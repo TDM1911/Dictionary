@@ -1,0 +1,24 @@
+Credit:
+
+- Graphic Design : Trần Đào Mạnh.
+- Graphic Programming : Trần Đào Mạnh.
+- Programming : Trần Đào Mạnh/ Bùi Thị Kiều Trinh.
+- Extra Feature : Trần Đào Mạnh/ Bùi Thị Kiều Trinh.
+- Programe Tester : Trần Đào Mạnh/ Bùi Thị Kiều Trinh.
+- Edit database : Bùi Thị Kiều Trinh.
+- Help menu writing : Bùi Thị Kiều Trinh.
+
+Sources:
+
+- Viet-Eng database : Paul Denisowski (www.denisowski.org)
+	http://blackberryvietnam.net
+
+- Eng-Viet database : http://shtooka.net (voice)
+	Java Speech API (voice)
+	http://blackberryvietnam.net
+
+- Font : MTO Jamai (by MTO team), Times New Roman.
+
+- Extra Look & Feel: Synthetica Black Eye.
+
+- Thanks for using Half-a-heart dictionary.

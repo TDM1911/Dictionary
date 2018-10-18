@@ -1,6 +1,15 @@
 Add a word:
- - Step 1: Enter the word you want to edit. You should see a box below show you existed words that started with what you're typing.
+ - Step 1: Enter the word you want to edit. You should see a box below show you sugggested words with what you're typing. (see more in How to search help)
  - Step 2: Press 'Enter' to find the word.
  - Step 3: If the word you want to edit exist you should see the meaning on the 'Meaning box'.
  - Step 4: If you see the message 'Word didn't exist in database...' that's mean your word didn't exist in the database and you need to add it in.
- - Step 5: Add a new meaning to add new word or edit an existed word's meaning
+ - Step 5: Add a new meaning to add new word or edit an existed word's meaning.
+	+ Press the first button on the right of Word/Phrase box to start editing or adding.
+	The box will change to plain mode for easy editing.
+	Each line will be color coded differently depend on your prefix:
+	[ : red colored (pronunciation)
+	* : word class (blue)
+	-/other : meaning (depend on theme)
+	= : example (depend on theme)
+	+ Repress the button to complete changes.
+	+ NOTE: THESE CHANGES ARE TEMPORARY ONLY. YOU NEED TO PRESS CTRL+S OR CLICK 'SAVE' IN DICTIONARY MENU TO SAVE IT TO THE DATABASE.

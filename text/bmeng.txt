@@ -1,1 +1,6 @@
-bookmark & history: null Eng
+History & Bookmark is located under search box:
+ - History: help you quick access recent word in the current session.
+ - Bookmark: help quick access marked word. (max 10) 
+ You can marked/unmarked a word by pressing the mark button (last button) when the word is being shown.
+NOTE: the dictionary doesn't support auto switch dictionary mode.
+Make sure you are on the right dictionary mode (EV/VE) for the correct search result.

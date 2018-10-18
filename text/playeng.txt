@@ -1,1 +1,5 @@
-playsound Eng
+Pronounce a word: This button is located next to the delete button.
+ - Click the button to play the audio file for the pronunciation of the word.
+NOTE: We're currently have 7000+ audio file for basic English word only.
+Some complicated word will not have an audio file. 
+In that case, you'll see a notice "No audio file..." at the status box at the bottom left corner.
