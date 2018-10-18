@@ -7,6 +7,7 @@ Sources:
 	http://blackberryvietnam.net
 
 - Eng-Viet database : http://shtooka.net (voice)
+	Java Speech API (voice)
 	http://blackberryvietnam.net
 
 - Font : MTO Jamai (by MTO team), Times New Roman.
