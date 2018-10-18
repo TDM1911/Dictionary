@@ -1,1 +1,6 @@
-bookmark & history: null Vie
+History & Bookmark được đặt phía dưới khung tìm kiếm:
+ - History: giúp truy cập nhanh các từ tìm kiếm gần đây trong mỗi đợt chạy chương trình.
+ - Bookmark: hiển thị các từ được đánh dấu để truy cập nhanh. (Tối đa 10 từ)
+ Bạn có thê đánh dấu/ xóa dấu một từ bằng cách nhấn nút mark (nút cuối cùng) khi từ đang được hiển thị.
+LƯU Ý: Chương trình từ điển này không hỗ trợ tự động chuyển chế độ từ điển.
+Hãy đảm bảo bạn đang sử dụng đúng loại từ điển để thu được kết quả chính xác nhất.

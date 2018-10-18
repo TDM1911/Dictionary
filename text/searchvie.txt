@@ -1,1 +1,10 @@
-search: null Viet
+Cách tìm kiếm:
+ - Nhập từ cần tìm vào khung tìm kiếm.
+ - Bạn có thể chọn một trong các gợi ý tìm kiếm ở khung dưới
+ - Để chọn một gợi ý nhấn phím mũi tên. Để lấy từ ấn phím Enter.
+ - Có nhiều kiểu gợi ý bạn có thể tham khảo thêm ở trong mục Menubar help (hướng dẫn dùng Menubar).
+ - Sau khi hoàn thành, nhấn Enter để tìm từ. Từ sẽ xuất hiện trong ô hiển thì và nghĩa sẽ được ghi ở phía dưới trong khung meaning.
+ Các thành phần trong khung nghĩa của từ sẽ được đánh dấu mã màu khác biệt để dễ dàng tìm kiếm.
+GHI CHÚ: Bạn cần đảm bảo mình đang sử dụng đúng loại từ điển để thu được kết quả chính xác nhất.
+Bạn có thể kiểm tra bằng cách vào Option Menu/Dictioanry mode hoặc nhìn vào góc trên cùng bên phải.
+Bạn cũng có thể dùng phím tắt Ctrl+Enter để chuyển nhanh bộ từ điển thay vì vào Option Menu.

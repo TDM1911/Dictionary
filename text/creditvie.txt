@@ -1,0 +1,24 @@
+Đóng góp:
+
+- Thiết kế đồ họa : Trần Đào Mạnh.
+- Lập trình đồ họa : Trần Đào Mạnh.
+- Lập trình phần mềm : Trần Đào Mạnh/ Bùi Thị Kiều Trinh.
+- Tính năng phụ : Trần Đào Mạnh/ Bùi Thị Kiều Trinh.
+- Tester : Trần Đào Mạnh/ Bùi Thị Kiều Trinh.
+- Chỉnh sửa dữ liệu : Bùi Thị Kiều Trinh.
+- Soạn thảo trợ giúp : Bùi Thị Kiều Trinh.
+
+Nguồn:
+
+- Nguồn từ điển Việt-Anh : Paul Denisowski (www.denisowski.org)
+	http://blackberryvietnam.net
+
+- Nguồn từ điển Anh-Việt : http://shtooka.net (voice)
+	Java Speech API (voice)
+	http://blackberryvietnam.net
+
+- Phông chữ : MTO Jamai (by MTO team), Times New Roman.
+
+- Look & Feel: Synthetica Black Eye.
+
+- Cảm ơn vì đã sử dụng phần mềm từ điển Half-a-heart.

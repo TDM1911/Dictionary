@@ -1,1 +1,5 @@
-play Vie
+Phát âm từ: Nút phát âm được đặt ở bên cạnh nút xóa.
+ - Ấn nút phát âm để phát âm một từ bất kì (nếu có).
+GHI CHÚ: Bộ từ điển hiện chỉ có 7000+ từ phát âm tiếng Anh cơ bản thường gặp.
+Nhiều từ có thể chưa có phát âm.
+Trong tình huống đó sẽ xuất hiện thông báo "No audio file..." trên khung trạng thái.

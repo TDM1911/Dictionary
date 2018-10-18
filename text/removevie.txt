@@ -1,1 +1,5 @@
-remove Vie
+Xóa từ:
+ - Nút xóa được đặt bên cạnh nút sửa từ. (Nút thứ 2)
+ - Nhấn nút để xóa từ đang được hiển thị.
+ - Sau khi nhấn sẽ xuất hiện hộp thoại yêu cầu xác nhận xóa. Ấn 'Yes' để thực thi và 'No' để hủy hành động.
+ - Nhấn 'Save' hoặc Ctrl+S để lưu những thay đổi này vào từ điển.

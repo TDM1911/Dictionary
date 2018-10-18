@@ -1,0 +1,15 @@
+Thêm từ mới:
+ - Bước 1: Nhập từ bạn muốn chỉnh sửa. Bạn có thể xem các từ gợi ý ở khung bên dưới. (Xem chi tiết ở hướng dẫn tìm kiếm)
+ - Bước 2: Nhấn enter để tìm từ.
+ - Bước 3: Nếu từ bạn muốn sửa tồn tại, nghĩa của nó sẽ xuất hiện ở trên khung meaning.
+ - Bước 4: Nếu bạn thấy thông báo 'Word didn't exist in database...' trên khung trạng thái, nghĩa là từ bạn tìm không tồn tại và bạn phải thêm từ này vào cơ sở dữ liệu.
+ - Bước 5: Chỉnh sửa nghĩa của từ nếu tồn tại hoặc thêm nghĩa mới để thêm từ đó vào cơ sở dữ liệu. 
+	+ Ấn nút đầu tiên bên cạnh khung hiện từ để bắt đầu thêm/sửa. 
+	Khung sẽ được chuyển từ trạng thái tô màu sang cơ bản để dễ dàng chỉnh sửa.
+	Tùy vào tiền tố của mỗi dòng, dòng đó sẽ được tô màu khác biệt:
+	[ : phát âm (đỏ)
+	* : từ loại (xanh)
+	-/khác : nghĩa (tùy chế độ hiển thị)
+	= : ví dụ (tùy chế độ hiển thị)
+	+ Ấn lại nút để lưu thay đổi cho từ điển.
+	+ LƯU Ý: VIỆC LƯU TRỮ CHỈ LÀ TẠM THỜI, ĐỂ LƯU TRỮ VĨNH CỬU VÀO CƠ SỞ DỮ LIỆU BẠN CẦN LƯU NHỮNG THAY ĐỔI BẰNG CÁCH NHẤN CTRL+S HOẶC CHỌN 'SAVE' TRONG MENU DICTIONARY.

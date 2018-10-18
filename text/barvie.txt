@@ -1,1 +1,16 @@
-Menu Vie
+Thanh Menubar bao gồm tất cả các menu hỗ trợ người sử dụng:
+ - Distionary: 
+	+ Save (Ctrl+S): lưu trạng thái hiện tại của từ điển nếu có thay đổi hoặc xóa bớt từ.
+	+ Exit: thoát chương trình. Nếu có thay đổi trong từ điển, sẽ xuất hiện một cửa sổ yêu cầu bạn xác nhận lưu những thay đổi trước thoát.
+ - Options gồm: 
+	+ Display: chọn theme cho từ điển phù hợp với bạn.
+	+ Dictionary type (Ctrl+Enter): chọn loại từ điển. Người dùng có thể nhìn vào góc trên bên phải của từ điển để biết mình đang sử dụng từ điển Việt-Anh hay Anh-Việt.
+	+ Suggestion mode: lựa chọn cách gợi ý:
+		Start with …: bắt đầu với tiền tố nào đó.
+		Have …: tìm từ có chứa thành phần đó.
+		No suggestion: tắt gợi ý.
+ - Help: 
+	+ How to use: hướng dẫn sử dụng.
+	+ Credit: đóng góp của từng thành viên và trích dẫn nguồn các tài nguyên.
+	+ About Half-a-heart dictionary: giới thiệu về từ điển.
+	+ Contact us: địa chỉ để người dùng gửi phản hồi nếu gặp phải lỗi trong khi sử dụng ứng dụng này.
