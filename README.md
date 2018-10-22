@@ -14,4 +14,4 @@ Sources:
 
 - Extra Look & Feel: Synthetica Black Eye.
 
-Comming soon: commandline->graphic ver
+Latest ver: v2.0 graphic ver
